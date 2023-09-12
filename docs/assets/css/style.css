@@ -1,0 +1,138 @@
+       :root {
+          --color-bg: #FCFCFC;
+          --color-txt-2: #ACACAC;
+          --color-txt-1: #262626;
+          --black: #000000;
+          --white: #FFFFFF
+      }
+      
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
+      
+      body {
+          margin: 0;
+          font-family: "Poppins", sans-serif;
+      }
+      /* SIDEBAR */
+      
+      .sidebar {
+          margin: 0;
+          padding: 0;
+          width: 250px;
+          background-color: var(--color-bg);
+          position: fixed;
+          height: 100%;
+          overflow: auto;
+      }
+      
+      .sidebar a {
+          display: block;
+          color: var(--black);
+          padding: 10px;
+          font-size: 16px;
+          text-decoration: none;
+      }
+      
+      .sidebar a.active {
+          background-color: #04AA6D;
+          color: var(--white);
+      }
+      
+      .sidebar a:hover:not(.active) {
+          background-color: var(--color-txt-1);
+          color: var(--white);
+      }
+      
+      div.content {
+          margin-top: 55px;
+          margin-left: 250px;
+      }
+      
+      .content-body {
+          padding: 20px;
+      }
+      
+      @media screen and (max-width: 700px) {
+          .sidebar {
+              width: 100%;
+              height: auto;
+              position: relative;
+          }
+          .sidebar a {
+              float: left;
+          }
+          div.content {
+              margin-left: 0;
+          }
+      }
+      
+      @media screen and (max-width: 400px) {
+          .sidebar a {
+              text-align: center;
+              float: none;
+          }
+      }
+      /* FIM -> SIDEBAR */
+      /* NAV BAR */
+      
+      .navbar-squad4 {
+          background: var(--color-bg);
+          position: fixed;
+      }
+      
+      .navbar-squad4 .navbar-toggler {
+          color: var(--color-txt-1);
+          border: none;
+      }
+      
+      .navbar-squad4 .navbar-nav .nav-link {
+          color: var(--color-txt-1)!important;
+      }
+      
+      .navbar-squad4 a {
+          text-decoration: none;
+          color: var(--black);
+      }
+      
+      .dropdown-menu {
+          /* box-shadow: 0px 0px 3px 1px #111; */
+          background-color: var(--color-bg)!important;
+      }
+      
+      .dropdown-item {
+          color: var(--color-txt-1)!important
+      }
+      
+      .dropdown-item:focus,
+      .dropdown-item:hover {
+          color: #16181b;
+          text-decoration: none;
+          background-color: var(--color-txt-2)!important;
+          transition: .4s;
+      }
+      /*FIM -> NAV BAR*/
+      /*FOOTER*/
+      
+      .squad04-footer {
+          background: var(--color-txt-1)!important;
+          color: var(--white);
+          backdrop-filter: blur(5px);
+          padding: 5px;
+      }
+      
+      .footer-brand img {
+          width: 100%;
+      }
+      
+      .footer-brand {
+          text-decoration: none;
+          color: var(--white);
+      }
+      
+      .footer-brand:hover {
+          text-decoration: none;
+          color: var(--white);
+      }
