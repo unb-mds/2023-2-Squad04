@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-<!-- * [Guide](guide.md) -->
+<!-- * [Teste](teste.md "The greatest guide in the world") -->
