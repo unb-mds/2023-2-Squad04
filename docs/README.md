@@ -1,3 +1,6 @@
+<div class="doc-body">
+<!-- ADD O CONTEÚDO ABAIXO -->
+
 # Descrição do projeto
 
 # Integrantes
@@ -19,3 +22,6 @@
 |Arquitetos| Danilo e Victor|
 |Product Owner|Carlos|
 |Desenvolvedores|Fernando, Rayene e Patrícia|
+
+<!-- ADD O CONTEÚDO ACIMA -->
+</div>
