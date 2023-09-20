@@ -539,7 +539,7 @@ body.close .content {
         left: 0;
         max-width: 100vw;
         position: static;
-        padding-top: 20px;
+        /* padding-top: 20px; */
         transition: transform 250ms ease;
     }
     .app-nav,
