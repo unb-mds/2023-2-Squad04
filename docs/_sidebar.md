@@ -8,5 +8,6 @@
 
   - **Sprint 01 (13/09 - 20/09/23)**
     - [Requisitos funcionais e não funcionais](/sprints/sprint-01/requisitos-funcionais-e-nao-funcionais.md "Sprint-01 - Requisitos funcionais e não funcionais")
+    - [Práticas DevOps](/sprints/sprint-01/praticas-devops.md "Sprint-01 - Práticas DevOps")
 
   - **Sprint 02 (20/09 - 27/09/23)**
