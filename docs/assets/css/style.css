@@ -726,6 +726,7 @@ body {
 
 .sidebar li {
     margin: 0px;
+    font-family: Helvetica, sans-serif;
 }
 
 .sidebar ul li a {
@@ -739,7 +740,9 @@ body {
 }
 
 .sidebar ul li a:hover {
-    text-decoration: underline;
+    transition: .4s;
+    /* text-decoration: underline; */
+    color: #42b983;
 }
 
 .sidebar ul li ul {
