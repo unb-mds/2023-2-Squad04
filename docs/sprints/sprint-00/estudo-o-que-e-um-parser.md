@@ -49,9 +49,3 @@ def parse_csv(arquivo):
 
 if __name__ == "__main__":
     parse_csv(arquivo_csv)
-
-
-
-
-<!-- ADD O CONTEÚDO ACIMA -->
-</div>
