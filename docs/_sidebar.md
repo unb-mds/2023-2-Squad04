@@ -18,3 +18,4 @@
     - [Retrospectiva e Análise Sprint-01](/sprints/sprint-01/retrospectiva-e-analise-sprint-01.md "Sprint-01 - Retrospectiva e Análise SPRINT-01")
 
   - **Sprint 02 (20/09 - 27/09/23)**
+    - [Estudo do Projeto "Querido Diário" da Open Knowledge Brasil](/sprints/sprint-02/estudo-sobre-o-projeto-querido-diario.md "Estudo do Projeto Querido Diário da Open Knowledge Brasil")
