@@ -769,7 +769,7 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-    color: #2c3e50;
+    color: #42b983;
     font-weight: 600;
 }
 
@@ -827,7 +827,7 @@ body {
 .markdown-section blockquote {
     border-left: 4px solid #42b983;
     border-left: 4px solid var(--theme-color, #42b983);
-    color: #858585;
+    color: #ccc;
     margin: 2em 0;
     padding-left: 20px;
 }
@@ -853,7 +853,7 @@ body {
 
 .markdown-section code,
 .markdown-section pre {
-    background-color: #222;
+    background-color: #0c0e14;
     border-radius: 10px;
 }
 
@@ -877,7 +877,7 @@ body {
 
 .markdown-section code {
     border-radius: 2px;
-    color: #e96900;
+    color: #dec07b;
     margin: 0 2px;
     padding: 3px 5px;
     white-space: pre-wrap;
@@ -895,7 +895,7 @@ body {
 }
 
 .markdown-section pre>code {
-    color: #525252;
+    color: #c6424d;
     font-size: 0.8rem;
     padding: 2.2em 5px;
     line-height: inherit;
