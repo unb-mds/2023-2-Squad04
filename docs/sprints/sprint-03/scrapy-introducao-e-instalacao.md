@@ -95,7 +95,7 @@ Como você pode ver, nossa Spider é uma subclasse de scrapy.Spider e define alg
 
 - **parse():** um método que será chamado para lidar com a resposta baixada para cada uma das solicitações feitas. O parâmetro de resposta é uma instância de TextResponse que contém o conteúdo da página e possui métodos adicionais úteis para lidar com ele.
 
-- O método **parse()** geralmente analisa a resposta, extrai os dados raspados como dicionários e também encontra novas URLs para seguir, criando novas solicitações () a partir delas.
+- O método **parse()** geralmente analisa a resposta, extrai os dados raspados como dicionários e também encontra novas URLs para seguir, criando novas solicitações a partir delas.
 
 #### Como executar nossa spyder 💻
 Para colocar nossa spider para trabalhar, vá para o diretório de nível superior do projeto e execute:<br>
