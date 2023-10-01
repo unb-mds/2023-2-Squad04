@@ -19,3 +19,8 @@
 
   - **Sprint 02 (20/09 - 27/09/23)**
     - [Estudo do Projeto "Querido Diário" da Open Knowledge Brasil](/sprints/sprint-02/estudo-sobre-o-projeto-querido-diario.md "Estudo do Projeto Querido Diário da Open Knowledge Brasil")
+  
+  - **Sprint 03 (27/09 - 04/10/23)**
+    - [Introdução ao Scrapy e tutorias de instalação](/sprints/sprint-03/scrapy-introducao-e-instalacao.md "Introdução ao Scrapy e tutorias de instalação")
+
+  - **Sprint 04 (04/10 - 11/10/23)**
