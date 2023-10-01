@@ -169,7 +169,7 @@ class QuotesSpider(scrapy.Spider):
             yield response.follow(next_page, self.parse)
 
 ```
-Você pode armazenar os dados extraídos em um formato de sua escolha, como JSON, CSV ou em um banco de dados. Para salvar os dados em um arquivo JSON, você pode usar o seguinte comando: `scrapy crawl livros -o livros.json`
+Você pode armazenar os dados extraídos em um formato de sua escolha, como JSON, CSV ou em um banco de dados. Para salvar os dados em um arquivo JSON, você pode usar o seguinte comando: `scrapy crawl quotes -o quotes.json`
 
 # 🕵️ Para saber mais...
 Esse tutorial se baseou na documentação oficial do scrapy, se você quiser saber mais a fundo sobre todas as funcionalidades disponíveis da ferramenta, clique 👉 [aqui](https://docs.scrapy.org/en/latest/index.html) e acesse a documentação completa.
