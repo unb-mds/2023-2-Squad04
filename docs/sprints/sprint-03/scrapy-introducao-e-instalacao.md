@@ -11,7 +11,7 @@ O Scrapy é um framework de web scraping de código aberto em Python usado para 
 
 O Scrapy fornece uma estrutura robusta e flexível para desenvolver [spiders](#nossa-primeira-spyder-🕷️), que são programas que navegam na web, fazem solicitações HTTP para páginas da web, extraem dados de interesse e armazenam esses dados em um formato estruturado, como JSON, CSV ou em um banco de dados. Além disso, o Scrapy lida com tarefas como gerenciamento de cookies, tratamento de redirecionamentos, paralelismo de solicitações e muito mais.
 
-**Clique** 👉 [**aqui**](https://github.com/unb-mds/2023-2-Squad04/blob/main/prototipos/tutorial_spyder/) **e tenha acesso ao nosso prototipo**
+**Clique** 👉 [**aqui**](https://github.com/unb-mds/2023-2-Squad04/blob/main/prototipos/tutorial_spyder/) **e tenha acesso ao nosso protótipo**
 
 ## Instalação do Scrapy 👨‍🔧 
 Para começar a usar o Scrapy, siga estas etapas para a instalação: <br>
@@ -126,7 +126,7 @@ O Scrapy agendou os objetos retornados pelo método da Spider. Ao receber uma re
 #### Raspando apenas os dados e salvando em um .json 💾
 O código abaixo é um exemplo de uma spider que raspa dados das páginas, em vez de salvar o HTML como fazia a do exemplo anterior.
 
-**Clique** 👉 [**aqui**](https://github.com/unb-mds/2023-2-Squad04/blob/main/prototipos/tutorial_spyder/) **e tenha acesso ao nosso prototipo**
+**Clique** 👉 [**aqui**](https://github.com/unb-mds/2023-2-Squad04/blob/main/prototipos/tutorial_spyder/) **e tenha acesso ao nosso protótipo**
 
 ```
 import scrapy
