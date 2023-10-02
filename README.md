@@ -76,3 +76,7 @@ O projeto "Extrator de Licitações da Paraíba" é uma iniciativa destinada a a
     </td>
   </tr>
 </table>
+
+## 📝 Licença 
+
+The [MIT License](https://github.com/AndersonD-art/tasksmobx/commit/64a80024d73a84de3b5a21dfe15dad5fd4c10c7c) (MIT)
