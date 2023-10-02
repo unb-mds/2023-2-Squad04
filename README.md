@@ -9,6 +9,7 @@ O projeto "Extrator de Licitações da Paraíba" é uma iniciativa destinada a a
 
 <p align="center">
   <img src="https://www.estudopratico.com.br/wp-content/uploads/2018/06/bandeira-paraiba-1200x675.jpg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
+  <br>
   Bandeira da Paraíba
 </p>
 
