@@ -19,8 +19,12 @@
 
   - **Sprint 02 (20/09 - 27/09/23)**
     - [Estudo do Projeto "Querido Diário" da Open Knowledge Brasil](/sprints/sprint-02/estudo-sobre-o-projeto-querido-diario.md "Estudo do Projeto Querido Diário da Open Knowledge Brasil")
+    - [Extração de Dados](/sprints/sprint-02/extracao-dados.md "Extração de Dados")
+    - [Criação quadro Kanban](/sprints/sprint-02/quadro-kanban.md "Criação quadro Kanban")
   
   - **Sprint 03 (27/09 - 04/10/23)**
+    - [ATA REUNIÃO DIA 02/10](/sprints/sprint-03/ata-02-10.md "ATA REUNIÃO DIA 02/10")
     - [Introdução ao Scrapy e tutorias de instalação](/sprints/sprint-03/scrapy-introducao-e-instalacao.md "Introdução ao Scrapy e tutorias de instalação")
+    - [Definição Backlog do projeto](/sprints/sprint-03/definir-backlog-projeto.md "Definição Backlog do projeto")
 
   - **Sprint 04 (04/10 - 11/10/23)**
