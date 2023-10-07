@@ -1,3 +1,9 @@
+<header>
+    Sprint 04 - Titanic
+</header>
+<div class="doc-body">
+<!-- ADD O CONTEÚDO ABAIXO -->
+
 ### Requisitos Funcionais
 
 | Área | Requisito |
@@ -21,3 +27,6 @@
 | Processamento de dados |  |
 | Site | O site deve ser hospedado no Github |
 | Site | O site deve ser feito em HTML/CSS |
+
+<!-- ADD O CONTEÚDO ACIMA -->
+</div>

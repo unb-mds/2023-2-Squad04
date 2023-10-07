@@ -28,3 +28,4 @@
     - [Definição Backlog do projeto](/sprints/sprint-03/definir-backlog-projeto.md "Definição Backlog do projeto")
 
   - **Sprint 04 (04/10 - 11/10/23)**
+    - [Requisitos Funcionais](/sprints/sprint-04/requisitos.md "Requisitos Funcionais")

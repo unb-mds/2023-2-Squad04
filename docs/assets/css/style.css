@@ -50,14 +50,14 @@ header {
     margin-bottom: 20px;
     padding: 23px;
     color: #ffffff;
-    background: #42b983;
+    background: #22abfa;
     font-size: 30px!important;
     font-family: 'Poppins';
 }
 
 .progress {
-    background-color: #42b983;
-    background-color: var(--theme-color, #42b983);
+    background-color: #22abfa;
+    background-color: var(--theme-color, #22abfa);
     height: 2px;
     left: 0px;
     position: fixed;
@@ -69,13 +69,13 @@ header {
 }
 
 .search a:hover {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
 }
 
 .search .search-keyword {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
     font-style: normal;
     font-weight: bold;
 }
@@ -158,15 +158,15 @@ li input[type='checkbox'] {
 }
 
 .app-nav a:hover {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
 }
 
 .app-nav a.active {
-    border-bottom: 2px solid #42b983;
-    border-bottom: 2px solid var(--theme-color, #42b983);
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    border-bottom: 2px solid #22abfa;
+    border-bottom: 2px solid var(--theme-color, #22abfa);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
 }
 
 .app-nav li {
@@ -233,8 +233,8 @@ li input[type='checkbox'] {
 
 .github-corner svg {
     color: #fff;
-    fill: #42b983;
-    fill: var(--theme-color, #42b983);
+    fill: #22abfa;
+    fill: var(--theme-color, #22abfa);
     height: 80px;
     width: 80px;
 }
@@ -368,8 +368,8 @@ main.hidden {
 }
 
 .sidebar-toggle span {
-    background-color: #42b983;
-    background-color: var(--theme-color, #42b983);
+    background-color: #22abfa;
+    background-color: var(--theme-color, #22abfa);
     display: block;
     margin-bottom: 4px;
     width: 16px;
@@ -668,14 +668,14 @@ section.cover ul {
 }
 
 section.cover .cover-main>p:last-child a {
-    border-color: #42b983;
-    border-color: var(--theme-color, #42b983);
+    border-color: #22abfa;
+    border-color: var(--theme-color, #22abfa);
     border-radius: 2rem;
     border-style: solid;
     border-width: 1px;
     box-sizing: border-box;
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
     display: inline-block;
     font-size: 1.05rem;
     letter-spacing: 0.1rem;
@@ -686,8 +686,8 @@ section.cover .cover-main>p:last-child a {
 }
 
 section.cover .cover-main>p:last-child a:last-child {
-    background-color: #42b983;
-    background-color: var(--theme-color, #42b983);
+    background-color: #22abfa;
+    background-color: var(--theme-color, #22abfa);
     color: #fff;
 }
 
@@ -701,14 +701,14 @@ section.cover .cover-main>p:last-child a:hover {
 }
 
 section.cover blockquote>p>a {
-    border-bottom: 2px solid #42b983;
-    border-bottom: 2px solid var(--theme-color, #42b983);
+    border-bottom: 2px solid #22abfa;
+    border-bottom: 2px solid var(--theme-color, #22abfa);
     transition: color 0.3s;
 }
 
 section.cover blockquote>p>a:hover {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
 }
 
 body {
@@ -742,7 +742,7 @@ body {
 .sidebar ul li a:hover {
     transition: .4s;
     /* text-decoration: underline; */
-    color: #42b983;
+    color: #22abfa;
 }
 
 .sidebar ul li ul {
@@ -751,7 +751,7 @@ body {
 
 .sidebar ul li.active>a {
     border-right: 2px solid;
-    color: #42b983;
+    color: #22abfa;
     font-weight: 600;
 }
 
@@ -769,13 +769,13 @@ body {
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-    color: #42b983;
+    color: #22abfa;
     font-weight: 600;
 }
 
 .markdown-section a {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
     font-weight: 600;
 }
 
@@ -825,8 +825,8 @@ body {
 }
 
 .markdown-section blockquote {
-    border-left: 4px solid #42b983;
-    border-left: 4px solid var(--theme-color, #42b983);
+    border-left: 4px solid #22abfa;
+    border-left: 4px solid var(--theme-color, #22abfa);
     color: #ccc;
     margin: 2em 0;
     padding-left: 20px;
@@ -976,8 +976,8 @@ body {
 }
 
 .token.string {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
 }
 
 .token.selector {
@@ -999,8 +999,8 @@ body {
 .token.control,
 .token.directive,
 .token.unit {
-    color: #42b983;
-    color: var(--theme-color, #42b983);
+    color: #22abfa;
+    color: var(--theme-color, #22abfa);
 }
 
 .token.keyword,
