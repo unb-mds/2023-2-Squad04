@@ -8,9 +8,13 @@ assignees: ''
 ---
 
 # [Título da atividade]
-## Descrição
-[Descrição da atividade]
-## CheckList 
 
+**Descrição**
+
+[Descrição da atividade]
+
+**Tarefas** 
  - [ ] [item]
  - [ ] [item]
+
+**Participantes**
