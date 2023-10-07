@@ -2,11 +2,9 @@
 <!-- ADD O CONTEÚDO ABAIXO -->
 
 # Descrição do projeto
-### Extrator de licitações - Paraíba
-O projeto "Extrator de Licitações da Paraíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil. O objetivo principal é facilitar o acesso a oportunidades de negócios para empresas e empreendedores interessados em participar de processos de licitação governamental.
+### Licitaíba - Extrator de Licitações do Diário Oficial da Paraíba 
 
-  <img src="https://www.estudopratico.com.br/wp-content/uploads/2018/06/bandeira-paraiba-1200x675.jpg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
-  <p style="text-align:center">Bandeira da Paraíba<p>
+O projeto "Licitaíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil.
 
 # Integrantes
 
