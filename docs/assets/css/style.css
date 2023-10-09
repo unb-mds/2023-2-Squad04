@@ -49,6 +49,11 @@ span.emoji {
     width: 80%;
 }
 
+.logos {
+    width: 200px;
+    margin: 20px;
+}
+
 header {
     text-align: center;
     margin-bottom: 20px;

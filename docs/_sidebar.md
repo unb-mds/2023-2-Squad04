@@ -3,6 +3,8 @@
 
 - [**Home**](./)
 
+- [**Arquivos**](/arquivos/index.md "Arquivos")
+
 - **Sprints**
 
   - **Sprint 00 (06/09 - 13/09/23)**
