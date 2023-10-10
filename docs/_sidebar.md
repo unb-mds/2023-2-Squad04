@@ -29,6 +29,8 @@
     - [ATA REUNIÃO DIA 02/10](/sprints/sprint-03/ata-02-10.md "ATA REUNIÃO DIA 02/10")
     - [Introdução ao Scrapy e tutorias de instalação](/sprints/sprint-03/scrapy-introducao-e-instalacao.md "Introdução ao Scrapy e tutorias de instalação")
     - [Definição Backlog do projeto](/sprints/sprint-03/definir-backlog-projeto.md "Definição Backlog do projeto")
+    - [Documentação da Sprint 03- Maré de Profundidade  ](/sprints/sprint-03/documentacao-sprint-03.md "Documentação da Sprint 03- Maré de Profundidade ")
 
   - **Sprint 04 (04/10 - 11/10/23)**
     - [Requisitos Funcionais](/sprints/sprint-04/requisitos.md "Requisitos Funcionais")
+    - [Protótipo Licitaíba](/sprints/sprint-04/prototipo.md "Protótipo Licitaíba")
