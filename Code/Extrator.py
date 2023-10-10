@@ -1,5 +1,5 @@
 #Em caso de erro é necessário manipular o sleep, pois depende da velocidade da sua internet
-
+import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
@@ -8,7 +8,9 @@ from selenium.webdriver.common.actions.mouse_button import MouseButton
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-download_dir = "/" #coloque o caminho onde você deseja que o download seja feito
+diretorio_atual = os.path.dirname(os.path.abspath(__file__))
+
+download_dir = diretorio_atual + "/pdfs" #coloque o caminho onde você deseja que o download seja feito
 
 options = webdriver.ChromeOptions()
 
