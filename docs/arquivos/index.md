@@ -15,6 +15,9 @@
 Roadmap atual:
 <img src="arquivos/roadmap-sprints03a05.png">
 
+## Storymap
+<img src="arquivos/storyMap.jpeg">
+
 ## Logos
 Logos do projeto para aplicações em diferentes fundos:<br>
 <img class="logos" src="assets/imgs/logo-licitaiba.png">
