@@ -6,14 +6,6 @@
     --azul-excuro: #0136af;
 }
 
-.light-mode {
-    --preto-1a: #fcfcfc;
-    --branco-fff: #000000;
-    --cinza-f0: #22abfa;
-    --azul-claro: #0c94e3;
-    --azul-excuro: #22abfa;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -22,8 +14,8 @@
 
 body {
     margin: 0;
-    background: var(--preto-1a);
-    font-family: "Poppins"
+    background: var(--preto-1a)!important;
+    font-family: 'Roboto'
 }
 
 header {
@@ -42,14 +34,26 @@ header {
 }
 
 .home {
-    margin-top: 70px;
+    margin: 110px 0;
 }
 
-.licitaiba-home {
+.licitaiba-home-esquerda {
+    vertical-align: middle;
     display: inline-block;
-    width: 48vw;
+    width: 55vw;
     text-align: center;
     margin-top: 10vh;
+}
+
+.licitaiba-home-direita {
+    display: inline-block;
+    width: 40vw;
+    text-align: center;
+    margin: auto;
+    background: url(../imgs/shape.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .licitaiba-home-brand {
@@ -57,62 +61,32 @@ header {
     margin-left: 5vw;
 }
 
-.licitaiba-home h1 {
+.licitaiba-home-esquerda h1 {
     font-family: Poppins;
     margin: 10px 0;
     font-size: 20px;
 }
 
-.licitaiba-home button {
+.licitaiba-home-esquerda button {
     margin-top: 35px;
 }
 
-.licitaiba-home-img {
+.licitaiba-home-esquerda-img {
     margin: auto;
     width: 40vw;
 }
 
-.painel-container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-}
-
-.painel {
-    width: 500px;
-    background-color: var(--azul-excuro);
-    border-radius: 10px;
-    margin: 10px;
-    padding: 15px;
+.licitaiba-home-direita-img {
+    margin: auto;
+    width: 30vw;
 }
 
 .painel-header {
     color: #fff;
 }
 
-.painel-body {
-    padding: 5px;
-}
 
-#setup_button {
-    display: none;
-}
-
-.resultados-pesquisa {
-    cursor: pointer;
-    color: var(--branco-fff);
-    text-decoration: none;
-    padding: 2px 10px;
-    display: block;
-    margin: 0px;
-}
-
-.resultados-pesquisa:hover {
-    text-decoration: underline;
-    transition: .4s;
-    margin-left: 3px;
-}
+/* PESQUISA */
 
 .search-input {
     border-radius: 5px;
@@ -129,8 +103,8 @@ header {
 }
 
 .btn-outline-success {
-    color: #fff;
-    border-color: var(--branco-fff);
+    color: #fff!important;
+    border-color: var(--branco-fff)!important;
     background-color: transparent;
 }
 
@@ -138,6 +112,33 @@ header {
     color: #fff;
     border-color: var(--branco-fff);
     background-color: transparent;
+}
+
+.search-container {
+    display: flex;
+    margin-right: 40px;
+}
+
+.search-input {
+    flex: 1;
+}
+
+#search-button {
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin-left: -40px;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-clear-button {
+    display: none;
+}
+
+input::placeholder {
+    color: var(--cinza-f0)!important;
 }
 
 
@@ -160,7 +161,9 @@ header {
 
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(255, 255, 255, 1)!important;
-    padding: 0 40px;
+    padding: 0 40px!important;
+    font-weight: bolder;
+    font-family: 'Poppins';
 }
 
 .dropdown-menu {
@@ -184,21 +187,15 @@ header {
     height: 40px;
 }
 
-
-/*FIM -> NAV BAR*/
-
-footer {
-    display: block;
-    color: #fff;
-    text-align: center;
-}
-
 input {
     width: 150px;
     padding: 5px;
     border-radius: 10px;
     border: 1px solid var(--preto-1a);
-    ;
+}
+
+.form-control:focus {
+    color: var(--cinza-f0)!important;
 }
 
 .txt-white {
@@ -213,69 +210,16 @@ input {
     margin: 40px 5%;
 }
 
-col footer {
-    color: #fff;
-    text-align: center;
-    font-style: italic;
-    width: 100%;
-    bottom: 0;
-    position: absolute;
-}
-
-.leftinfo {
-    font-weight: 700;
-    color: #FFF;
-    text-align: center;
-}
-
-.leftinfo .bigtext {
-    font-size: 30px;
-    line-height: 40px;
-    color: #fff;
-}
-
-.leftinfo #counter {
-    font-size: 30px;
-    line-height: 35px;
-    font-weight: 200;
-    color: #fff;
-}
-
-@media(min-width: 800px) {
-    .submit-line {
-        width: 50vw;
-    }
-}
-
-@media(max-width: 800px) {
-    header {
-        padding: 20px;
-    }
-    .txt-header {
-        font-size: 25px;
-        margin-left: 0%;
-    }
-    .painel {
-        width: 400px;
-    }
-    #setup_button {
-        margin-top: 10px;
-    }
-    .submit-line {
-        /* width: 300px; */
-        width: 100vw;
-    }
-}
-
 
 /*btn*/
 
 .btn-primary {
     color: #fff;
     background-color: transparent!important;
-    border-color: var(--branco-fff)!important;
+    border: solid 2px var(--branco-fff)!important;
     padding: 8px;
     border-radius: 10px!important;
+    font-family: 'Roboto'!important;
 }
 
 .btn-primary:hover {
@@ -308,40 +252,6 @@ col footer {
 }
 
 
-/* btn calcular */
-
-.btn-primary {
-    color: #fff;
-    background-color: var(--azul-claro);
-    border-color: var(--azul-claro);
-    border-radius: 20px;
-}
-
-.btn-primary:hover {
-    color: #fff;
-    background-color: #0079cf;
-    border-color: var(--azul-claro);
-    transform: scale(1.1);
-    transition: .3s;
-}
-
-.btn-primary:hover {
-    color: #fff;
-    background-color: #0079cf;
-    border-color: var(--azul-claro);
-    transform: scale(1.1);
-    transition: .3s;
-}
-
-.btn-primary:hover {
-    color: #fff;
-    background-color: #0079cf;
-    border-color: var(--azul-claro);
-    transform: scale(1.1);
-    transition: .3s;
-}
-
-
 /*FOOTER*/
 
 .licitaiba-footer {
@@ -353,4 +263,34 @@ col footer {
 
 .footer-brand img {
     width: 100%;
+}
+
+col footer {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+
+footer {
+    display: block;
+    color: #fff;
+    text-align: center;
+}
+
+
+/* OUTROS TAMANHOS DE TELA */
+
+@media(min-width: 800px) {}
+
+@media(max-width: 800px) {
+    header {
+        padding: 20px;
+    }
+    .txt-header {
+        font-size: 25px;
+        margin-left: 0%;
+    }
 }
