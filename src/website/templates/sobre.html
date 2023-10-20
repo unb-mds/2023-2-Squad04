@@ -1,0 +1,114 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    {% include 'head.html' %}
+    <meta name="description" content="Licitaíba é uma ferramenta que tem o objetivo de simplificar e automatizar o processo de extração de dados de licitações publicadas no Diário Oficial do Estado da Paraíba.">
+    <meta name="author" content="Licitaíba">
+    <link rel="alternate" href="" hreflang="pt-br" />
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="{% static 'imgs/icon-licitaiba.png' %}" />
+    <link rel="canonical" href="" />
+    <meta property="og:type" content="website" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" sizes="512x512" href="{% static 'imgs/icon-licitaiba.png' %}">
+    <title>Sobre :: Licitaíba - Extrator de Licitações do Diário Oficial da Paraíba</title>
+
+    <style>
+        .txt-header {
+            text-align: center; 
+            font-size: 50px;
+            margin: 0;
+        }
+        .subtopico{
+            font-family:'poppins';
+            font-size: 40px;
+            text-align: center;
+            padding: 30px;
+        }
+        .txt-center{
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    {% include 'menu.html' %}
+
+    <header>
+        <p class=" txt-header ">Sobre</p>
+    </header>
+    <section >
+        <p class="txt-body" style="color: #fff; margin: 0 25vw 50px 25vw;;
+        text-align: center;">Licitaíba é uma inovadora ferramenta desenvolvida como parte do
+        curso de Métodos de Desenvolvimento de Software, com o objetivo
+        de simplificar e automatizar o processo de extração de dados de
+        licitações publicadas no Diário Oficial do Estado da Paraíba. Este
+        projeto surge como uma solução eficaz para profissionais,
+        empresas e órgãos públicos que necessitam acompanhar
+        licitações de maneira eficiente e oportuna.</p>
+    </section>
+    <section style="padding:30px"; class="funcionalidades"> 
+        <h2 class="subtopico"> Funcionalidades</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div class="funcionalidades-div">
+                        <div class="media">
+                            <div class="media-body">
+                                <h5 class="mt-0 mb-1 txt-center">Extração Automatizada</h5>
+                                <p> Licitaíba utiliza algoritmos
+                                    avançados para extrair
+                                    automaticamente
+                                    informações detalhadas de
+                                    licitações, eliminando a
+                                    necessidade de busca
+                                    manual.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="funcionalidades-div">
+                        <div class="media">
+                            <div class="media-body">
+                                <h5 class="mt-0 mb-1 txt-center">Acesso Centralizado</h5>
+                                <p> Todas as informações são
+                                    centralizadas em uma
+                                    interface fácil de usar,
+                                    permitindo acesso rápido e
+                                    conveniente aos dados
+                                    extraídos.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="funcionalidades-div">
+                        <div class="media">
+                            <div class="media-body">
+                                <h5 class="mt-0 mb-1 txt-center">Filtragem</h5>
+                                <p>Licitaíba oferece
+                                    recursos de filtragem,
+                                    permitindo aos usuários
+                                    refinar os resultados com
+                                    base em critérios
+                                    específicos, como valor
+                                    da licitação, data limite, e
+                                    nome da empresa.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+        
+    </section>
+    {% include 'footer.html' %}
+</body>
+
+</html>
