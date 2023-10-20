@@ -85,7 +85,7 @@ header {
     color: #fff;
 }
 
-.equipe {
+.equipe, .funcionalidades {
     background: var(--branco-fff);
 }
 
@@ -231,6 +231,17 @@ input {
     padding: 15px;
     border-radius: 10px;
     border: 1px solid #22abfa;
+    margin: 10px auto;
+    max-width: 330px;
+    text-align: center;
+}
+
+.funcionalidades-div {
+    background: var(--preto-1a);
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #000000;
     margin: 10px auto;
     max-width: 330px;
     text-align: center;

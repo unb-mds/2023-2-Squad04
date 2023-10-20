@@ -24,6 +24,8 @@ urlpatterns = [
     path('', views.home, name='home'),
     path('home', views.home, name='home'),
     path('equipe', views.equipe, name='equipe'),
+    path('sobre', views.sobre, name='sobre'),
+    
 ]
 
 if settings.DEBUG:
