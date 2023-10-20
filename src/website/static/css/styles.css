@@ -306,8 +306,7 @@ input {
 
 .btn-2:hover {
     color: var(--branco-fff)!important;
-    transition: .2s;
-    transform: scale(1.1);
+    transition: .4s;
     background: linear-gradient(45deg, #0136af, #22abfa);
 }
 
