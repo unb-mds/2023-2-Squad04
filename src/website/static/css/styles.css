@@ -85,7 +85,7 @@ header {
     color: #fff;
 }
 
-.equipe {
+.equipe, .funcionalidades {
     background: var(--branco-fff);
 }
 
@@ -236,6 +236,17 @@ input {
     text-align: center;
 }
 
+.funcionalidades-div {
+    background: var(--preto-1a);
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    margin: 10px auto;
+    max-width: 330px;
+    text-align: center;
+}
+
 .time-img-membro {
     width: 80px;
     border-radius: 10px;
@@ -306,7 +317,8 @@ input {
 
 .btn-2:hover {
     color: var(--branco-fff)!important;
-    transition: .4s;
+    transition: .2s;
+    transform: scale(1.1);
     background: linear-gradient(45deg, #0136af, #22abfa);
 }
 

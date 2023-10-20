@@ -5,3 +5,6 @@ def home(request):
 
 def equipe(request):
     return render(request, 'equipe.html')
+
+def sobre(request):
+    return render(request, 'sobre.html')
