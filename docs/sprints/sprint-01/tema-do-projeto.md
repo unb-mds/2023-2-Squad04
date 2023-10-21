@@ -69,7 +69,7 @@ Para esse aplicativo funcionar ele necessitará de um sistema de armazenamento e
 |O usuário deve ser notificado das monitorias em andamento|
 
 
- # Os temas não foram aceitos, então o tema do projeto vai ser a coleta e processamento de dados do diário oficial do estado de Sergipe. 
+ ### Os temas propostos não foram aceitos,portanto, o tema do projeto vai ser sobre um extrator de licitações do diário oficial do estado da Paraíba. 
 
 <!-- ADD O CONTEÚDO ACIMA -->
 </div>

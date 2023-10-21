@@ -34,3 +34,4 @@
   - **Sprint 04 (04/10 - 11/10/23)**
     - [Requisitos Funcionais](/sprints/sprint-04/requisitos.md "Requisitos Funcionais")
     - [Protótipo Licitaíba](/sprints/sprint-04/prototipo.md "Protótipo Licitaíba")
+    - [Restrospectiva Sprint 04](/sprints/sprint-04/retrospectiva-sprint-04.md "Retrospectiva Sprint 04")

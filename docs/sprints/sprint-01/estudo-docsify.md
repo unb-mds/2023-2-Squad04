@@ -32,11 +32,11 @@
 
 1. **Certifique-se de ter o Node.js e o npm instalados**: [nodejs.org](https://nodejs.org/).
 
-2. **Crie um diretório 
+2. **Crie um diretório** 
   `mkdir meu-projeto-de-documentacao`
    `cd meu-projeto-de-documentacao`
 
-3. **Inicialize seu projeto Node.js **
+3. **Inicialize seu projeto Node.js**
     `npm init -y`
 
 4. **Instale o Docsify globalmente**

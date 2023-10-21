@@ -16,16 +16,15 @@ Parser de Linguagem de Marcação: Este tipo de parser é usado para analisar li
 
 Resumindo, um parser desempenha um papel importante na interpretação e manipulação de texto estruturado, tornando-o acessível para processamento por programas de computador. Ele é essencial em muitos domínios da computação e da ciência da computação, desde a análise de código fonte até a análise de documentos e comunicação em redes.
 
-Referências:
-1:https://www.techtarget.com/searchapparchitecture/definition/parser
-2:https://time.cumbuca.com/parsers-n%C3%A3o-tenha-medo-deles-ee104cb27e05
-3:https://johnidm.gitbooks.io/compiladores-para-humanos/content/part1/syntax-analysis.html
-4:https://www.ic.unicamp.br/~celio/inf533/docs/markup.html
+Referências: <br>
+https://www.techtarget.com/searchapparchitecture/definition/parser <br>
+https://time.cumbuca.com/parsers-n%C3%A3o-tenha-medo-deles-ee104cb27e05 <br>
+https://johnidm.gitbooks.io/compiladores-para-humanos/content/part1/syntax-analysis.html <br>
+https://www.ic.unicamp.br/~celio/inf533/docs/markup.html <br>
 
-Gostei muito desses tutoriais:
-
-1:https://youtu.be/xYQt8fyXSp0?si=Z1qJkt7FWgb1o3nK
-2:https://youtu.be/CZcU40CcWf8?si=CyVs0P4PWrIKR-8Q
+Alguns tutoriais:<br>
+https://youtu.be/xYQt8fyXSp0?si=Z1qJkt7FWgb1o3nK <br>
+https://youtu.be/CZcU40CcWf8?si=CyVs0P4PWrIKR-8Q <br>
 
 
 Aqui está um exemplo de um código Python usando parser
