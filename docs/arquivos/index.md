@@ -4,6 +4,8 @@
 <div class="doc-body">
 <!-- ADD O CONTEÚDO ABAIXO -->
 
+## Arquitetura
+Clique 👉<a href="arquivos/Arquitetura.pdf" target="_blank">**aqui**</a> para ter acesso ao documento de arquitetura do projeto.
 
 ## Roadmap
 
@@ -11,8 +13,9 @@
 |---|---|
 |Sprint 00, 01 e 02|Não disponível|
 |Sprint 03, 04 e 05|<a href="arquivos/roadmap-sprints03a05.pdf" target="_blank">**Clique aqui**</a>|
+|Sprint 06, 07 e 08| Será planejado após a 1ª release|
 
-Roadmap atual:
+Último roadmap:
 <img src="arquivos/roadmap-sprints03a05.png">
 
 ## Storymap
