@@ -49,7 +49,7 @@ Na retrospectiva da sprint, a equipe identificou os seguintes pontos fortes e á
 ## Critérios de Aceitação: 
 Issue [#15](https://github.com/unb-mds/2023-2-Squad04/issues/15) será considerada concluída quando [@rayenealmeida](https://github.com/rayenealmeida) presentar um resumo claro sobre o kanban. 
 
-Issue [#17](https://github.com/unb-mds/2023-2-Squad04/issues/17) será considerada concluída quando @DaniloCMT desenvolvi um script utilizando esta biblioteca para facilitar o processo de download. 
+Issue [#17](https://github.com/unb-mds/2023-2-Squad04/issues/17) será considerada concluída quando [@DaniloCMT](https://github.com/DaniloCMT) desenvolvi um script utilizando esta biblioteca para facilitar o processo de download. 
 
 Issue [#18](https://github.com/unb-mds/2023-2-Squad04/issues/18) será considerada concluída quando [@Carlos-kadu](https://github.com/Carlos-kadu) fizer um estudo aprofundado sobre o Querido Diário. 
 

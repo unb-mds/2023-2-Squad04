@@ -51,9 +51,9 @@ Na retrospectiva da sprint, a equipe identificou os seguintes pontos fortes e á
 - Garantir que as tarefas estejam alinhadas com os objetivos da sprint. 
 
 ## Critérios de Aceitação: 
-Issue [#51](https://github.com/unb-mds/2023-2-Squad04/issues/51) será considerada concluída quando @DaniloCMT fizer o documento de arquitetura e estiver pronto e revisado pela equipe. 
+Issue [#51](https://github.com/unb-mds/2023-2-Squad04/issues/51) será considerada concluída quando [@DaniloCMT](https://github.com/DaniloCMT) fizer o documento de arquitetura e estiver pronto e revisado pela equipe. 
 
-Issue [#57](https://github.com/unb-mds/2023-2-Squad04/issues/57) será considerada concluída quando @[Carlos-kadu](https://github.com/unb-mds/2023-2-Squad04/issues?q=is%3Apr+author%3ACarlos-kadu) fizer a estrutura base do site estiver definida e pronta para uso. 
+Issue [#57](https://github.com/unb-mds/2023-2-Squad04/issues/57) será considerada concluída quando [@Carlos-kadu](https://github.com/unb-mds/2023-2-Squad04/issues?q=is%3Apr+author%3ACarlos-kadu) fizer a estrutura base do site estiver definida e pronta para uso. 
 
 Issue [#59](https://github.com/unb-mds/2023-2-Squad04/issues/59) será considerada concluída quando [@Carlos-kadu](https://github.com/Carlos-kadu) configurar o site e implementar o site com sucesso usando o Django. 
 
@@ -61,9 +61,9 @@ Issue [#48](https://github.com/unb-mds/2023-2-Squad04/issues/48) será considera
 
 Issue [#61](https://github.com/unb-mds/2023-2-Squad04/issues/61) será considerada concluída quando [@Julio1099](https://github.com/Julio1099) e [@show-dawn](https://github.com/show-dawn) conseguirem separar os dados por municípios de acordo com as especificações. 
 
-Issue [#62](https://github.com/unb-mds/2023-2-Squad04/issues/62) será considerada concluída quando @DaniloCMT fizer o segundo documento de arquitetura estiver pronto e revisado. 
+Issue [#62](https://github.com/unb-mds/2023-2-Squad04/issues/62) será considerada concluída quando [@DaniloCMT](https://github.com/DaniloCMT) fizer o segundo documento de arquitetura estiver pronto e revisado. 
 
-Issue [#55](https://github.com/unb-mds/2023-2-Squad04/issues/55) será considerada concluída quando @[rayenealmeida](https://github.com/unb-mds/2023-2-Squad04/issues?q=is%3Aissue+author%3Arayenealmeida) fizer a página "Sobre"  e estiver desenvolvida e funcional. 
+Issue [#55](https://github.com/unb-mds/2023-2-Squad04/issues/55) será considerada concluída quando [@rayenealmeida](https://github.com/unb-mds/2023-2-Squad04/issues?q=is%3Aissue+author%3Arayenealmeida) fizer a página "Sobre"  e estiver desenvolvida e funcional. 
 
 Issue [#65](https://github.com/unb-mds/2023-2-Squad04/issues/65) será considerada concluída quando [@rayenealmeida](https://github.com/rayenealmeida) terminar as adições à página "Sobre" estiverem completas e revisadas. 
 
