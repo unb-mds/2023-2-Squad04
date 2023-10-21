@@ -71,17 +71,17 @@ Na retrospectiva da sprint, a equipe identificou os seguintes pontos fortes e á
 
 ## Critérios de Aceitação: 
 
-Issue [#23](https://github.com/unb-mds/2023-2-Squad04/issues/23) será considerada concluída quando o grupo d[efinir quais são os dados que estamos interessados em extrair dos diários.](https://github.com/unb-mds/2023-2-Squad04/issues/23) 
+Issue [#23](https://github.com/unb-mds/2023-2-Squad04/issues/23) será considerada concluída quando o grupo [definir quais são os dados que estamos interessados em extrair dos diários.](https://github.com/unb-mds/2023-2-Squad04/issues/23) 
 
-Issue [#24](https://github.com/unb-mds/2023-2-Squad04/issues/24) será considerada concluída quando @carlos-kadu fornecer uma introdução ao Scrapy. 
+Issue [#24](https://github.com/unb-mds/2023-2-Squad04/issues/24) será considerada concluída quando [@Carlos-kadu](https://github.com/Carlos-kadu) fornecer uma introdução ao Scrapy. 
 
-Issue [#25](https://github.com/unb-mds/2023-2-Squad04/issues/25) será considerada concluída quando @DaniloCMT definido os próximos passos para obtermos um produto até a data da primeira entrega. 
+Issue [#25](https://github.com/unb-mds/2023-2-Squad04/issues/25) será considerada concluída quando [@DaniloCMT](https://github.com/DaniloCMT) definido os próximos passos para obtermos um produto até a data da primeira entrega. 
 
 Issue [#26](https://github.com/unb-mds/2023-2-Squad04/issues/26) será considerada concluída quando [@rayenealmeida](https://github.com/rayenealmeida) apresentar o projeto e apresentar as principais informações. 
 
 Issue [#29](https://github.com/unb-mds/2023-2-Squad04/issues/29) será considerada concluída quando [@show-dawn](https://github.com/show-dawn) escolher o melhor formato para substituir o pdf. 
 
-Issue [#30](https://github.com/unb-mds/2023-2-Squad04/issues/30) será considerada concluída quando @Juliio1099 Mostrar um padrão entre as licitações. 
+Issue [#30](https://github.com/unb-mds/2023-2-Squad04/issues/30) será considerada concluída quando [@Julio1099](https://github.com/Julio1099) Mostrar um padrão entre as licitações. 
 
 Issue [#32](https://github.com/unb-mds/2023-2-Squad04/issues/32) será considerada concluída quando [@patyhelenaa](https://github.com/patyhelenaa) documentar no Git Pages as issues da Sprint 
 
