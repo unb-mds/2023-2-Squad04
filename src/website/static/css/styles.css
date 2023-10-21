@@ -1,389 +1,403 @@
-     :root {
-        --preto-1a: #1a1a1a;
-        --branco-fff: #ffffff;
-        --cinza-f0: #f0f0f0;
-        --azul-claro: #22abfa;
-        --azul-escuro: #0136af;
-    }
-    
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
-    
-    body {
-        margin: 0;
-        background: var(--preto-1a)!important;
-        font-family: 'Roboto'
-    }
-    
-    header {
-        margin-top: 66px;
-        text-align: center;
-        margin-bottom: -16px;
-        color: #fff;
-        background: var(--preto-1a);
-        /*background: linear-gradient(45deg, rgba(34, 171, 250, 1) 0%, rgba(1, 54, 175, 1) 23%, rgba(26, 26, 26, 1) 78%);*/
-    }
-    
-    .txt-header {
-        font-size: 45px;
-        text-align: left;
-        margin-left: 8%;
-        font-family: 'Poppins';
-        padding: 20px;
-    }
-    
-    .home {
-        margin: 110px 0;
-    }
-    
-    .licitaiba-home-esquerda {
-        vertical-align: middle;
-        display: inline-block;
-        width: 55vw;
-        text-align: center;
+:root {
+    --preto-1a: #1a1a1a;
+    --branco-fff: #ffffff;
+    --cinza-f0: #f0f0f0;
+    --azul-claro: #22abfa;
+    --azul-escuro: #0136af;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: var(--preto-1a)!important;
+    font-family: 'Roboto'
+}
+
+header {
+    margin-top: 66px;
+    text-align: center;
+    margin-bottom: -16px;
+    color: #fff;
+    background: var(--preto-1a);
+    /*background: linear-gradient(45deg, rgba(34, 171, 250, 1) 0%, rgba(1, 54, 175, 1) 23%, rgba(26, 26, 26, 1) 78%);*/
+}
+
+.txt-header {
+    font-size: 45px;
+    text-align: left;
+    margin-left: 8%;
+    font-family: 'Poppins';
+    padding: 20px;
+}
+
+.home {
+    margin: 110px 0;
+}
+
+.licitaiba-home-esquerda {
+    vertical-align: middle;
+    display: inline-block;
+    width: 55vw;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.licitaiba-home-direita {
+    display: inline-block;
+    width: 40vw;
+    text-align: center;
+    margin: auto;
+    background: url(../imgs/shape.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.licitaiba-home-brand {
+    text-align: left;
+    margin-left: 5vw;
+}
+
+.licitaiba-home-esquerda h1 {
+    font-family: Poppins;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.licitaiba-home-esquerda button {
+    margin-top: 35px;
+}
+
+.licitaiba-home-esquerda-img {
+    margin: auto;
+    width: 40vw;
+}
+
+.licitaiba-home-direita-img {
+    margin: auto;
+    width: 30vw;
+}
+
+.painel-header {
+    color: #fff;
+}
+
+.equipe,
+.funcionalidades {
+    background: var(--branco-fff);
+}
+
+
+/* PESQUISA */
+
+.search-input {
+    border-radius: 5px;
+    box-shadow: none;
+    width: auto;
+    color: #fff;
+    border: 1px solid var(--branco-fff);
+    background-color: transparent!important;
+}
+
+.search-input:focus,
+.search-input::placeholder {
+    color: #e6e6e6;
+}
+
+.btn-outline-success {
+    color: #fff!important;
+    border-color: var(--branco-fff)!important;
+    background-color: transparent;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    border-color: var(--branco-fff);
+    background-color: transparent;
+}
+
+.search-container {
+    display: flex;
+    margin-right: 40px;
+}
+
+.search-input {
+    flex: 1;
+}
+
+#search-button {
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin-left: -40px;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-clear-button {
+    display: none;
+}
+
+input::placeholder {
+    color: var(--cinza-f0)!important;
+}
+
+
+/* NAV BAR */
+
+.navbar-nav {
+    margin: auto!important;
+    text-align: center;
+}
+
+.navbar-dark {
+    background: rgba(26, 26, 26, .8);
+    backdrop-filter: blur(10px);
+    position: fixed;
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, .5);
+    border: none;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 1)!important;
+    padding: 0 40px!important;
+    font-weight: bolder;
+    font-family: 'Poppins';
+}
+
+.dropdown-menu {
+    /* box-shadow: 0px 0px 3px 1px #111; */
+    background-color: var(--azul-claro)!important;
+}
+
+.dropdown-item {
+    color: #fff!important
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    color: #16181b;
+    text-decoration: none;
+    background-color: var(--cinza-f0)!important;
+    transition: .4s;
+}
+
+.navbar-logo {
+    height: 40px;
+}
+
+input {
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid var(--preto-1a);
+}
+
+.form-control:focus {
+    color: var(--cinza-f0)!important;
+}
+
+.txt-white {
+    color: #fff;
+    font-family: 'Roboto';
+}
+
+.txt-body {
+    color: var(--preto-1a);
+    font-family: 'Roboto';
+    padding: 0px;
+    margin: 40px 5%;
+    font-size: 16px;
+}
+
+
+/* EQUIPE/TIME */
+
+#time {
+    padding: 50px;
+    background: url(../imgs/time-bg-3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+.time-membro {
+    background: var(--cinza-f0);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #22abfa;
+    margin: 10px auto;
+    max-width: 330px;
+    text-align: center;
+}
+
+.funcionalidades-div {
+    background: var(--preto-1a);
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    margin: 10px auto;
+    max-width: 330px;
+    text-align: center;
+}
+
+.time-img-membro {
+    width: 80px;
+    border-radius: 10px;
+}
+
+.time-descricao {
+    text-align: left;
+    color: #444;
+    font-style: italic;
+    font-size: 15px;
+    padding: 0px;
+    margin: 0;
+    margin-top: -5px;
+}
+
+.mb-1 {
+    font-family: 'Poppins';
+    font-size: 18px!important;
+    text-align: left;
+}
+
+.time-links {
+    text-decoration: none;
+    color: var(--preto-1a);
+    text-align: left!important;
+}
+
+.time-links:hover {
+    transition: .4s;
+    color: var(--azul-escuro);
+}
+
+
+/*btn*/
+
+.btn-primary {
+    color: #fff;
+    background-color: transparent!important;
+    border: solid 2px var(--branco-fff)!important;
+    padding: 8px;
+    border-radius: 10px!important;
+    font-family: 'Roboto'!important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    transition: .2s;
+    transform: scale(1.1);
+}
+
+.btn-2 {
+    color: var(--azul-escuro);
+    background-color: transparent!important;
+    border: solid 2px var(--azul-escuro)!important;
+    padding: 8px;
+    border-radius: 10px!important;
+    font-family: 'Roboto'!important;
+    text-decoration: none!important;
+}
+
+.btn-2 a {
+    color: var(--azul-escuro);
+}
+
+.btn-2 a:hover {
+    color: var(--branco-fff);
+}
+
+.btn-2:hover {
+    color: var(--branco-fff)!important;
+    transition: .2s;
+    transform: scale(1.1);
+    background: linear-gradient(45deg, #0136af, #22abfa);
+}
+
+.btn-2 a,
+.btn-primary a {
+    text-decoration: none!important;
+}
+
+
+/*MODAL*/
+
+.modal-content {
+    background-color: var(--azul-escuro);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    color: #FFF;
+    border-radius: 10px!important;
+}
+
+.modal-footer {
+    border-top: none!important;
+}
+
+.modal-header {
+    border-bottom: none!important;
+}
+
+.close {
+    color: #fff!important;
+}
+
+
+/*FOOTER*/
+
+.licitaiba-footer {
+    background: #000;
+    color: #fff;
+    padding: 5px;
+    font-family: "Poppins"!important;
+}
+
+.footer-brand img {
+    width: 100%;
+}
+
+col footer {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+
+footer {
+    display: block;
+    color: #fff;
+    text-align: center;
+}
+
+
+/* OUTROS TAMANHOS DE TELA */
+
+@media(min-width: 800px) {
+    .footer-brand img {
         margin-top: 10vh;
     }
-    
-    .licitaiba-home-direita {
-        display: inline-block;
-        width: 40vw;
-        text-align: center;
-        margin: auto;
-        background: url(../imgs/shape.png);
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position: right;
+}
+
+@media(max-width: 800px) {
+    header {
+        padding: 20px;
     }
-    
-    .licitaiba-home-brand {
-        text-align: left;
-        margin-left: 5vw;
+    .txt-header {
+        font-size: 25px;
+        margin-left: 0%;
     }
-    
-    .licitaiba-home-esquerda h1 {
-        font-family: Poppins;
-        margin: 10px 0;
-        font-size: 20px;
-    }
-    
-    .licitaiba-home-esquerda button {
-        margin-top: 35px;
-    }
-    
-    .licitaiba-home-esquerda-img {
-        margin: auto;
-        width: 40vw;
-    }
-    
-    .licitaiba-home-direita-img {
-        margin: auto;
-        width: 30vw;
-    }
-    
-    .painel-header {
-        color: #fff;
-    }
-    
-    .equipe,
-    .funcionalidades {
-        background: var(--branco-fff);
-    }
-    /* PESQUISA */
-    
-    .search-input {
-        border-radius: 5px;
-        box-shadow: none;
-        width: auto;
-        color: #fff;
-        border: 1px solid var(--branco-fff);
-        background-color: transparent!important;
-    }
-    
-    .search-input:focus,
-    .search-input::placeholder {
-        color: #e6e6e6;
-    }
-    
-    .btn-outline-success {
-        color: #fff!important;
-        border-color: var(--branco-fff)!important;
-        background-color: transparent;
-    }
-    
-    .btn-outline-success:hover {
-        color: #fff;
-        border-color: var(--branco-fff);
-        background-color: transparent;
-    }
-    
-    .search-container {
-        display: flex;
-        margin-right: 40px;
-    }
-    
-    .search-input {
-        flex: 1;
-    }
-    
-    #search-button {
-        background: none;
-        border: none;
-        display: flex;
-        align-items: center;
-        padding: 0;
-        margin-left: -40px;
-    }
-    
-    input[type="search"]::-webkit-search-cancel-button,
-    input[type="search"]::-webkit-search-clear-button {
-        display: none;
-    }
-    
-    input::placeholder {
-        color: var(--cinza-f0)!important;
-    }
-    /* NAV BAR */
-    
-    .navbar-nav {
-        margin: auto!important;
-        text-align: center;
-    }
-    
-    .navbar-dark {
-        background: rgba(26, 26, 26, .8);
-        backdrop-filter: blur(10px);
-        position: fixed;
-    }
-    
-    .navbar-dark .navbar-toggler {
-        color: rgba(255, 255, 255, .5);
-        border: none;
-    }
-    
-    .navbar-dark .navbar-nav .nav-link {
-        color: rgba(255, 255, 255, 1)!important;
-        padding: 0 40px!important;
-        font-weight: bolder;
-        font-family: 'Poppins';
-    }
-    
-    .dropdown-menu {
-        /* box-shadow: 0px 0px 3px 1px #111; */
-        background-color: var(--azul-claro)!important;
-    }
-    
-    .dropdown-item {
-        color: #fff!important
-    }
-    
-    .dropdown-item:focus,
-    .dropdown-item:hover {
-        color: #16181b;
-        text-decoration: none;
-        background-color: var(--cinza-f0)!important;
-        transition: .4s;
-    }
-    
-    .navbar-logo {
-        height: 40px;
-    }
-    
-    input {
-        width: 150px;
-        padding: 5px;
-        border-radius: 10px;
-        border: 1px solid var(--preto-1a);
-    }
-    
-    .form-control:focus {
-        color: var(--cinza-f0)!important;
-    }
-    
-    .txt-white {
-        color: #fff;
-        font-family: 'Roboto';
-    }
-    
-    .txt-body {
-        color: var(--preto-1a);
-        font-family: 'Roboto';
-        padding: 0px;
-        margin: 40px 5%;
-        font-size: 16px;
-    }
-    /* EQUIPE/TIME */
-    
-    #time {
-        padding: 50px;
-        background: url(../imgs/time-bg-3.png);
-        background-repeat: no-repeat;
-        background-size: contain;
-        background-position: right;
-    }
-    
-    .time-membro {
-        background: var(--cinza-f0);
-        padding: 15px;
-        border-radius: 10px;
-        border: 1px solid #22abfa;
-        margin: 10px auto;
-        max-width: 330px;
-        text-align: center;
-    }
-    
-    .funcionalidades-div {
-        background: var(--preto-1a);
-        color: #fff;
-        padding: 15px;
-        border-radius: 10px;
-        border: 1px solid #000000;
-        margin: 10px auto;
-        max-width: 330px;
-        text-align: center;
-    }
-    
-    .time-img-membro {
-        width: 80px;
-        border-radius: 10px;
-    }
-    
-    .time-descricao {
-        text-align: left;
-        color: #444;
-        font-style: italic;
-        font-size: 15px;
-        padding: 0px;
-        margin: 0;
-        margin-top: -5px;
-    }
-    
-    .mb-1 {
-        font-family: 'Poppins';
-        font-size: 18px!important;
-        text-align: left;
-    }
-    
-    .time-links {
-        text-decoration: none;
-        color: var(--preto-1a);
-        text-align: left!important;
-    }
-    
-    .time-links:hover {
-        transition: .4s;
-        color: var(--azul-escuro);
-    }
-    /*btn*/
-    
-    .btn-primary {
-        color: #fff;
-        background-color: transparent!important;
-        border: solid 2px var(--branco-fff)!important;
-        padding: 8px;
-        border-radius: 10px!important;
-        font-family: 'Roboto'!important;
-    }
-    
-    .btn-primary:hover {
-        color: #fff;
-        transition: .2s;
-        transform: scale(1.1);
-    }
-    
-    .btn-2 {
-        color: var(--azul-escuro);
-        background-color: transparent!important;
-        border: solid 2px var(--azul-escuro)!important;
-        padding: 8px;
-        border-radius: 10px!important;
-        font-family: 'Roboto'!important;
-        text-decoration: none!important;
-    }
-    
-    .btn-2 a {
-        color: var(--azul-escuro);
-    }
-    
-    .btn-2 a:hover {
-        color: var(--branco-fff);
-    }
-    
-    .btn-2:hover {
-        color: var(--branco-fff)!important;
-        transition: .2s;
-        transform: scale(1.1);
-        background: linear-gradient(45deg, #0136af, #22abfa);
-    }
-    
-    .btn-2 a,
-    .btn-primary a {
-        text-decoration: none!important;
-    }
-    /*MODAL*/
-    
-    .modal-content {
-        background-color: var(--azul-escuro);
-        backdrop-filter: blur(3px);
-        -webkit-backdrop-filter: blur(3px);
-        color: #FFF;
-        border-radius: 10px!important;
-    }
-    
-    .modal-footer {
-        border-top: none!important;
-    }
-    
-    .modal-header {
-        border-bottom: none!important;
-    }
-    
-    .close {
-        color: #fff!important;
-    }
-    /*FOOTER*/
-    
-    .licitaiba-footer {
-        background: #000;
-        color: #fff;
-        padding: 5px;
-        font-family: "Poppins"!important;
-    }
-    
-    .footer-brand img {
-        width: 100%;
-    }
-    
-    col footer {
-        color: #fff;
-        text-align: center;
-        font-style: italic;
-        width: 100%;
-        bottom: 0;
-        position: absolute;
-    }
-    
-    footer {
-        display: block;
-        color: #fff;
-        text-align: center;
-    }
-    /* OUTROS TAMANHOS DE TELA */
-    
-    @media(min-width: 800px) {
-        .footer-brand img {
-            margin-top: 10vh;
-        }
-    }
-    
-    @media(max-width: 800px) {
-        header {
-            padding: 20px;
-        }
-        .txt-header {
-            font-size: 25px;
-            margin-left: 0%;
-        }
-    }
+}
