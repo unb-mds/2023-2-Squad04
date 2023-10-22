@@ -9,7 +9,7 @@ def filtrar_palavras(linha, palavras_chave):
     return None
 
 # Nome do arquivo CSV de entrada
-nome_arquivo_entrada = "C:\Users\julii\OneDrive\Documentos\2023-2-Squad04\Code\teste\pdf.csv"
+nome_arquivo_entrada = r"C:\Users\julii\OneDrive\Documentos\2023-2-Squad04\Code\teste\pdf.csv"
 palavras_chave = ["valor", "reais", "R$", "cnpj", "objetivo"]  # Substitua com suas palavras-chave
 
 # Nome do arquivo CSV de saída
