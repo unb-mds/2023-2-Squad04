@@ -38,7 +38,7 @@ def extrair_informacoes(linha):
     return informacoes
 
 # Nome do arquivo CSV de entrada
-nome_arquivo_entrada = r"Code\teste\pdf.csv"
+nome_arquivo_entrada = r"Code\teste\Teste testando.csv"
 
 # Nome do arquivo JSON de saída
 nome_arquivo_saida = "exemplo_filtrado7.json"
