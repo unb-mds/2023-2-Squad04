@@ -1,4 +1,5 @@
 import re
+import json
 
 # Função para extrair informações específicas de uma linha
 def extrair_informacoes(linha):
@@ -39,18 +40,20 @@ def extrair_informacoes(linha):
 # Nome do arquivo CSV de entrada
 nome_arquivo_entrada = r"Code\teste\pdf.csv"
 
-# Nome do arquivo CSV de saída
-nome_arquivo_saida = "exemplo_filtrado5.csv"
+# Nome do arquivo JSON de saída
+nome_arquivo_saida = "exemplo_filtrado7.json"
 
-# Abra o arquivo de entrada e crie um arquivo de saída
-with open(nome_arquivo_entrada, "r", encoding="utf-8") as arquivo_entrada, open(nome_arquivo_saida, "w", encoding="utf-8") as arquivo_saida:
+# Lista para armazenar as informações extraídas
+informacoes_lista = []
+
+# Abra o arquivo de entrada
+with open(nome_arquivo_entrada, "r", encoding="utf-8") as arquivo_entrada:
     # Processar cada linha do arquivo de entrada
     for linha in arquivo_entrada:
         informacoes = extrair_informacoes(linha)
         if informacoes["Município"] is not None:
-            # Escreva as informações no arquivo de saída, você pode ajustar o formato de saída conforme necessário
-            arquivo_saida.write(f"Município: {informacoes['Município']}\n")
-            arquivo_saida.write(f"Objetivo: {informacoes['Objetivo']}\n")
-            arquivo_saida.write(f"Data: {informacoes['Data']}\n")
-            arquivo_saida.write(f"Código: {informacoes['Código']}\n")
-            arquivo_saida.write(f"Valor: {informacoes['Valor']}\n\n")
+            informacoes_lista.append(informacoes)
+
+# Salvar as informações em formato JSON
+with open(nome_arquivo_saida, "w", encoding="utf-8") as arquivo_saida:
+    json.dump(informacoes_lista, arquivo_saida, ensure_ascii=False, indent=4)
