@@ -24,7 +24,7 @@ header {
     margin-bottom: -16px;
     color: #fff;
     background: var(--preto-1a);
-    /*background: linear-gradient(45deg, rgba(34, 171, 250, 1) 0%, rgba(1, 54, 175, 1) 23%, rgba(26, 26, 26, 1) 78%);*/
+    background: linear-gradient(45deg, rgba(34, 171, 250, 1) 0%, rgba(1, 54, 175, 1) 23%, rgba(26, 26, 26, 1) 78%);
 }
 
 .txt-header {
