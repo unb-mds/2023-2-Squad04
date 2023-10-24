@@ -1,7 +1,0 @@
-[build]
-  command = "python manage.py collectstatic --noinput"
-  publish = "src"
-
-[context.production]
-  command = "python manage.py migrate"
-  command = "python manage.py collectstatic --noinput"
