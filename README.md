@@ -7,10 +7,15 @@
 
 # Extrator de licitações - Paraíba
 
+<p style="text-align:center;">
 <img src="docs/assets/imgs/logo-licitaiba.png" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
-<br>
+  <br>
+  Logo do projeto Licitaíba
+</p>
+
 O projeto "Extrator de Licitações da Paraíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil.
-<p align="center">
+
+<p style="text-align:center;">
   <img src="https://www.estudopratico.com.br/wp-content/uploads/2018/06/bandeira-paraiba-1200x675.jpg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
   <br>
   Bandeira da Paraíba
