@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/unb-mds/2023-2-Squad04?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad04?style=for-the-badge)
 
-# Extrator de licitações - Paraíba
+# Licitaíba - Extrator de Licitações do Diário Oficial da Paraíba
 
 <p align="center">
 <img src="docs/assets/imgs/logo-licitaiba.png" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
@@ -13,7 +13,7 @@
   Logo do projeto Licitaíba
 </p>
 
-O projeto "Extrator de Licitações da Paraíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil.
+O projeto "Licitaíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil.
 
 <p align="center">
   <img src="https://www.estudopratico.com.br/wp-content/uploads/2018/06/bandeira-paraiba-1200x675.jpg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
