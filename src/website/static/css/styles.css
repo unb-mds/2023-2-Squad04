@@ -225,7 +225,7 @@ input {
 
 #time {
     padding: 50px;
-    background: url(../imgs/time-bg-3.png);
+    background: url(../imgs/time-bg-4.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
@@ -282,6 +282,11 @@ input {
 .time-links:hover {
     transition: .4s;
     color: var(--azul-escuro);
+}
+
+.imgs-sobre-icon {
+    padding: 10px;
+    max-height: 150px;
 }
 
 
@@ -359,7 +364,7 @@ input {
 /*FOOTER*/
 
 .licitaiba-footer {
-    background: #000;
+    background: #111;
     color: #fff;
     padding: 5px;
     font-family: "Poppins"!important;
@@ -394,6 +399,39 @@ footer {
 }
 
 @media(max-width: 800px) {
+    .home {
+        margin-top: 70px;
+        min-height: 100vh;
+    }
+    .licitaiba-home-esquerda {
+        width: 100vw;
+        margin-top: 8vh;
+    }
+    .licitaiba-home-direita {
+        display: inline-block;
+        width: 100vw;
+    }
+    .licitaiba-home-brand {
+        text-align: left;
+        margin-left: 5vw;
+    }
+    .licitaiba-home-esquerda h1 {
+        font-family: Poppins;
+        margin: 10px 0;
+        font-size: 20px;
+    }
+    .licitaiba-home-esquerda button {
+        margin-top: 10px;
+        margin-bottom: 45px;
+    }
+    .licitaiba-home-esquerda-img {
+        margin: auto;
+        width: 70vw;
+    }
+    .licitaiba-home-direita-img {
+        margin: auto;
+        width: 70vw;
+    }
     header {
         padding: 20px;
     }
