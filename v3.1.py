@@ -32,7 +32,7 @@ informacoes_padroes = {
 }
 
 # Nome do arquivo PDF de entrada
-nome_arquivo_pdf = r"Code\teste\test.pdf"
+nome_arquivo_pdf = r"Code\teste\publicado_17460_2013-11-12_3ea8fd446e5cf648db214850cfb6c514.pdf"
 
 # Nome do arquivo JSON de saída
 nome_arquivo_saida = "informacoes_extraidas3.json"
