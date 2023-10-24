@@ -1,4 +1,3 @@
-## Squad04
 ![GitHub repo size](https://img.shields.io/github/repo-size/unb-mds/2023-2-Squad04?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/unb-mds/2023-2-Squad04?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/unb-mds/2023-2-Squad04?style=for-the-badge)
