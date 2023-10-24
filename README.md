@@ -6,6 +6,9 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad04?style=for-the-badge)
 
 # Extrator de licitações - Paraíba
+
+<img src="docs/assets/imgs/logo-licitaiba.png" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
+<br>
 O projeto "Extrator de Licitações da Paraíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil.
 <p align="center">
   <img src="https://www.estudopratico.com.br/wp-content/uploads/2018/06/bandeira-paraiba-1200x675.jpg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
@@ -25,22 +28,22 @@ Este é um guia passo a passo para ajudar você a executar o projeto em sua máq
 
 ### 1. ⏬ Clonar o Repositório
 Para começar, abra o terminal e clone o repositório do GitHub em um diretório local da seguinte maneira:
-`git clone https://github.com/unb-mds/2023-2-Squad04.git`
+```git clone https://github.com/unb-mds/2023-2-Squad04.git```
 
 ### 2. 🚢 Navegar até a pasta "src" 🗂️
 Vamos entrar na pasta "src" do projeto usando o terminal. Certifique-se de estar na raiz do repositório clonado:
-`cd 2023-2-Squad04/src`
+```cd 2023-2-Squad04/src```
 
 ### 3. 💻 Build e Iniciar com Docker Compose
 Agora, você pode usar o seguinte comando para construir a imagem Docker e iniciar os serviços ao mesmo tempo:
-`docker-compose up --build`
+```docker-compose up --build```
 
 Sempre que quiser inicar o projeto basta usar:
-`docker-compose up`
+```docker-compose up```
 
 ### 4. 🌐 Acessando no navegador
 No navegador, digite o seguinte endereço:
-`http://localhost:8000`
+```http://localhost:8000```
 
 ---
 
