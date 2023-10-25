@@ -289,6 +289,80 @@ input {
     max-height: 150px;
 }
 
+/*Licitações*/
+.bloco {
+    padding: 300px;
+    border-radius: 10px;
+    border: 1px solid #22abfa;
+    margin-top: -70px;
+    margin-left: 20% ;
+    margin-right: 20% ;
+    margin-bottom: 20%;
+    text-align: center;
+}
+
+header {
+    margin-top: 66px;
+    text-align: center;
+    margin-bottom: -16px;
+    color: #fff;
+    background: var(--preto-1a);
+    background: linear-gradient(45deg, rgba(34, 171, 250, 1) 0%, rgba(1, 54, 175, 1) 23%, rgba(26, 26, 26, 1) 78%);
+}
+
+.txt-header-licitacao {
+    font-size: 30px;
+    text-align: center;
+
+    font-family: 'Poppins';
+    padding-top: 25px;
+}
+.search-container-licitacao {
+    display: flex;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-bottom: 100px;
+    
+}
+
+.search-input-licitacao {
+    flex: 1;
+}
+
+#search-button-licitacao {
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin-left: -40px;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-clear-button {
+    display: none;
+}
+
+input::placeholder {
+    color: var(--cinza-f0)!important;
+}
+
+.filter-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-top:-30vh;
+   padding-left: 30%;
+
+}
+
+
+
+
+
+
+
+
+
 
 /*btn*/
 

@@ -1,5 +1,8 @@
 from django.shortcuts import render
 
+def licitacao(request):
+    return render(request, 'licitacao.html')
+
 def home(request):
     return render(request, 'index.html')
 

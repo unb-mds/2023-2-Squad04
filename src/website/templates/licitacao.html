@@ -1,0 +1,85 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    {% include 'head.html' %}
+    <meta name="description" content="Licitaíba é uma ferramenta que tem o objetivo de simplificar e automatizar o processo de extração de dados de licitações publicadas no Diário Oficial do Estado da Paraíba.">
+    <meta name="author" content="Licitaíba">
+    <link rel="alternate" href="" hreflang="pt-br" />
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="{% static 'imgs/icon-licitaiba.png' %}" />
+    <link rel="canonical" href="" />
+    <meta property="og:type" content="website" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" sizes="512x512" href="{% static 'imgs/icon-licitaiba.png' %}">
+    <title>Equipe :: Licitaíba - Extrator de Licitações do Diário Oficial da Paraíba</title>
+</head>
+
+<body>
+    {% include 'menu.html' %}
+
+    <header>
+        <p class=" txt-header-licitacao ">Deseja encontrar alguma licitação?
+            
+        <form class="form-inline" style="display:block; margin-top: 10px;">
+            <div class="search-container-licitacao">
+                <input class="form-control mr-sm-2 search-input" type="search" placeholder="Buscar Licitação" id="search-input-licitacao" aria-label="">
+                <button id="search-button-licitacao" class="btn btn-outline-success my-2 my-sm-0" type="button">
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                </button>
+            </div>
+        </form>     
+            
+        </p>
+    </header>
+    
+
+    <section class="equipe">
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-7" >
+                    <!--p class="txt-body" style="margin-bottom: 10px">
+                        No projeto "Licitaíba", nossa equipe é a espinha dorsal. Com conhecimentos diversos e paixão pelo que faz, estamos desenvolvendo um extrator de licitações do Diário Oficial da Paraíba com simplicidade e transparência, adotando a licença MIT para promover a liberdade de uso e contribuição. Focamos na promoção da transparência e no acesso facilitado às informações públicas no Brasil.
+                    </p>
+                    <!--a href="{% url 'sobre' %}"><button style="margin: 0 5%;" class="btn-2">Sobre o projeto</button></a-->
+                </div>
+            </div>
+        </div>
+
+              
+    <div class="col-sm">                              
+        <div class="bloco">
+    
+                <div class="filter-bar">
+                    <div>
+                        <label for="municipio">Município:</label>
+                        <select id="municipio">
+                            <option value="municipio1">Município 1</option>
+                            <option value="municipio2">Município 2</option>
+                            <option value="municipio3">Município 3</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="data">Data:</label>
+                        <input type="date" id="data">
+                    </div>
+                </div>
+                    <h5 class="mt-0 mb-1">Danilo César</h5>
+                </div>     
+    </div>
+                    
+
+          
+
+
+
+
+    {% include 'footer.html' %}
+
+</body>
+
+</html>
