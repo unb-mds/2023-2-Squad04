@@ -26,6 +26,8 @@ urlpatterns = [
     path('licitacao', views.licitacao, name='licitacao'),
     path('equipe', views.equipe, name='equipe'),
     path('sobre', views.sobre, name='sobre'),
+    path('erro', views.erro, name='erro'),
+
     
 ]
 

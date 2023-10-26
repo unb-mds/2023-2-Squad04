@@ -11,3 +11,7 @@ def equipe(request):
 
 def sobre(request):
     return render(request, 'sobre.html')
+
+
+def erro(request):
+    return render(request, 'erro.html')
