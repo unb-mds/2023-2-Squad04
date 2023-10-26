@@ -89,6 +89,7 @@ header {
 }
 
 .equipe,
+.erro,
 .funcionalidades,
 .licitacao {
     background: var(--branco-fff);
