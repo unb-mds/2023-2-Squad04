@@ -7,7 +7,7 @@
 # Licitaíba - Extrator de Licitações do Diário Oficial da Paraíba
 
 <p align="center">
-<img src="docs/assets/imgs/logo-licitaiba.png" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
+<img src="docs/assets/imgs/logo-licitaiba.png" alt="Logo Licitaíba" width="300" style="display: block; margin: 0 auto;">
   <br>
   Logo do projeto Licitaíba
 </p>
