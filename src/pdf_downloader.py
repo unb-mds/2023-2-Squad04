@@ -59,8 +59,8 @@ for y in range(ultima_data.year, data_atual.year + 1):
 
         inicio_dia = ultima_data.day+1 if m == start_month_index and y == ultima_data.year else 1
 
-        for i in range(inicio_dia, data_atual.day + 1):
-            if i > data_atual.day:
+        for i in range(inicio_dia,33):
+            if i > data_atual.day and ultima_data.month == data_atual.month:
                 break
             try:
                 day = driver.find_element(By.ID, "calendar_day")
