@@ -2,7 +2,7 @@ name: Execute Script
 
 on:
   schedule:
-    - cron: '21 28 * * *'
+    - cron: '30 21 * * *'  
 
 jobs:
   run_script:
