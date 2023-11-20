@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # At 00:00 on Monday
+    - cron: '20 23 * * *' # At 00:00 on Monday
 
 jobs:
   build:
@@ -20,12 +20,10 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install selenium
 
       - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python main.py
+        run: python src/pdf_downloader.py
 
       - name: commit files
         run: |
@@ -37,5 +35,4 @@ jobs:
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          branch: carlos 
