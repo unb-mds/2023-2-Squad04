@@ -1,8 +1,8 @@
-name: Script Download dos Diários Oficiais
+name: Script Listagem de PDFs
 
 on:
   schedule:
-    - cron: '00 11 * * *' 
+    - cron: '10 11 * * *' 
 
 jobs:
   run_script:
@@ -23,12 +23,12 @@ jobs:
         pip install selenium
 
     - name: Run Python script
-      run: python src/pdf_downloader.py
+      run: python src/list_dir.py
 
     - name: Commit and push updated last date
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@users.noreply.github.com"
         git add --all
-        git commit -m "[ci] --> pdf_downloader.py"
+        git commit -m "[ci] --> list_dir.py"
         git push
