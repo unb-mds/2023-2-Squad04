@@ -30,6 +30,10 @@ options.binary_location = "/usr/bin/google-chrome"
 options.add_argument('--headless')
 options.add_argument('--disable-gpu')
 options.add_argument('--no-sandbox')
+options.add_argument('--remote-debugging-port=9222')
+
+options.binary_location = "/usr/bin/google-chrome"
+driver = webdriver.Chrome(options=options, executable_path="/usr/local/bin/chromedriver")
 
 options.add_experimental_option('prefs', {
     "download.default_directory": download_dir,
@@ -38,7 +42,6 @@ options.add_experimental_option('prefs', {
     "plugins.always_open_pdf_externally": True 
 })
 
-driver = webdriver.Chrome(options=options)
 
 link_base = "https://www.diariomunicipal.com.br/famup/"
 
