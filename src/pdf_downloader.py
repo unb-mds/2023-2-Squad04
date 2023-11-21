@@ -4,9 +4,12 @@ from selenium.webdriver.common.by import By
 from time import sleep
 from datetime import datetime, timedelta
 
+diretorio_atual = os.path.dirname(os.path.abspath(__file__))
+
 def obter_ultima_data():
     try:
-        with open('pdf_downloader_last_date.txt', 'r') as file:
+        file_path = os.path.join(diretorio_atual, 'pdf_downloader_last_date.txt')
+        with open(file_path, 'r') as file:
             data_str = file.read().strip()
             if data_str:
                 return datetime.strptime(data_str, '%Y-%m-%d')
@@ -15,14 +18,11 @@ def obter_ultima_data():
     return datetime(2023, 1, 1)
 
 def salvar_ultima_data(data):
-    with open('pdf_downloader_last_date.txt', 'w') as file:
+    file_path = os.path.join(diretorio_atual, 'pdf_downloader_last_date.txt')
+    with open(file_path, 'w') as file:
         file.write(data.strftime('%Y-%m-%d'))
 
-diretorio_atual = os.path.dirname(os.path.abspath(__file__))
-
 download_dir = diretorio_atual + "/pdfs"
-
-
 
 options = webdriver.ChromeOptions()
 
@@ -104,7 +104,7 @@ for y in range(ultima_data.year, data_atual.year + 1):
             except:
                 print(f"Diário do dia {i}/{months[m]}/{y} não encontrado!")
 
-            sleep(0.2)
+            sleep(5)
             close = driver.find_element(By.CLASS_NAME, "bt-fechar")
             close.click()
             sleep(0.2)
