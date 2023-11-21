@@ -1,4 +1,4 @@
-name: Script de Download dos Diarios Oficiais
+name: Script - Download dos Diarios Oficiais
 
 on:
   schedule:
