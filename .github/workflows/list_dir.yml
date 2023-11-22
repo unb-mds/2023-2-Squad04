@@ -2,7 +2,7 @@ name: Script Listagem de PDFs
 
 on:
   schedule:
-    - cron: '10 11 * * *' 
+    - cron: '35 11 * * *' 
 
 jobs:
   run_script:
@@ -29,6 +29,7 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@users.noreply.github.com"
+        git pull origin main
         git add --all
-        git commit -m "[ci] --> list_dir.py"
+        git commit -m "[ci] executado -> src/list_dir.py"
         git push
