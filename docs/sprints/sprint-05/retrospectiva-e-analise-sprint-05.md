@@ -113,7 +113,7 @@ Descrição: A equipe está fazendo adições à página "Sobre" do site. <br>
 Pull Request: Criado 
 
 Issue [#60](https://github.com/unb-mds/2023-2-Squad04/issues/60) - [Extração e formatação do dado escolhido](https://github.com/unb-mds/2023-2-Squad04/issues/60) <br>
-**Status:** Atrasado ⚠️ <br>
+**Status:** Concluído ✅ <br>
 Descrição: Com os arquivos devidamente organizados e separados devemos extrair o dado escolhido (Licitações), e fazer a formatação do mesmo. <br>
 Pull Request: (ainda não criado)
 
