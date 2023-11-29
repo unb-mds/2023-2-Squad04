@@ -1,0 +1,36 @@
+name: Script Extração dos PDFs
+
+on:
+  schedule:
+    #- cron: '20 11 * * 1-5' 
+    - cron: '55 13 * * 1-5' 
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.10.12
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install selenium
+
+    - name: Run Python script
+      run: python src/readpdf.py
+
+    - name: Commit and push updated last date
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@users.noreply.github.com"
+        git pull origin main
+        git add --all
+        git commit -m "[ci] executado -> src/readpdf.py"
+        git push
