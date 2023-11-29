@@ -56,7 +56,7 @@
 
   - **Sprint 09 (08/11 - 15/11/23)**
     - [Desenvolvimento Frontend da página de dados](/sprints/sprint-09/paginas-dados-site.md "Sprint-09 - Desenvolvimento Frontend da página de dados")    
-    - [Correções nas páginas**](/sprints/sprint-09/correcoes-paginas-equipe-sobre.md "Sprint-09 - Correções nas páginas")
+    - [Correções nas páginas](/sprints/sprint-09/correcoes-paginas-equipe-sobre.md "Sprint-09 - Correções nas páginas")
 
   - **Sprint 10 (15/11 - 22/11/23)**
     - [Atualização no script de download + configuração do git actions](/sprints/sprint-10/atualizacao-script.md "Sprint-10 - Atualização no script de download + configuração do git actions")    
