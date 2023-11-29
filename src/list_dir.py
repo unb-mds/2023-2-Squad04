@@ -17,7 +17,7 @@ def salvar(arquivos, caminho_txt):
     try:
         with open(caminho_txt, 'w') as arquivo_txt:
             arquivo_txt.write('\n'.join(arquivos))
-        print(f"Lista de arquivos salva em {caminho_txt}")
+        print("Lista de arquivos salva.")
     except Exception as e:
         print(f"Erro ao salvar em txt: {e}")
 
