@@ -2,9 +2,18 @@ from PyPDF2 import PdfReader
 import re
 import json
 import codecs
+import os
+
+diretorio_atual = os.path.dirname(os.path.abspath(__file__))
+
+file_path = os.path.join(diretorio_atual, 'lista_pdfs.txt')
+
+pdf_path = os.path.join(diretorio_atual, 'pdfs')
+
+save_path = os.path.join(diretorio_atual, 'dados')
 
 #nome da lista com os arquivos de pdf
-nome_arquivo = "lista_pdfs.txt"
+nome_arquivo = file_path
 linhas = []
 
 with open(nome_arquivo, "r", encoding="utf-8") as arquivo_txt:
@@ -13,7 +22,7 @@ with open(nome_arquivo, "r", encoding="utf-8") as arquivo_txt:
 for i in range(len(linhas)):
     pdf_name = linhas[i].strip()
 
-    reader = PdfReader(pdf_name)
+    reader = PdfReader(f'{pdf_path}/{pdf_name}')
     number_of_pages = len(reader.pages)
     dados = {}
 
@@ -45,7 +54,7 @@ for i in range(len(linhas)):
             dados[codigo_identificador] = texto_encontrado
             
     #as informações de cada pdf serão salvas em um arquivo com o mesmo nome do pdf mas com a extensão JSON
-    nome_arquivo = f"{pdf_name}.json"
+    nome_arquivo = f"{save_path}/{pdf_name}.json"
 
     with open(nome_arquivo, "w", encoding="utf-8") as arquivo_json:
         json.dump(dados, arquivo_json, ensure_ascii=False,indent=2) 
