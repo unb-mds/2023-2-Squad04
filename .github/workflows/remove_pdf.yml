@@ -2,7 +2,7 @@ name: Script Remoção de PDFs
 
 on:
   schedule:
-    - cron: '00 12 * * 1-5' 
+    - cron: '30 11 * * 1-5' 
 
 jobs:
   run_script:
