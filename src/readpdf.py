@@ -14,6 +14,7 @@ save_path = os.path.join(diretorio_atual, 'dados')
 
 #nome da lista com os arquivos de pdf
 linhas = []
+nome_arquivo = file_path
 
 with open(nome_arquivo, "r", encoding="utf-8") as arquivo_txt:
     linhas = arquivo_txt.readlines()
