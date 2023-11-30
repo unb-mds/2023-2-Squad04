@@ -13,7 +13,6 @@ pdf_path = os.path.join(diretorio_atual, 'pdfs')
 save_path = os.path.join(diretorio_atual, 'dados')
 
 #nome da lista com os arquivos de pdf
-nome_arquivo = file_path
 linhas = []
 
 with open(nome_arquivo, "r", encoding="utf-8") as arquivo_txt:
@@ -41,20 +40,24 @@ for i in range(len(linhas)):
         if (resultados == []):
             padrao = r'COMISSÃO DE LICITAÇÃ O(.*?)Código Identificador: (\w+)'
             resultados = re.findall(padrao, text, re.DOTALL)
-
-        j = 0
+            
         for resultado in resultados:
+            print("Dado encontrado!")
+            
             texto_encontrado = resultado[0].strip()
             codigo_identificador = resultado[1]
-            print("-" * 100)
-            print(texto_encontrado)
-            j += 1
-            #Extrair Codigo
-            print("Código Identificador:", codigo_identificador)
-            dados[codigo_identificador] = texto_encontrado
             
-    #as informações de cada pdf serão salvas em um arquivo com o mesmo nome do pdf mas com a extensão JSON
-    nome_arquivo = f"{save_path}/{pdf_name}.json"
-
-    with open(nome_arquivo, "w", encoding="utf-8") as arquivo_json:
-        json.dump(dados, arquivo_json, ensure_ascii=False,indent=2) 
+            #Extrair Codigo
+            dados_json = [{
+                "Titulo PDF": pdf_name,
+                "Texto encontrado:": texto_encontrado,
+                "Código identificador": codigo_identificador 
+            }]
+            
+            with open(f'{save_path}/data.json', 'r', encoding="utf-8") as arquivo_json:
+                old_json = json.load(arquivo_json)
+            
+            old_json.append(dados_json)
+            
+            with open(f'{save_path}/data.json', "w", encoding="utf-8") as arquivo_json:
+                json.dump(old_json, arquivo_json, ensure_ascii=False,indent=2) 
