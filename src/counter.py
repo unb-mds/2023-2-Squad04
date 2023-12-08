@@ -24,19 +24,26 @@ def extrair_dados_novo_json(dados_pdf):
         # Incrementar as contagens corretamente
         contagem[municipio][(ano, mes)] += 1
 
-    # lista de saída com as combinações de municípios, meses e anos
+    # Criar a lista de saída com todas as combinações de municípios, meses e anos
     saida_lista = []
+    soma_todos = defaultdict(int)
+
     for municipio, contagens_municipio in contagem.items():
         for (ano, mes), qtd in sorted(contagens_municipio.items(), key=lambda x: (x[0][0], datetime.strptime(x[0][1], "%b").month)):
             saida_lista.append({"municipio": municipio, "mes": mes, "ano": ano, "qtd": qtd})
+            soma_todos[(ano, mes)] += qtd
+
+    # Adicionar entrada para "Todos"
+    for (ano, mes), qtd_total in sorted(soma_todos.items(), key=lambda x: (x[0][0], datetime.strptime(x[0][1], "%b").month)):
+        saida_lista.append({"municipio": "Todos", "mes": mes, "ano": ano, "qtd": qtd_total})
 
     return saida_lista
 
 dados_pdf_novo_entrada = ler_dados_novo_json(diretorio_atual + "/dados/data.json")
 saida_lista_nova = extrair_dados_novo_json(dados_pdf_novo_entrada)
 
-
+# Escrever no arquivo
 with open(diretorio_atual + "/dados/counter.json", "w", encoding="utf-8") as arquivo_saida:
     json.dump(saida_lista_nova, arquivo_saida, indent=2, ensure_ascii=False)
 
-print("Arquivo JSON ordenado gerado com sucesso.")
+print("Arquivo JSON gerado com sucesso.")

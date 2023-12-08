@@ -916,5 +916,77 @@
     "mes": "May",
     "ano": "2023",
     "qtd": 1
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jan",
+    "ano": "2023",
+    "qtd": 159
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 81
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Mar",
+    "ano": "2023",
+    "qtd": 126
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Apr",
+    "ano": "2023",
+    "qtd": 101
+  },
+  {
+    "municipio": "Todos",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 117
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jun",
+    "ano": "2023",
+    "qtd": 104
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jul",
+    "ano": "2023",
+    "qtd": 74
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Aug",
+    "ano": "2023",
+    "qtd": 59
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Sep",
+    "ano": "2023",
+    "qtd": 33
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Oct",
+    "ano": "2023",
+    "qtd": 56
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Nov",
+    "ano": "2023",
+    "qtd": 61
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Dec",
+    "ano": "2023",
+    "qtd": 14
   }
 ]
