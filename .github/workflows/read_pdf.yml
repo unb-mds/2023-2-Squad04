@@ -2,7 +2,8 @@ name: Script Extração dos PDFs
 
 on:
   schedule:
-    - cron: '50 00 * * 1-5' 
+    - cron: '50 00 * * *'
+    #- cron: '20 11 * * 1-5' 
 
 jobs:
   run_script:
