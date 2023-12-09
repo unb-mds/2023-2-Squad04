@@ -35,7 +35,7 @@ options.add_experimental_option('prefs', {
     "download.default_directory": download_dir,
     "download.prompt_for_download": False,
     "download.directory_upgrade": True,
-    "plugins.always_open_pdf_externally": True 
+    "plugins.always_open_pdf_externally": True
 })
 
 driver = webdriver.Chrome(options=options)
