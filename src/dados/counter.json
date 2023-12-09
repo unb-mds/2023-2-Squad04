@@ -909,7 +909,7 @@
     "municipio": "Junco do Seridó",
     "mes": "Feb",
     "ano": "2023",
-    "qtd": 7
+    "qtd": 8
   },
   {
     "municipio": "Junco do Seridó",
@@ -943,6 +943,12 @@
   },
   {
     "municipio": "João Pessoa",
+    "mes": "Sep",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "João Pessoa",
     "mes": "Feb",
     "ano": "2022",
     "qtd": 1
@@ -970,24 +976,6 @@
     "mes": "Jun",
     "ano": "2023",
     "qtd": 1
-  },
-  {
-    "municipio": "",
-    "mes": "Sep",
-    "ano": "2020",
-    "qtd": 1
-  },
-  {
-    "municipio": "",
-    "mes": "Feb",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "",
-    "mes": "Jul",
-    "ano": "2023",
-    "qtd": 2
   },
   {
     "municipio": "Mari",
@@ -1096,6 +1084,12 @@
     "mes": "Jan",
     "ano": "2023",
     "qtd": 1
+  },
+  {
+    "municipio": "Brejinho - PE",
+    "mes": "Jul",
+    "ano": "2023",
+    "qtd": 2
   },
   {
     "municipio": "Soledade",
