@@ -2,7 +2,8 @@ name: Script Download dos Diários Oficiais
 
 on:
   schedule:
-    - cron: '00 11 * * 1-5' 
+    #- cron: '00 11 * * 1-5' 
+    - cron: '00 04 * * *' 
 
 jobs:
   run_script:
