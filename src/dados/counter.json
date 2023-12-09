@@ -1,213 +1,267 @@
 [
   {
     "municipio": "Água Branca",
+    "mes": "Apr",
+    "ano": "2019",
+    "qtd": 30
+  },
+  {
+    "municipio": "Água Branca",
     "mes": "May",
     "ano": "2019",
-    "qtd": 2
+    "qtd": 16
   },
   {
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2019",
-    "qtd": 3
+    "qtd": 15
   },
   {
     "municipio": "Água Branca",
     "mes": "Jul",
     "ano": "2019",
-    "qtd": 8
+    "qtd": 18
   },
   {
     "municipio": "Água Branca",
     "mes": "Aug",
     "ano": "2019",
-    "qtd": 4
+    "qtd": 14
   },
   {
     "municipio": "Água Branca",
     "mes": "Sep",
     "ano": "2019",
-    "qtd": 3
+    "qtd": 17
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Oct",
+    "ano": "2019",
+    "qtd": 1
   },
   {
     "municipio": "Água Branca",
     "mes": "Nov",
     "ano": "2019",
-    "qtd": 2
+    "qtd": 5
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Dec",
+    "ano": "2019",
+    "qtd": 5
   },
   {
     "municipio": "Água Branca",
     "mes": "Jan",
     "ano": "2020",
-    "qtd": 8
+    "qtd": 24
   },
   {
     "municipio": "Água Branca",
     "mes": "Feb",
     "ano": "2020",
-    "qtd": 8
+    "qtd": 38
   },
   {
     "municipio": "Água Branca",
     "mes": "Mar",
     "ano": "2020",
-    "qtd": 9
+    "qtd": 48
   },
   {
     "municipio": "Água Branca",
     "mes": "Apr",
     "ano": "2020",
-    "qtd": 5
+    "qtd": 14
   },
   {
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2020",
-    "qtd": 7
+    "qtd": 16
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Jun",
+    "ano": "2020",
+    "qtd": 5
   },
   {
     "municipio": "Água Branca",
     "mes": "Jul",
     "ano": "2020",
-    "qtd": 1
+    "qtd": 5
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Aug",
+    "ano": "2020",
+    "qtd": 7
   },
   {
     "municipio": "Água Branca",
     "mes": "Sep",
     "ano": "2020",
-    "qtd": 2
+    "qtd": 6
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Oct",
+    "ano": "2020",
+    "qtd": 3
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Nov",
+    "ano": "2020",
+    "qtd": 1
   },
   {
     "municipio": "Água Branca",
     "mes": "Jan",
     "ano": "2021",
-    "qtd": 2
+    "qtd": 8
   },
   {
     "municipio": "Água Branca",
     "mes": "Feb",
+    "ano": "2021",
+    "qtd": 40
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Mar",
+    "ano": "2021",
+    "qtd": 32
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Apr",
+    "ano": "2021",
+    "qtd": 24
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 34
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Jun",
+    "ano": "2021",
+    "qtd": 19
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Jul",
     "ano": "2021",
     "qtd": 17
   },
   {
     "municipio": "Água Branca",
-    "mes": "Mar",
+    "mes": "Aug",
     "ano": "2021",
-    "qtd": 7
-  },
-  {
-    "municipio": "Água Branca",
-    "mes": "Apr",
-    "ano": "2021",
-    "qtd": 7
-  },
-  {
-    "municipio": "Água Branca",
-    "mes": "May",
-    "ano": "2021",
-    "qtd": 8
-  },
-  {
-    "municipio": "Água Branca",
-    "mes": "Jun",
-    "ano": "2021",
-    "qtd": 8
-  },
-  {
-    "municipio": "Água Branca",
-    "mes": "Jul",
-    "ano": "2021",
-    "qtd": 3
+    "qtd": 6
   },
   {
     "municipio": "Água Branca",
     "mes": "Sep",
     "ano": "2021",
-    "qtd": 4
+    "qtd": 10
   },
   {
     "municipio": "Água Branca",
     "mes": "Oct",
     "ano": "2021",
-    "qtd": 4
+    "qtd": 13
   },
   {
     "municipio": "Água Branca",
     "mes": "Nov",
     "ano": "2021",
-    "qtd": 1
+    "qtd": 11
   },
   {
     "municipio": "Água Branca",
     "mes": "Dec",
     "ano": "2021",
-    "qtd": 5
+    "qtd": 10
   },
   {
     "municipio": "Água Branca",
     "mes": "Jan",
     "ano": "2022",
-    "qtd": 25
+    "qtd": 34
   },
   {
     "municipio": "Água Branca",
     "mes": "Feb",
     "ano": "2022",
-    "qtd": 4
+    "qtd": 25
   },
   {
     "municipio": "Água Branca",
     "mes": "Mar",
     "ano": "2022",
-    "qtd": 4
+    "qtd": 24
   },
   {
     "municipio": "Água Branca",
     "mes": "Apr",
     "ano": "2022",
-    "qtd": 8
+    "qtd": 25
   },
   {
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2022",
-    "qtd": 4
+    "qtd": 16
   },
   {
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2022",
-    "qtd": 5
+    "qtd": 16
   },
   {
     "municipio": "Água Branca",
     "mes": "Jul",
     "ano": "2022",
-    "qtd": 11
+    "qtd": 17
   },
   {
     "municipio": "Água Branca",
     "mes": "Aug",
     "ano": "2022",
-    "qtd": 8
+    "qtd": 41
   },
   {
     "municipio": "Água Branca",
     "mes": "Sep",
     "ano": "2022",
-    "qtd": 12
+    "qtd": 27
   },
   {
     "municipio": "Água Branca",
     "mes": "Oct",
     "ano": "2022",
-    "qtd": 1
+    "qtd": 4
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Nov",
+    "ano": "2022",
+    "qtd": 8
   },
   {
     "municipio": "Água Branca",
     "mes": "Dec",
     "ano": "2022",
-    "qtd": 1
+    "qtd": 12
   },
   {
     "municipio": "Água Branca",
@@ -283,9 +337,15 @@
   },
   {
     "municipio": "Taperoá",
+    "mes": "Nov",
+    "ano": "2022",
+    "qtd": 4
+  },
+  {
+    "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2022",
-    "qtd": 5
+    "qtd": 33
   },
   {
     "municipio": "Taperoá",
@@ -360,22 +420,130 @@
     "qtd": 3
   },
   {
-    "municipio": "Areia de Baraúnas",
+    "municipio": "Patos",
+    "mes": "Aug",
+    "ano": "2019",
+    "qtd": 1
+  },
+  {
+    "municipio": "Patos",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 5
+  },
+  {
+    "municipio": "Patos",
     "mes": "Mar",
     "ano": "2022",
     "qtd": 1
   },
   {
+    "municipio": "Patos",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jun",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jul",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Sep",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jan",
+    "ano": "2023",
+    "qtd": 5
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Mar",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Apr",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jul",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Sep",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Oct",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Feb",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 5
+  },
+  {
     "municipio": "Areia de Baraúnas",
     "mes": "Apr",
+    "ano": "2022",
+    "qtd": 11
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "May",
     "ano": "2022",
     "qtd": 6
   },
   {
     "municipio": "Areia de Baraúnas",
-    "mes": "Aug",
+    "mes": "Jun",
     "ano": "2022",
     "qtd": 1
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Jul",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Aug",
+    "ano": "2022",
+    "qtd": 6
   },
   {
     "municipio": "Areia de Baraúnas",
@@ -388,6 +556,18 @@
     "mes": "Oct",
     "ano": "2022",
     "qtd": 1
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Nov",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Dec",
+    "ano": "2022",
+    "qtd": 5
   },
   {
     "municipio": "Areia de Baraúnas",
@@ -456,194 +636,32 @@
     "qtd": 1
   },
   {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Nov",
-    "ano": "2021",
-    "qtd": 2
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Mar",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "May",
-    "ano": "2022",
-    "qtd": 2
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Sep",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Jan",
-    "ano": "2023",
-    "qtd": 4
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
+    "municipio": "Serra Grande",
     "mes": "Feb",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Mar",
-    "ano": "2023",
-    "qtd": 3
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "May",
-    "ano": "2023",
-    "qtd": 4
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Jun",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Aug",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Sep",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "São José da Lagoa Tapada",
-    "mes": "Nov",
-    "ano": "2023",
-    "qtd": 3
-  },
-  {
-    "municipio": "Campina Grande",
-    "mes": "Mar",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Campina Grande",
-    "mes": "Apr",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Campina Grande",
-    "mes": "May",
-    "ano": "2023",
-    "qtd": 5
-  },
-  {
-    "municipio": "Campina Grande",
-    "mes": "Jun",
-    "ano": "2023",
-    "qtd": 4
-  },
-  {
-    "municipio": "Patos",
-    "mes": "May",
-    "ano": "2021",
-    "qtd": 3
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Jun",
-    "ano": "2022",
-    "qtd": 2
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Sep",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Jan",
-    "ano": "2023",
-    "qtd": 5
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Mar",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Apr",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Patos",
-    "mes": "May",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Jul",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Sep",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Patos",
-    "mes": "Oct",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Mogeiro",
-    "mes": "Sep",
-    "ano": "2023",
+    "ano": "2019",
     "qtd": 7
   },
   {
-    "municipio": "Mogeiro",
-    "mes": "Oct",
-    "ano": "2023",
-    "qtd": 11
-  },
-  {
-    "municipio": "Mogeiro",
-    "mes": "Nov",
-    "ano": "2023",
-    "qtd": 14
-  },
-  {
-    "municipio": "Mogeiro",
-    "mes": "Dec",
-    "ano": "2023",
-    "qtd": 5
-  },
-  {
     "municipio": "Serra Grande",
-    "mes": "May",
+    "mes": "Mar",
     "ano": "2019",
     "qtd": 2
   },
   {
     "municipio": "Serra Grande",
+    "mes": "May",
+    "ano": "2019",
+    "qtd": 3
+  },
+  {
+    "municipio": "Serra Grande",
     "mes": "Jun",
+    "ano": "2019",
+    "qtd": 4
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Aug",
     "ano": "2019",
     "qtd": 1
   },
@@ -651,23 +669,41 @@
     "municipio": "Serra Grande",
     "mes": "Jan",
     "ano": "2021",
-    "qtd": 3
+    "qtd": 5
   },
   {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2021",
-    "qtd": 1
+    "qtd": 8
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Apr",
+    "ano": "2021",
+    "qtd": 8
   },
   {
     "municipio": "Serra Grande",
     "mes": "May",
     "ano": "2021",
-    "qtd": 1
+    "qtd": 3
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Jun",
+    "ano": "2021",
+    "qtd": 3
   },
   {
     "municipio": "Serra Grande",
     "mes": "Jul",
+    "ano": "2021",
+    "qtd": 4
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Aug",
     "ano": "2021",
     "qtd": 3
   },
@@ -675,17 +711,65 @@
     "municipio": "Serra Grande",
     "mes": "Sep",
     "ano": "2021",
+    "qtd": 3
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Oct",
+    "ano": "2021",
     "qtd": 2
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Nov",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Dec",
+    "ano": "2021",
+    "qtd": 10
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Jan",
+    "ano": "2022",
+    "qtd": 6
   },
   {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2022",
-    "qtd": 1
+    "qtd": 10
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 3
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Apr",
+    "ano": "2022",
+    "qtd": 3
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 3
   },
   {
     "municipio": "Serra Grande",
     "mes": "Jun",
+    "ano": "2022",
+    "qtd": 3
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Jul",
     "ano": "2022",
     "qtd": 2
   },
@@ -693,25 +777,31 @@
     "municipio": "Serra Grande",
     "mes": "Aug",
     "ano": "2022",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Serra Grande",
     "mes": "Sep",
     "ano": "2022",
-    "qtd": 1
+    "qtd": 4
   },
   {
     "municipio": "Serra Grande",
     "mes": "Oct",
     "ano": "2022",
-    "qtd": 2
+    "qtd": 4
   },
   {
     "municipio": "Serra Grande",
     "mes": "Nov",
     "ano": "2022",
-    "qtd": 6
+    "qtd": 10
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Dec",
+    "ano": "2022",
+    "qtd": 7
   },
   {
     "municipio": "Serra Grande",
@@ -774,70 +864,148 @@
     "qtd": 1
   },
   {
-    "municipio": "Areia",
-    "mes": "Jan",
+    "municipio": "Mogeiro",
+    "mes": "Sep",
     "ano": "2023",
-    "qtd": 1
+    "qtd": 7
   },
   {
-    "municipio": "Areia",
-    "mes": "Feb",
+    "municipio": "Mogeiro",
+    "mes": "Oct",
     "ano": "2023",
-    "qtd": 2
+    "qtd": 11
   },
   {
-    "municipio": "Areia",
-    "mes": "Mar",
+    "municipio": "Mogeiro",
+    "mes": "Nov",
     "ano": "2023",
-    "qtd": 1
+    "qtd": 14
   },
   {
-    "municipio": "Monteiro",
-    "mes": "Jan",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Monteiro",
-    "mes": "Feb",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Monteiro",
+    "municipio": "Mogeiro",
     "mes": "Dec",
     "ano": "2023",
+    "qtd": 5
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Jul",
+    "ano": "2020",
     "qtd": 1
   },
   {
-    "municipio": "Vista Serrana",
+    "municipio": "Campina Grande",
     "mes": "Aug",
+    "ano": "2020",
+    "qtd": 3
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Mar",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Jul",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Nov",
+    "ano": "2021",
+    "qtd": 2
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Feb",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Mar",
     "ano": "2023",
     "qtd": 2
   },
   {
-    "municipio": "Imaculada",
+    "municipio": "Campina Grande",
+    "mes": "Apr",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 5
+  },
+  {
+    "municipio": "Campina Grande",
+    "mes": "Jun",
+    "ano": "2023",
+    "qtd": 4
+  },
+  {
+    "municipio": "João Pessoa",
+    "mes": "Aug",
+    "ano": "2019",
+    "qtd": 1
+  },
+  {
+    "municipio": "João Pessoa",
+    "mes": "Feb",
+    "ano": "2020",
+    "qtd": 2
+  },
+  {
+    "municipio": "João Pessoa",
     "mes": "Apr",
     "ano": "2020",
     "qtd": 1
   },
   {
-    "municipio": "Imaculada",
+    "municipio": "João Pessoa",
+    "mes": "Aug",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "João Pessoa",
+    "mes": "Feb",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "João Pessoa",
+    "mes": "Feb",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "João Pessoa",
+    "mes": "Sep",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "João Pessoa",
+    "mes": "Apr",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "João Pessoa",
     "mes": "May",
     "ano": "2023",
     "qtd": 1
   },
   {
-    "municipio": "Imaculada",
-    "mes": "Oct",
+    "municipio": "João Pessoa",
+    "mes": "Jun",
     "ano": "2023",
     "qtd": 1
-  },
-  {
-    "municipio": "Arara",
-    "mes": "Oct",
-    "ano": "2023",
-    "qtd": 2
   },
   {
     "municipio": "Conceição",
@@ -847,14 +1015,74 @@
   },
   {
     "municipio": "Conceição",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Conceição",
     "mes": "May",
     "ano": "2023",
     "qtd": 2
   },
   {
-    "municipio": "Solânea",
-    "mes": "Nov",
+    "municipio": "Salgadinho",
+    "mes": "Sep",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Salgadinho",
+    "mes": "Jan",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Salgadinho",
+    "mes": "Feb",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Salgadinho",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 5
+  },
+  {
+    "municipio": "Salgadinho",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Salgadinho",
+    "mes": "Jun",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Salgadinho",
+    "mes": "May",
     "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Bonito de Santa Fé",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Bonito de Santa Fé",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "São Bento",
+    "mes": "Jun",
+    "ano": "2022",
     "qtd": 1
   },
   {
@@ -894,8 +1122,260 @@
     "qtd": 2
   },
   {
+    "municipio": "Olivedos",
+    "mes": "Dec",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Nov",
+    "ano": "2021",
+    "qtd": 2
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Dec",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Jan",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Apr",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 6
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Aug",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Sep",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Jan",
+    "ano": "2023",
+    "qtd": 4
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Mar",
+    "ano": "2023",
+    "qtd": 3
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 4
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Jun",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Aug",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Sep",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Nov",
+    "ano": "2023",
+    "qtd": 3
+  },
+  {
+    "municipio": "Brejo do Cruz",
+    "mes": "Jan",
+    "ano": "2019",
+    "qtd": 1
+  },
+  {
+    "municipio": "Brejo do Cruz",
+    "mes": "Sep",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "Sousa",
+    "mes": "Mar",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Sousa",
+    "mes": "Oct",
+    "ano": "2021",
+    "qtd": 2
+  },
+  {
+    "municipio": "Sousa",
+    "mes": "Jan",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Sousa",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Sep",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Jun",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Pilar",
+    "mes": "Feb",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Pilar",
+    "mes": "Dec",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Pilar",
+    "mes": "Jul",
+    "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Juru",
+    "mes": "Aug",
+    "ano": "2019",
+    "qtd": 1
+  },
+  {
+    "municipio": "Juru",
+    "mes": "Nov",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "Juru",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Juru",
+    "mes": "Nov",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Bananeiras",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Areia",
+    "mes": "Jan",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Areia",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Areia",
+    "mes": "Mar",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "Jun",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "Jul",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
     "municipio": "Tavares",
     "mes": "Aug",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "Oct",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "Dec",
     "ano": "2022",
     "qtd": 1
   },
@@ -906,10 +1386,34 @@
     "qtd": 1
   },
   {
+    "municipio": "Princesa Isabel",
+    "mes": "Mar",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Princesa Isabel",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Princesa Isabel",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Princesa Isabel",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
     "municipio": "Junco do Seridó",
     "mes": "Feb",
     "ano": "2023",
-    "qtd": 8
+    "qtd": 7
   },
   {
     "municipio": "Junco do Seridó",
@@ -924,116 +1428,218 @@
     "qtd": 1
   },
   {
-    "municipio": "Teixeira",
-    "mes": "Mar",
+    "municipio": "Congo",
+    "mes": "Jun",
     "ano": "2023",
     "qtd": 1
   },
   {
-    "municipio": "João Pessoa",
+    "municipio": "Solânea",
+    "mes": "Nov",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Imaculada",
     "mes": "Aug",
     "ano": "2019",
     "qtd": 1
   },
   {
-    "municipio": "João Pessoa",
-    "mes": "Aug",
-    "ano": "2020",
+    "municipio": "Imaculada",
+    "mes": "Oct",
+    "ano": "2019",
     "qtd": 1
   },
   {
-    "municipio": "João Pessoa",
-    "mes": "Sep",
-    "ano": "2020",
-    "qtd": 1
-  },
-  {
-    "municipio": "João Pessoa",
-    "mes": "Feb",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "João Pessoa",
-    "mes": "Sep",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "João Pessoa",
+    "municipio": "Imaculada",
     "mes": "Apr",
-    "ano": "2023",
-    "qtd": 2
+    "ano": "2020",
+    "qtd": 1
   },
   {
-    "municipio": "João Pessoa",
+    "municipio": "Imaculada",
+    "mes": "Nov",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "Imaculada",
     "mes": "May",
-    "ano": "2023",
+    "ano": "2021",
     "qtd": 1
   },
   {
-    "municipio": "João Pessoa",
-    "mes": "Jun",
-    "ano": "2023",
+    "municipio": "Imaculada",
+    "mes": "Nov",
+    "ano": "2021",
     "qtd": 1
   },
   {
-    "municipio": "Mari",
+    "municipio": "Imaculada",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Imaculada",
     "mes": "Sep",
     "ano": "2022",
+    "qtd": 2
+  },
+  {
+    "municipio": "Imaculada",
+    "mes": "Dec",
+    "ano": "2022",
     "qtd": 1
   },
   {
-    "municipio": "Mari",
+    "municipio": "Imaculada",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Imaculada",
+    "mes": "Oct",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Soledade",
+    "mes": "Jul",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Guarabira",
+    "mes": "Oct",
+    "ano": "2019",
+    "qtd": 2
+  },
+  {
+    "municipio": "Guarabira",
+    "mes": "Mar",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
+    "mes": "Sep",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
+    "mes": "Nov",
+    "ano": "2020",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
+    "mes": "Jan",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
     "mes": "Feb",
     "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
+    "mes": "Jul",
+    "ano": "2023",
     "qtd": 2
   },
   {
-    "municipio": "Mari",
+    "municipio": "Emas",
+    "mes": "Jul",
+    "ano": "2019",
+    "qtd": 1
+  },
+  {
+    "municipio": "Emas",
     "mes": "Jun",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Emas",
+    "mes": "Sep",
     "ano": "2023",
     "qtd": 1
   },
   {
-    "municipio": "Sousa",
-    "mes": "Jan",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Sousa",
-    "mes": "May",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Salgadinho",
-    "mes": "Jan",
-    "ano": "2022",
-    "qtd": 2
-  },
-  {
-    "municipio": "Salgadinho",
-    "mes": "Mar",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "Salgadinho",
-    "mes": "May",
-    "ano": "2022",
-    "qtd": 1
-  },
-  {
-    "municipio": "Salgadinho",
-    "mes": "May",
-    "ano": "2023",
+    "municipio": "Itaporanga",
+    "mes": "Jul",
+    "ano": "2021",
     "qtd": 1
   },
   {
     "municipio": "Puxinanã",
     "mes": "Apr",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Vista Serrana",
+    "mes": "Aug",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Santana dos Garrotes",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "Santana dos Garrotes",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Malta",
+    "mes": "Oct",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Malta",
+    "mes": "May",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Aguiar",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 1
+  },
+  {
+    "municipio": "Arara",
+    "mes": "Oct",
+    "ano": "2023",
+    "qtd": 2
+  },
+  {
+    "municipio": "Monteiro",
+    "mes": "Jan",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Monteiro",
+    "mes": "Feb",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Monteiro",
+    "mes": "Dec",
     "ano": "2023",
     "qtd": 1
   },
@@ -1050,26 +1656,14 @@
     "qtd": 1
   },
   {
-    "municipio": "Princesa Isabel",
-    "mes": "Feb",
+    "municipio": "Santa Terezinha",
+    "mes": "Nov",
     "ano": "2023",
     "qtd": 1
   },
   {
-    "municipio": "Juru",
-    "mes": "Aug",
-    "ano": "2019",
-    "qtd": 1
-  },
-  {
-    "municipio": "Emas",
-    "mes": "Jul",
-    "ano": "2019",
-    "qtd": 1
-  },
-  {
-    "municipio": "Emas",
-    "mes": "Sep",
+    "municipio": "Teixeira",
+    "mes": "Mar",
     "ano": "2023",
     "qtd": 1
   },
@@ -1086,63 +1680,9 @@
     "qtd": 1
   },
   {
-    "municipio": "Brejinho - PE",
-    "mes": "Jul",
-    "ano": "2023",
-    "qtd": 2
-  },
-  {
-    "municipio": "Soledade",
-    "mes": "Jul",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Congo",
-    "mes": "Jun",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Malta",
-    "mes": "Oct",
-    "ano": "2021",
-    "qtd": 1
-  },
-  {
-    "municipio": "Malta",
-    "mes": "May",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Olivedos",
-    "mes": "Dec",
-    "ano": "2021",
-    "qtd": 1
-  },
-  {
-    "municipio": "Bananeiras",
-    "mes": "Feb",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Santa Terezinha",
-    "mes": "Nov",
-    "ano": "2023",
-    "qtd": 1
-  },
-  {
-    "municipio": "Bonito de Santa Fé",
-    "mes": "May",
-    "ano": "2021",
-    "qtd": 1
-  },
-  {
-    "municipio": "Santana dos Garrotes",
-    "mes": "May",
-    "ano": "2023",
+    "municipio": "Piancó",
+    "mes": "Mar",
+    "ano": "2022",
     "qtd": 1
   },
   {
@@ -1153,225 +1693,285 @@
   },
   {
     "municipio": "Todos",
-    "mes": "May",
+    "mes": "Jan",
     "ano": "2019",
-    "qtd": 4
+    "qtd": 1
   },
   {
     "municipio": "Todos",
-    "mes": "Jun",
+    "mes": "Feb",
     "ano": "2019",
-    "qtd": 4
+    "qtd": 7
   },
   {
     "municipio": "Todos",
-    "mes": "Jul",
-    "ano": "2019",
-    "qtd": 9
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Aug",
-    "ano": "2019",
-    "qtd": 6
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Sep",
-    "ano": "2019",
-    "qtd": 3
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Nov",
+    "mes": "Mar",
     "ano": "2019",
     "qtd": 2
   },
   {
     "municipio": "Todos",
-    "mes": "Jan",
-    "ano": "2020",
-    "qtd": 8
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Feb",
-    "ano": "2020",
-    "qtd": 8
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Mar",
-    "ano": "2020",
-    "qtd": 9
-  },
-  {
-    "municipio": "Todos",
     "mes": "Apr",
-    "ano": "2020",
-    "qtd": 6
+    "ano": "2019",
+    "qtd": 30
   },
   {
     "municipio": "Todos",
     "mes": "May",
-    "ano": "2020",
-    "qtd": 7
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Jul",
-    "ano": "2020",
-    "qtd": 1
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Aug",
-    "ano": "2020",
-    "qtd": 1
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Sep",
-    "ano": "2020",
-    "qtd": 3
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Jan",
-    "ano": "2021",
-    "qtd": 5
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Feb",
-    "ano": "2021",
-    "qtd": 18
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Mar",
-    "ano": "2021",
-    "qtd": 8
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Apr",
-    "ano": "2021",
-    "qtd": 7
-  },
-  {
-    "municipio": "Todos",
-    "mes": "May",
-    "ano": "2021",
-    "qtd": 13
+    "ano": "2019",
+    "qtd": 19
   },
   {
     "municipio": "Todos",
     "mes": "Jun",
-    "ano": "2021",
-    "qtd": 8
+    "ano": "2019",
+    "qtd": 19
   },
   {
     "municipio": "Todos",
     "mes": "Jul",
-    "ano": "2021",
-    "qtd": 6
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Sep",
-    "ano": "2021",
-    "qtd": 6
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Oct",
-    "ano": "2021",
-    "qtd": 5
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Nov",
-    "ano": "2021",
-    "qtd": 3
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Dec",
-    "ano": "2021",
-    "qtd": 6
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Jan",
-    "ano": "2022",
-    "qtd": 27
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Feb",
-    "ano": "2022",
-    "qtd": 6
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Mar",
-    "ano": "2022",
-    "qtd": 7
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Apr",
-    "ano": "2022",
-    "qtd": 14
-  },
-  {
-    "municipio": "Todos",
-    "mes": "May",
-    "ano": "2022",
-    "qtd": 7
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Jun",
-    "ano": "2022",
-    "qtd": 9
-  },
-  {
-    "municipio": "Todos",
-    "mes": "Jul",
-    "ano": "2022",
-    "qtd": 11
+    "ano": "2019",
+    "qtd": 19
   },
   {
     "municipio": "Todos",
     "mes": "Aug",
-    "ano": "2022",
-    "qtd": 11
+    "ano": "2019",
+    "qtd": 19
   },
   {
     "municipio": "Todos",
     "mes": "Sep",
-    "ano": "2022",
-    "qtd": 18
+    "ano": "2019",
+    "qtd": 17
   },
   {
     "municipio": "Todos",
     "mes": "Oct",
-    "ano": "2022",
+    "ano": "2019",
     "qtd": 4
   },
   {
     "municipio": "Todos",
     "mes": "Nov",
-    "ano": "2022",
+    "ano": "2019",
+    "qtd": 5
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Dec",
+    "ano": "2019",
+    "qtd": 5
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jan",
+    "ano": "2020",
+    "qtd": 24
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Feb",
+    "ano": "2020",
+    "qtd": 40
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Mar",
+    "ano": "2020",
+    "qtd": 48
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Apr",
+    "ano": "2020",
+    "qtd": 16
+  },
+  {
+    "municipio": "Todos",
+    "mes": "May",
+    "ano": "2020",
+    "qtd": 16
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jun",
+    "ano": "2020",
     "qtd": 6
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jul",
+    "ano": "2020",
+    "qtd": 6
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Aug",
+    "ano": "2020",
+    "qtd": 11
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Sep",
+    "ano": "2020",
+    "qtd": 8
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Oct",
+    "ano": "2020",
+    "qtd": 3
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Nov",
+    "ano": "2020",
+    "qtd": 4
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jan",
+    "ano": "2021",
+    "qtd": 14
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Feb",
+    "ano": "2021",
+    "qtd": 50
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Mar",
+    "ano": "2021",
+    "qtd": 37
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Apr",
+    "ano": "2021",
+    "qtd": 32
+  },
+  {
+    "municipio": "Todos",
+    "mes": "May",
+    "ano": "2021",
+    "qtd": 48
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jun",
+    "ano": "2021",
+    "qtd": 23
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jul",
+    "ano": "2021",
+    "qtd": 23
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Aug",
+    "ano": "2021",
+    "qtd": 9
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Sep",
+    "ano": "2021",
+    "qtd": 14
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Oct",
+    "ano": "2021",
+    "qtd": 18
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Nov",
+    "ano": "2021",
+    "qtd": 18
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Dec",
+    "ano": "2021",
+    "qtd": 23
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jan",
+    "ano": "2022",
+    "qtd": 44
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Feb",
+    "ano": "2022",
+    "qtd": 41
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Mar",
+    "ano": "2022",
+    "qtd": 43
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Apr",
+    "ano": "2022",
+    "qtd": 40
+  },
+  {
+    "municipio": "Todos",
+    "mes": "May",
+    "ano": "2022",
+    "qtd": 36
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jun",
+    "ano": "2022",
+    "qtd": 24
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jul",
+    "ano": "2022",
+    "qtd": 24
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Aug",
+    "ano": "2022",
+    "qtd": 52
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Sep",
+    "ano": "2022",
+    "qtd": 40
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Oct",
+    "ano": "2022",
+    "qtd": 10
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Nov",
+    "ano": "2022",
+    "qtd": 23
   },
   {
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2022",
-    "qtd": 6
+    "qtd": 59
   },
   {
     "municipio": "Todos",
