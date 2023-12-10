@@ -2,8 +2,7 @@ name: Script Contagem
 
 on:
   schedule:
-    #- cron: '30 11 * * 1-5' 
-    - cron: '00 14 * * *' 
+    - cron: '30 11 * * 1-5'
 
 jobs:
   run_script:
