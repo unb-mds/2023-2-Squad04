@@ -76,7 +76,8 @@
 
 
 * **Patrícia Helena (Desenvolvedora)**
-<p align="justify">&emsp;&emsp;</p>
+<p align="justify">&emsp;&emsp;Para mim, essa foi a primeira matéria que realmente proporcionou sentir o gostinho de como é o mercado na vida real. Eu não tive feedbacks de amigos antes de começar a matéria, então, inicialmente, fiquei meio receosa. As primeiras semanas foram um 'choque', pois tudo era novo: lidar com equipe, documentação, reuniões e GitHub. No entanto, ter uma equipe prestativa como a minha foi fundamental para que tudo se acertasse.</p>
+<p align="justify">&emsp;&emsp;Hoje, ao final do projeto, melhorei em 1000% meu conhecimento sobre o GitHub. Meu vocabulário está mais rico devido às pesquisas em grupo que realizamos. O que mais gostei da matéria foi que a professora realmente focou e tratou a disciplina como uma simulação do mercado. Tenho certeza de que não só eu, mas todos do grupo, estamos bem mais amadurecidos agora no final desse semestre.</p>
 
 
 
