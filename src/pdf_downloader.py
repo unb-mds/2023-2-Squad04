@@ -35,7 +35,7 @@ options.add_experimental_option('prefs', {
     "download.default_directory": download_dir,
     "download.prompt_for_download": False,
     "download.directory_upgrade": True,
-    "plugins.always_open_pdf_externally": True 
+    "plugins.always_open_pdf_externally": True
 })
 
 driver = webdriver.Chrome(options=options)
@@ -68,7 +68,7 @@ for y in range(ultima_data.year, data_atual.year + 1):
         inicio_dia = ultima_data.day+1 if m == start_month_index and y == ultima_data.year else 1
 
         for i in range(inicio_dia,33):
-            if i > data_atual.day and ultima_data.month == data_atual.month:
+            if i > data_atual.day  and ultima_data.year == data_atual.year and ultima_data.month == data_atual.month:
                 break
             try:
                 day = driver.find_element(By.ID, "calendar_day")
@@ -104,10 +104,12 @@ for y in range(ultima_data.year, data_atual.year + 1):
             except:
                 print(f"Diário do dia {i}/{months[m]}/{y} não encontrado!")
 
-            sleep(5)
+            sleep(1.5)
             close = driver.find_element(By.CLASS_NAME, "bt-fechar")
             close.click()
             sleep(0.2)
+
+sleep(5)
 
 nova_ultima_data = datetime.now()
 salvar_ultima_data(nova_ultima_data)
