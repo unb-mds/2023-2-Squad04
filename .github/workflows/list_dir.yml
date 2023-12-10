@@ -2,8 +2,7 @@ name: Script Listagem de PDFs
 
 on:
   schedule:
-    #- cron: '10 11 * * 1-5' 
-    - cron: '00 07 * * *' 
+    - cron: '10 11 * * 1-5'
 
 jobs:
   run_script:
