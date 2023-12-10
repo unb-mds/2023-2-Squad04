@@ -55,37 +55,59 @@
 <p align="justify">&emsp;&emsp;Falando em oportunidade de aprendizado, sem dúvidas posso afirmar que uma das grandes conquistas pessoais nesse projeto foi a ampliação do meu conhecimento sobre o GitHub. Já havia utilizado o git antes, mas a colaboração em equipe exigiu uma compreensão mais completa e aprofundada, o que me levou a explorar funcionalidades e técnicas que antes desconhecia.</p>
 <p align="justify">&emsp;&emsp;Em retrospectiva, o caminho trilhado até aqui destaca não apenas as conquistas técnicas, mas também o crescimento pessoal. Estou grato que o projeto esteja chegando ao fim, afinal, todos merecemos longas férias. Agradeço a cada um dos colegas que participaram do projeto. Concluo este post mortem afirmando que certamente esta experiência moldará positivamente minha abordagem em projetos futuros.</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="300" />
+</p>
 
 * **Danilo César (Arquiteto)**
 <p align="justify">&emsp;&emsp;Durante a produção deste trabalho, foi possível compreender o ciclo do desenvolvimento de software, desde a concepção do software, passando pela coleta de requisitos, planejamento da arquitetura, elaboração dos designs, desenvolvimento do software e testes. Para realizar todas essas atividades, foi necessário adaptar nossa forma de trabalho às práticas de desenvolvimento ágil, mais especificamente utilizando Scrum e Kanban. Inicialmente, implementar essas técnicas na equipe não foi uma tarefa fácil, mas ao longo das sprints, fomos aprimorando nosso processo até alcançarmos um fluxo de trabalho mais fluido.</p>
 <p align="justify">&emsp;&emsp;Além disso, tivemos a oportunidade de entrar em contato com diversas áreas, como desenvolvimento web, coleta de dados e design. Acredito que essas experiências são de grande valor para nosso desenvolvimento profissional. Por fim, a principal lição aprendida com a disciplina e o desenvolvimento do licitaíba foi que criar um software é um processo muito mais complexo do que simplesmente escrever código; há toda uma metodologia por trás que deve ser seguida para garantir o desenvolvimento de um software de qualidade.</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/6tb0l9xAT5z48xdwFE/giphy.gif" width="300" />
+</p>
 
 * **Fernando Gabriel (Desenvolvedor)**
 <p align="justify">&emsp;&emsp;Refletindo sobre a trajetória do projeto, percebo que houve oportunidades valiosas para ajustes, especialmente no âmbito do desenvolvimento do back-end. Um ponto crucial que emergiu foi a complexidade da gestão do tempo. A correria do semestre nos pressionou a equilibrar várias demandas, o que afetou diretamente a profundidade do meu envolvimento no back-end. Uma abordagem mais antecipada nessa área teria proporcionado uma compreensão mais robusta e facilitado a implementação de funcionalidades mais avançadas.</p>
 <p align="justify">&emsp;&emsp;Além disso, a questão da escalabilidade no contexto do back-end se destacou como uma lição valiosa.A antecipação dessa necessidade fundamental teria evitado ajustes tardios e garantido uma base mais sólida para o produto final.</p>
 <p align="justify">&emsp;&emsp;Apesar dos desafios, a experiência foi enriquecedora. A abordagem colaborativa permitiu que cada membro contribuísse com suas habilidades, e a flexibilidade para aprender por conta própria foi um ponto positivo. Em retrospecto, acredito que, ao reconhecer mais cedo a importância do back-end e gerenciar a pressão do semestre, poderíamos ter otimizado ainda mais nossa abordagem. Contudo, ao seguir princípios ágeis, conseguimos superar os obstáculos e concluir o projeto de maneira satisfatória.</p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif" width="300" />
+</p>
 
 * **Júlio César (Scrum Master)**
 <p align="justify">&emsp;&emsp;O curso "Métodos e Desenvolvimento de Software" se revelou desafiador, exigindo um significativo investimento de tempo dividido entre fases pré e pós-MDS. Assumir o papel de Scrum Master, inicialmente percebido como simples, provou-se desafiador diante da necessidade de manter práticas ágeis em um semestre intenso. Embora tenha dedicado tempo à documentação e métricas, a alternância entre responsabilidades impactou meu desenvolvimento como programador.</p>
 <p align="justify">&emsp;&emsp;O elemento essencial da experiência foi a formação de uma equipe coesa, proporcionando não apenas um ambiente de aprendizado substancial, mas também um senso de família. A diversão ao final das sprints fortaleceu os laços, enquanto as contribuições individuais na resolução de questões e nas atividades de DevOps foram fundamentais.</p>
 <p align="justify">&emsp;&emsp;A gratidão permeia a experiência, destacando-a como a mais enriquecedora em termos de colaboração em grupo durante a faculdade, onde, apesar dos desafios, o esforço dedicado resultou em uma jornada que valeu a pena</p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/nfVwxv1dHACdOCtTyQ/giphy.gif" width="300" />
+</p>
 
 * **Patrícia Helena (Desenvolvedora)**
 <p align="justify">&emsp;&emsp;Para mim, essa foi a primeira matéria que realmente proporcionou sentir o gostinho de como é o mercado na vida real. Eu não tive feedbacks de amigos antes de começar a matéria, então, inicialmente, fiquei meio receosa. As primeiras semanas foram um 'choque', pois tudo era novo: lidar com equipe, documentação, reuniões e GitHub. No entanto, ter uma equipe prestativa como a minha foi fundamental para que tudo se acertasse.</p>
 <p align="justify">&emsp;&emsp;Hoje, ao final do projeto, melhorei em 1000% meu conhecimento sobre o GitHub. Meu vocabulário está mais rico devido às pesquisas em grupo que realizamos. O que mais gostei da matéria foi que a professora realmente focou e tratou a disciplina como uma simulação do mercado. Tenho certeza de que não só eu, mas todos do grupo, estamos bem mais amadurecidos agora no final desse semestre.</p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" width="300" />
+</p>
 
 * **Rayene Ferreira (Desenvolvedora)**
-<p align="justify">&emsp;&emsp;Este projeto proporcionou uma jornada desafiadora repleta de novidades, mas cada desafio foi uma oportunidade de crescimento. Comecei a matéria com entusiasmo e motivação, mas ao longo do projeto meu ritmo foi diminuindo por conta das dificuldades tecnicas que foram surgindo no projeto. Realmente é uma jornada muito intessante, eu nunca tinha tido uma experiência tão completa com github quanto tive neste período do projeto e isso ajudou demais na colaboração do grupo como um todo.</p>
+<p align="justify">&emsp;&emsp;Este projeto proporcionou uma jornada desafiadora repleta de novidades, mas cada desafio foi uma oportunidade de crescimento. Comecei a matéria com entusiasmo e motivação, mas ao longo do projeto meu ritmo foi diminuindo por conta das dificuldades tecnicas que foram surgindo no projeto. Realmente é uma jornada muito interessante, eu nunca tinha tido uma experiência tão completa com github quanto tive neste período do projeto e isso ajudou demais na colaboração do grupo como um todo.</p>
 <p align="justify">&emsp;&emsp;Compreendo totalmente como a jornada de desenvolvimento de software pode ser intensa e, ao mesmo tempo, gratificante. É inspirador ver como cada um do grupo enfrentou os desafios e encontrou oportunidades de crescimento em cada obstáculo. Compartilhar conhecimentos e superar obstáculos juntos mostrou que era possível realizar as atividades do projeto.</p>
 <p align="justify">&emsp;&emsp;Em última análise, o que importa é a jornada em si. Cada linha de código, cada documentção e cada estudo contribui para o crescimento pessoal e profissional, moldando não apenas o projeto em si, mas também toda a equipe. Essa reflexão sobre a experiência no GitHub e a colaboração em equipe demonstra não apenas competência técnica, mas também um valioso entendimento da importância das interações humanas no mundo do desenvolvimento de software. Sem dúvidas foi uma jornada única e memorável.</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300" />
+</p>
+
 * **Victor Moreira (Arquiteto)**
+<p align="justify">&emsp;&emsp;Desde o início da matéria pensei que o projeto seria divertido e desafiador, e as minhas expectativas não foram quebradas. Porém por mais que a ideia de fazer um produto com valor de mercado seja muito boa, o escopo do projeto e o objetivo propostos foram muito vagos, fazendo muitos grupos perderem tempo sem saber o que fazer.</p>
+<p align="justify">&emsp;&emsp;Por pior que tenha sido o início, foi super importante para nós alunos entendermos mais do mercado, já que o projeto nem sempre será bem documentado e teremos que trabalhar com isso. Meu maior problema com a matéria foi reconciliar o tempo livre que já é escasso com o projeto, mas isso acontece com todo mundo em algum momento então não é tão problemático assim. Muitos conhecimentos foram adquiridos e o trabalho da equipe foi muito bom, a experiência também foi interessante e necessária para o nosso crescimento, no geral foi uma boa matéria</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/NG6nBdv9Ba0ONYLBsx/giphy.gif" width="300" />
+</p>
 <!-- ADD O CONTEÚDO ACIMA -->
 </div>
