@@ -23,12 +23,14 @@ O projeto "Licitaíba" é uma iniciativa destinada a automatizar a coleta e o ac
 ---
 
 ## 👨‍🔧 Tutorial para executar o Projeto "Licitaíba"
-Este é um guia passo a passo para ajudar você a executar o projeto em sua máquina. Este tutorial assume que você já possui o Docker e o Docker Compose instalados no seu sistema.
+Este é um guia passo a passo para ajudar você a executar o projeto em sua máquina. Primeiramente você precisa entender como o projeto funciona. Cada script é rodado por agendamento de forma **automática** de segunda a sexta, seguindo uma ordem que deve ser respeitada, tudo isso ocorre pelo git actions.
+
+
+Você pode conferir também nosso repositório exclusivo do Front-End -> https://github.com/unb-mds/2023.2_Licitaiba
 
 ### ⚠️ Pré-requisitos
-- [Django](https://www.djangoproject.com/download/)
-- [Docker](https://www.docker.com/get-started)
-- [Docker Compose](https://docs.docker.com/compose/install/)
+- [Python v3.10.12 ou superior](https://www.python.org/downloads/)
+
 
 ### 1. ⏬ Clonar o Repositório
 Para começar, abra o terminal e clone o repositório do GitHub em um diretório local da seguinte maneira:
@@ -42,21 +44,34 @@ Vamos entrar na pasta "src" do projeto usando o terminal. Certifique-se de estar
 cd 2023-2-Squad04/src
 ```
 
-### 3. 💻 Build e Iniciar com Docker Compose
-Agora, você pode usar o seguinte comando para construir a imagem Docker e iniciar os serviços ao mesmo tempo:
+### 3. 💻 Baixar pdfs de acordo com a última data resgistrada no pdf_downloader_last_date.txt
+No repositório, a primeira ação começa após a última data registrada e, ao concluir, atualiza a data com a do último PDF baixado.Esta programada para ocorrer as 8:00hrs, usando o seguinte comando:
 ```
-docker-compose up --build
-```
-
-Sempre que quiser inicar o projeto basta usar:
-```
-docker-compose up
+python3 pdf_downloader.py
 ```
 
-### 4. 🌐 Acessando no navegador
-No navegador, digite o seguinte endereço:
+### 4. 📑 Listar o diretório src/pdfs/ e gravar em um txt todos os pdfs baixados
+Essa é a segunda ação programada no repositório que ira ocorrer as 08:10hrs, usando o seguinte comando: 
 ```
-http://localhost:8000
+python3 list_dir.py
+```
+
+### 5. 📖 Extração das licitações dos pdfs baixados no passo anterior
+Seguindo a ordem, essa é a terceira ação programada que vai ocorrer as 08:20hrs, usando o seguinte comando: 
+```
+python3 readpdf.py
+```
+
+### 6. 🌐 Contar a quantidade de licitações em cada municipio em todo os dados extraídos no arquivo json gerado pelo readpdf
+Quarta ação programada que ocorre as 08:30hrs, usando o seguinte comando: 
+```
+python3 counter.py
+```
+
+### 7. 🗑️ Remoção dos Pdfs baixados
+Quinto e ultimo comando programado no repositório, que sera acionado as 18:30hrs, usando o seguinte comando: 
+```
+python3 remove_pdf.py
 ```
 
 ---
