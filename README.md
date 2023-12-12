@@ -84,7 +84,9 @@ python3 remove_pdf.py
 <p align="center">
   <img src="docs/assets/imgs/img_sobre.png" alt="Bandeira da Paraíba" width="1000" style="display: block; margin: 0 auto;">
 </p> 
-
+<p align="center">
+  <img src="docs/assets/imgs/transicaoEscuroClaro.gif" alt="Bandeira da Paraíba" width="1000" style="display: block; margin: 0 auto;">
+</p> 
 ---
 
 
