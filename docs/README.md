@@ -1,10 +1,11 @@
-
+<div class="doc-body">
 <!-- ADD O CONTEÚDO ABAIXO -->
-![GitHub repo size](https://img.shields.io/github/repo-size/unb-mds/2023-2-Squad04?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/unb-mds/2023-2-Squad04?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/unb-mds/2023-2-Squad04?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/unb-mds/2023-2-Squad04?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad04?style=for-the-badge)
+<img src="https://img.shields.io/github/repo-size/unb-mds/2023-2-Squad04?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/unb-mds/2023-2-Squad04?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/unb-mds/2023-2-Squad04?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/unb-mds/2023-2-Squad04?style=for-the-badge">
+<img src="https://img.shields.io/github/issues-pr/unb-mds/2023-2-Squad04?style=for-the-badge">
+
 
 # Licitaíba - Extrator de Licitações do Diário Oficial da Paraíba
 
