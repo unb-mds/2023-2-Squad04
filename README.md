@@ -26,7 +26,9 @@ O projeto "Licitaíba" é uma iniciativa destinada a automatizar a coleta e o ac
 Este é um guia passo a passo para ajudar você a executar o projeto em sua máquina. Primeiramente você precisa entender como o projeto funciona. Cada script é rodado por agendamento de forma **automática** de segunda a sexta, seguindo uma ordem que deve ser respeitada, tudo isso ocorre pelo git actions.
 
 
-Você pode conferir também nosso repositório exclusivo do Front-End -> https://github.com/unb-mds/2023.2_Licitaiba
+- Você pode conferir também nosso repositório exclusivo do Front-End -> https://github.com/unb-mds/2023.2_Licitaiba
+- Documentação -> https://unb-mds.github.io/2023-2-Squad04/#/./
+- Post Mortem -> https://unb-mds.github.io/2023-2-Squad04/#/postmortem/postmortem
 
 ### ⚠️ Pré-requisitos
 - [Python v3.10.12 ou superior](https://www.python.org/downloads/)
@@ -45,35 +47,35 @@ cd 2023-2-Squad04/src
 ```
 
 ### 3. 💻 Baixar pdfs de acordo com a última data resgistrada no pdf_downloader_last_date.txt
-No repositório, a primeira ação começa após a última data registrada e, ao concluir, atualiza a data com a do último PDF baixado.Esta programada para ocorrer as 8:00hrs, usando o seguinte comando:
+Nesse passo, o script de download sempre começa após a data posterior registrada no arquivo txt, ao concluir os downloads, o conteúdo do arquivo é atualizado com a data do último PDF baixado. O script está agendado para rodar às 08:00h., usando o seguinte comando:
 ```
 python3 pdf_downloader.py
 ```
 
 ### 4. 📑 Listar o diretório src/pdfs/ e gravar em um txt todos os pdfs baixados
-Essa é a segunda ação programada no repositório que ira ocorrer as 08:10hrs, usando o seguinte comando: 
+Essa é a segunda ação programada no repositório que ira ocorrer às 08:10hrs, usando o seguinte comando: 
 ```
 python3 list_dir.py
 ```
 
 ### 5. 📖 Extração das licitações dos pdfs baixados no passo anterior
-Seguindo a ordem, essa é a terceira ação programada que vai ocorrer as 08:20hrs, usando o seguinte comando: 
+Seguindo a ordem, essa é a terceira ação programada que ocorrerá às 08:20hrs, usando o seguinte comando: 
 ```
 python3 readpdf.py
 ```
 
 ### 6. 🌐 Contar a quantidade de licitações em cada municipio em todo os dados extraídos no arquivo json gerado pelo readpdf
-Quarta ação programada que ocorre as 08:30hrs, usando o seguinte comando: 
+Quarta ação programada que ocorrerá às 08:30hrs, usando o seguinte comando: 
 ```
 python3 counter.py
 ```
 
 ### 7. 🗑️ Remoção dos Pdfs baixados
-Quinto e ultimo comando programado no repositório, que sera acionado as 18:30hrs, usando o seguinte comando: 
+Quinto e último comando programado no repositório, que será acionado às 18:30hrs, usando o seguinte comando: 
 ```
 python3 remove_pdf.py
 ```
-
+Portanto, os dados são atualizados e disponibilizados no site https://unb-mds.github.io/2023.2_Licitaiba/ todos os dias às 08:30hrs. 
 ---
 
 
