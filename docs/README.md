@@ -1,4 +1,4 @@
-![image](https://github.com/unb-mds/2023-2-Squad04/assets/94008339/98049079-9990-4c17-a551-f72e097b01bd)<div class="doc-body">
+
 <!-- ADD O CONTEÚDO ABAIXO -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/unb-mds/2023-2-Squad04?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/unb-mds/2023-2-Squad04?style=for-the-badge)
