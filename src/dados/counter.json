@@ -1224,6 +1224,12 @@
     "qtd": 3
   },
   {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "Dec",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
     "municipio": "Brejo do Cruz",
     "mes": "Jan",
     "ano": "2019",
@@ -2043,6 +2049,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 20
+    "qtd": 21
   }
 ]
