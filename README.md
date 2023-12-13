@@ -26,9 +26,9 @@ O projeto "Licitaíba" é uma iniciativa destinada a automatizar a coleta e o ac
 Este é um guia passo a passo para ajudar você a executar o projeto em sua máquina. Primeiramente você precisa entender como o projeto funciona. Cada script é rodado por agendamento de forma **automática** de segunda a sexta, seguindo uma ordem que deve ser respeitada, tudo isso ocorre pelo git actions.
 
 
-- Você pode conferir também nosso repositório exclusivo do Front-End -> https://github.com/unb-mds/2023.2_Licitaiba
-- Documentação -> https://unb-mds.github.io/2023-2-Squad04/#/./
-- Post Mortem -> https://unb-mds.github.io/2023-2-Squad04/#/postmortem/postmortem
+- [Repositório front-end](https://github.com/unb-mds/2023.2_Licitaiba)
+- [Documentação](https://unb-mds.github.io/2023-2-Squad04/#/./)
+- [Post mortem](https://unb-mds.github.io/2023-2-Squad04/#/postmortem/postmortem)
 
 ### ⚠️ Pré-requisitos
 - [Python v3.10.12 ou superior](https://www.python.org/downloads/)
@@ -75,7 +75,18 @@ Quinto e último comando programado no repositório, que será acionado às 18:3
 ```
 python3 remove_pdf.py
 ```
-Portanto, os dados são atualizados e disponibilizados no site https://unb-mds.github.io/2023.2_Licitaiba/ todos os dias às 08:30hrs. 
+<p align="center">
+  <img src="docs/assets/imgs/img_home.png"  width="1000" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">
+  <img src="docs/assets/imgs/img_equipeClara.png"  width="1000" style="display: block; margin: 0 auto;">
+</p> 
+<p align="center">
+  <img src="docs/assets/imgs/img_sobre.png" alt="Bandeira da Paraíba" width="1000" style="display: block; margin: 0 auto;">
+</p> 
+<p align="center">
+  <img src="docs/assets/imgs/transicaoEscuroClaro.gif" alt="Bandeira da Paraíba" width="1000" style="display: block; margin: 0 auto;">
+</p> 
 ---
 
 
