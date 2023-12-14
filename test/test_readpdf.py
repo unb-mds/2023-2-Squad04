@@ -8,7 +8,7 @@ from datetime import datetime
 @pytest.fixture
 def configurar_ambiente():
 
-    diretorio_atual = os.path.dirname(os.path.abspath(_file_))
+    diretorio_atual = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(diretorio_atual,'..','src', 'lista_pdfs.txt')
     pdf_path = os.path.join(diretorio_atual,'..','src', 'pdfs')
     save_path = os.path.join(diretorio_atual,'..','src', 'dados')
@@ -16,7 +16,7 @@ def configurar_ambiente():
     yield
 
 def test_processar_pdf(configurar_ambiente):
-    diretorio_atual = os.path.dirname(os.path.abspath(_file_))
+    diretorio_atual = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(diretorio_atual,'..','src', 'lista_pdfs.txt')
     pdf_path = os.path.join(diretorio_atual,'..','src', 'pdfs')
     save_path = os.path.join(diretorio_atual,'..','src', 'dados')
