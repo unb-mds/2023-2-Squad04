@@ -333,7 +333,7 @@
     "municipio": "Água Branca",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 5
+    "qtd": 6
   },
   {
     "municipio": "Taperoá",
@@ -417,7 +417,7 @@
     "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 4
+    "qtd": 7
   },
   {
     "municipio": "Patos",
@@ -885,7 +885,7 @@
     "municipio": "Mogeiro",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 7
+    "qtd": 9
   },
   {
     "municipio": "Campina Grande",
@@ -1227,7 +1227,7 @@
     "municipio": "São José da Lagoa Tapada",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Brejo do Cruz",
@@ -2049,6 +2049,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 23
+    "qtd": 30
   }
 ]
