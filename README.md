@@ -1,3 +1,14 @@
-# BRANCH DEDICADA A TESTES
+# Branch de Testes
 
-**Atenção!** Ao rodar o teste de download de pdfs, certifique-se de alterar a data do arquivo em src/pdf_downloader_last_date.txt para uma data posterior não muito distante da atual, já que os pdfs serão baixados no teste. 
+Esta branch é dedicada exclusivamente para testes no projeto.
+
+## Teste de Download de PDFs
+
+Ao executar o teste, por favor, siga estas instruções:
+
+1. Certifique-se de estar na raiz do projeto
+2. Execute:
+```
+python3 -m pytest
+
+```
