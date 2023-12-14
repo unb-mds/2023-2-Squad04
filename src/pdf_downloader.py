@@ -20,10 +20,10 @@ def salvar_ultima_data(data):
     with open(file_path, 'w') as file:
         file.write(data.strftime('%Y-%m-%d'))
 
-diretorio_atual = None  # Adicione essa linha no topo do seu arquivo
+diretorio_atual = None
 
 def configurar_driver(download_dir=None):
-    global diretorio_atual  # Adicione essa linha
+    global diretorio_atual
     
     if diretorio_atual is None:
         diretorio_atual = os.path.dirname(os.path.abspath(__file__))
