@@ -41,7 +41,5 @@ def test_baixar_pdfs(driver):
     nova_ultima_data = datetime.now()
     salvar_ultima_data(nova_ultima_data)
 
-    shutil.rmtree(download_dir)
-
 if __name__ == "__main__":
     pytest.main()
