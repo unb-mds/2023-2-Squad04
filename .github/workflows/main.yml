@@ -1,9 +1,8 @@
-name: Script Extração dos PDFs
+name: Script de download e extração dos Diários Oficiais
 
 on:
   schedule:
-    - cron: '20 11 * * 1-5'
-
+    - cron: '00 11 * * 1-5'
 
 jobs:
   run_script:
@@ -21,16 +20,17 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install selenium
         pip install PyPDF2
 
     - name: Run Python script
-      run: python src/readpdf.py
+      run: python src/pdf_downloader.py && python src/list_dir.py && python src/readpdf.py && python src/counter.py && python src/remove_pdf.py
 
     - name: Commit and push updated last date
       run: |
-        git config user.name "GitHub Actions"
+        git config user.name "Github Actions"
         git config user.email "actions@users.noreply.github.com"
         git pull origin main
         git add --all
-        git commit -m "[ci] executado -> src/readpdf.py"
+        git commit -m "[CI] As Licitações do dia foram extraídas!"
         git push
