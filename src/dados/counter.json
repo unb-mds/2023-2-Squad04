@@ -417,7 +417,7 @@
     "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 10
+    "qtd": 16
   },
   {
     "municipio": "Patos",
@@ -633,7 +633,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 8
+    "qtd": 10
   },
   {
     "municipio": "Serra Grande",
@@ -861,7 +861,7 @@
     "municipio": "Serra Grande",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 13
+    "qtd": 15
   },
   {
     "municipio": "Mogeiro",
@@ -885,7 +885,7 @@
     "municipio": "Mogeiro",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 17
+    "qtd": 19
   },
   {
     "municipio": "Campina Grande",
@@ -1584,6 +1584,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Emas",
+    "mes": "Dec",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -2055,6 +2061,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 71
+    "qtd": 84
   }
 ]
