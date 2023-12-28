@@ -333,7 +333,7 @@
     "municipio": "Água Branca",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 17
+    "qtd": 26
   },
   {
     "municipio": "Taperoá",
@@ -417,7 +417,7 @@
     "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 16
+    "qtd": 19
   },
   {
     "municipio": "Patos",
@@ -861,7 +861,7 @@
     "municipio": "Serra Grande",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 15
+    "qtd": 17
   },
   {
     "municipio": "Mogeiro",
@@ -1308,6 +1308,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Pilar",
+    "mes": "Dec",
+    "ano": "2023",
+    "qtd": 1
+  },
+  {
     "municipio": "Juru",
     "mes": "Aug",
     "ano": "2019",
@@ -1606,6 +1612,12 @@
     "mes": "Aug",
     "ano": "2023",
     "qtd": 2
+  },
+  {
+    "municipio": "Vista Serrana",
+    "mes": "Dec",
+    "ano": "2023",
+    "qtd": 1
   },
   {
     "municipio": "Santana dos Garrotes",
@@ -2061,6 +2073,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2023",
-    "qtd": 89
+    "qtd": 105
   }
 ]
