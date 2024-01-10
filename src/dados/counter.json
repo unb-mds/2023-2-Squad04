@@ -423,7 +423,7 @@
     "municipio": "Taperoá",
     "mes": "Jan",
     "ano": "2024",
-    "qtd": 3
+    "qtd": 5
   },
   {
     "municipio": "Patos",
@@ -906,6 +906,12 @@
     "qtd": 30
   },
   {
+    "municipio": "Mogeiro",
+    "mes": "Jan",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Campina Grande",
     "mes": "Jul",
     "ano": "2020",
@@ -1288,6 +1294,12 @@
     "mes": "May",
     "ano": "2023",
     "qtd": 2
+  },
+  {
+    "municipio": "Sousa",
+    "mes": "Jan",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Mari",
@@ -2103,6 +2115,6 @@
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2024",
-    "qtd": 10
+    "qtd": 14
   }
 ]
