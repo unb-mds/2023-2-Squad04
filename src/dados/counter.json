@@ -669,7 +669,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Feb",
     "ano": "2024",
-    "qtd": 6
+    "qtd": 7
   },
   {
     "municipio": "Serra Grande",
@@ -939,7 +939,7 @@
     "municipio": "Mogeiro",
     "mes": "Feb",
     "ano": "2024",
-    "qtd": 9
+    "qtd": 11
   },
   {
     "municipio": "Campina Grande",
@@ -1812,6 +1812,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Aparecida",
+    "mes": "Feb",
+    "ano": "2024",
+    "qtd": 4
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -2175,6 +2181,6 @@
     "municipio": "Todos",
     "mes": "Feb",
     "ano": "2024",
-    "qtd": 62
+    "qtd": 69
   }
 ]
