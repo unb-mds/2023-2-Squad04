@@ -441,7 +441,7 @@
     "municipio": "Taperoá",
     "mes": "Feb",
     "ano": "2024",
-    "qtd": 17
+    "qtd": 18
   },
   {
     "municipio": "Patos",
@@ -675,7 +675,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Feb",
     "ano": "2024",
-    "qtd": 21
+    "qtd": 24
   },
   {
     "municipio": "Serra Grande",
@@ -1204,6 +1204,12 @@
     "mes": "Nov",
     "ano": "2023",
     "qtd": 2
+  },
+  {
+    "municipio": "Cacimbas",
+    "mes": "Feb",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Olivedos",
@@ -2193,6 +2199,6 @@
     "municipio": "Todos",
     "mes": "Feb",
     "ano": "2024",
-    "qtd": 128
+    "qtd": 133
   }
 ]
