@@ -444,6 +444,12 @@
     "qtd": 18
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Mar",
+    "ano": "2024",
+    "qtd": 5
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -954,6 +960,12 @@
     "qtd": 18
   },
   {
+    "municipio": "Mogeiro",
+    "mes": "Mar",
+    "ano": "2024",
+    "qtd": 3
+  },
+  {
     "municipio": "Campina Grande",
     "mes": "Jul",
     "ano": "2020",
@@ -1390,6 +1402,12 @@
     "mes": "Feb",
     "ano": "2024",
     "qtd": 3
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Mar",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Pilar",
@@ -2200,5 +2218,11 @@
     "mes": "Feb",
     "ano": "2024",
     "qtd": 133
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Mar",
+    "ano": "2024",
+    "qtd": 9
   }
 ]
