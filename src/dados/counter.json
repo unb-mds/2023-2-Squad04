@@ -447,7 +447,7 @@
     "municipio": "Taperoá",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 11
+    "qtd": 13
   },
   {
     "municipio": "Patos",
@@ -1728,6 +1728,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Emas",
+    "mes": "Mar",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -2229,6 +2235,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 19
+    "qtd": 22
   }
 ]
