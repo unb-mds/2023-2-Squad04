@@ -453,7 +453,7 @@
     "municipio": "Taperoá",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 16
+    "qtd": 18
   },
   {
     "municipio": "Patos",
@@ -693,7 +693,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 4
+    "qtd": 7
   },
   {
     "municipio": "Serra Grande",
@@ -975,7 +975,7 @@
     "municipio": "Mogeiro",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 4
+    "qtd": 5
   },
   {
     "municipio": "Campina Grande",
@@ -2241,6 +2241,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 72
+    "qtd": 78
   }
 ]
