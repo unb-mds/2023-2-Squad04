@@ -693,7 +693,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 7
+    "qtd": 10
   },
   {
     "municipio": "Serra Grande",
@@ -932,6 +932,12 @@
   {
     "municipio": "Serra Grande",
     "mes": "Feb",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Mar",
     "ano": "2024",
     "qtd": 1
   },
@@ -2241,6 +2247,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 89
+    "qtd": 93
   }
 ]
