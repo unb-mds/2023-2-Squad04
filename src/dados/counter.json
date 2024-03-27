@@ -453,7 +453,7 @@
     "municipio": "Taperoá",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 21
+    "qtd": 23
   },
   {
     "municipio": "Patos",
@@ -939,7 +939,7 @@
     "municipio": "Serra Grande",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Mogeiro",
@@ -981,7 +981,7 @@
     "municipio": "Mogeiro",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 18
+    "qtd": 21
   },
   {
     "municipio": "Campina Grande",
@@ -1425,7 +1425,7 @@
     "municipio": "Mari",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Pilar",
@@ -2247,6 +2247,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2024",
-    "qtd": 115
+    "qtd": 122
   }
 ]
