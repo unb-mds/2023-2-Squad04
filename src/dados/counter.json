@@ -357,7 +357,7 @@
     "municipio": "Água Branca",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 6
+    "qtd": 19
   },
   {
     "municipio": "Taperoá",
@@ -465,7 +465,7 @@
     "municipio": "Taperoá",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 3
   },
   {
     "municipio": "Patos",
@@ -554,6 +554,12 @@
   {
     "municipio": "Patos",
     "mes": "Feb",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Apr",
     "ano": "2024",
     "qtd": 1
   },
@@ -711,7 +717,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 4
   },
   {
     "municipio": "Serra Grande",
@@ -1422,6 +1428,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Sousa",
+    "mes": "Apr",
+    "ano": "2024",
+    "qtd": 2
+  },
+  {
     "municipio": "Mari",
     "mes": "Sep",
     "ano": "2022",
@@ -1576,6 +1588,12 @@
     "mes": "Nov",
     "ano": "2023",
     "qtd": 1
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "Apr",
+    "ano": "2024",
+    "qtd": 4
   },
   {
     "municipio": "Princesa Isabel",
@@ -2283,6 +2301,6 @@
     "municipio": "Todos",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 21
+    "qtd": 45
   }
 ]
