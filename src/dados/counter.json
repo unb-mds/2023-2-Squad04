@@ -465,7 +465,7 @@
     "municipio": "Taperoá",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 21
+    "qtd": 23
   },
   {
     "municipio": "Patos",
@@ -1017,7 +1017,7 @@
     "municipio": "Mogeiro",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 25
+    "qtd": 26
   },
   {
     "municipio": "Campina Grande",
@@ -1800,6 +1800,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Emas",
+    "mes": "Apr",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -2313,6 +2319,6 @@
     "municipio": "Todos",
     "mes": "Apr",
     "ano": "2024",
-    "qtd": 105
+    "qtd": 109
   }
 ]
