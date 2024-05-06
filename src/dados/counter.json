@@ -732,6 +732,12 @@
     "qtd": 23
   },
   {
+    "municipio": "Areia de Baraúnas",
+    "mes": "May",
+    "ano": "2024",
+    "qtd": 3
+  },
+  {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2019",
@@ -1035,7 +1041,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Campina Grande",
@@ -2349,6 +2355,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2024",
-    "qtd": 19
+    "qtd": 23
   }
 ]
