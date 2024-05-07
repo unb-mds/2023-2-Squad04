@@ -363,7 +363,7 @@
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2024",
-    "qtd": 16
+    "qtd": 17
   },
   {
     "municipio": "Taperoá",
@@ -735,7 +735,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "May",
     "ano": "2024",
-    "qtd": 3
+    "qtd": 5
   },
   {
     "municipio": "Serra Grande",
@@ -2355,6 +2355,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2024",
-    "qtd": 23
+    "qtd": 26
   }
 ]
