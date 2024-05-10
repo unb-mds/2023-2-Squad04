@@ -363,7 +363,7 @@
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2024",
-    "qtd": 21
+    "qtd": 23
   },
   {
     "municipio": "Taperoá",
@@ -735,7 +735,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "May",
     "ano": "2024",
-    "qtd": 7
+    "qtd": 8
   },
   {
     "municipio": "Serra Grande",
@@ -1041,7 +1041,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 5
   },
   {
     "municipio": "Campina Grande",
@@ -1980,6 +1980,12 @@
     "qtd": 1
   },
   {
+    "municipio": "São Mamede",
+    "mes": "May",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -2361,6 +2367,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2024",
-    "qtd": 33
+    "qtd": 40
   }
 ]
