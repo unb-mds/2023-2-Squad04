@@ -363,7 +363,7 @@
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2024",
-    "qtd": 28
+    "qtd": 31
   },
   {
     "municipio": "Taperoá",
@@ -477,7 +477,7 @@
     "municipio": "Taperoá",
     "mes": "May",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 4
   },
   {
     "municipio": "Patos",
@@ -1053,7 +1053,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2024",
-    "qtd": 20
+    "qtd": 23
   },
   {
     "municipio": "Campina Grande",
@@ -1516,6 +1516,12 @@
     "mes": "Mar",
     "ano": "2024",
     "qtd": 3
+  },
+  {
+    "municipio": "Mari",
+    "mes": "May",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Pilar",
@@ -2385,6 +2391,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2024",
-    "qtd": 76
+    "qtd": 85
   }
 ]
