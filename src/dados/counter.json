@@ -363,7 +363,7 @@
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2024",
-    "qtd": 31
+    "qtd": 50
   },
   {
     "municipio": "Taperoá",
@@ -477,7 +477,7 @@
     "municipio": "Taperoá",
     "mes": "May",
     "ano": "2024",
-    "qtd": 4
+    "qtd": 8
   },
   {
     "municipio": "Patos",
@@ -741,7 +741,13 @@
     "municipio": "Areia de Baraúnas",
     "mes": "May",
     "ano": "2024",
-    "qtd": 18
+    "qtd": 23
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 2
   },
   {
     "municipio": "Serra Grande",
@@ -1002,6 +1008,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Serra Grande",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Mogeiro",
     "mes": "Sep",
     "ano": "2023",
@@ -1053,7 +1065,13 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2024",
-    "qtd": 23
+    "qtd": 26
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Campina Grande",
@@ -1434,6 +1452,12 @@
     "qtd": 3
   },
   {
+    "municipio": "São José da Lagoa Tapada",
+    "mes": "May",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Brejo do Cruz",
     "mes": "Jan",
     "ano": "2019",
@@ -1521,7 +1545,7 @@
     "municipio": "Mari",
     "mes": "May",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Pilar",
@@ -2010,6 +2034,18 @@
     "qtd": 1
   },
   {
+    "municipio": "Monte Horebe",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
+    "municipio": "Cachoeira dos Índios",
+    "mes": "May",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -2391,6 +2427,12 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2024",
-    "qtd": 85
+    "qtd": 119
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 5
   }
 ]
