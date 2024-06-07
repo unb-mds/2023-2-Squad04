@@ -48,9 +48,9 @@ def configurar_driver(download_dir=None):
 
 def lidar_com_mensagem_manutencao(driver):
     try:
-        maintenance_message = driver.find_element(By.CLASS_NAME, "sweet-alert")
+        maintenance_message = driver.find_element(By.CLASS_NAME, "swal2-popup")
         if maintenance_message.is_displayed():
-            ciente_button = driver.find_element(By.CLASS_NAME, "confirm")
+            ciente_button = driver.find_element(By.CLASS_NAME, "swal2-confirm")
             ciente_button.click()
             sleep(1)
     except:
