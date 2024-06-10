@@ -480,6 +480,12 @@
     "qtd": 8
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -747,7 +753,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Serra Grande",
@@ -1071,7 +1077,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Campina Grande",
@@ -1546,6 +1552,12 @@
     "mes": "May",
     "ano": "2024",
     "qtd": 2
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Pilar",
@@ -2433,6 +2445,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 5
+    "qtd": 9
   }
 ]
