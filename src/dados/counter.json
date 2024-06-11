@@ -366,6 +366,12 @@
     "qtd": 50
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 17
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -483,7 +489,7 @@
     "municipio": "Taperoá",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 5
   },
   {
     "municipio": "Patos",
@@ -586,6 +592,12 @@
     "mes": "May",
     "ano": "2024",
     "qtd": 3
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
   },
   {
     "municipio": "Areia de Baraúnas",
@@ -1017,7 +1029,7 @@
     "municipio": "Serra Grande",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 3
   },
   {
     "municipio": "Mogeiro",
@@ -2445,6 +2457,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 9
+    "qtd": 33
   }
 ]
