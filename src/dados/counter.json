@@ -369,7 +369,7 @@
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 19
+    "qtd": 22
   },
   {
     "municipio": "Taperoá",
@@ -489,7 +489,7 @@
     "municipio": "Taperoá",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 8
+    "qtd": 9
   },
   {
     "municipio": "Patos",
@@ -597,7 +597,7 @@
     "municipio": "Patos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 3
   },
   {
     "municipio": "Areia de Baraúnas",
@@ -1089,7 +1089,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 4
+    "qtd": 5
   },
   {
     "municipio": "Campina Grande",
@@ -1317,6 +1317,12 @@
     "municipio": "São Bento",
     "mes": "Jun",
     "ano": "2022",
+    "qtd": 1
+  },
+  {
+    "municipio": "São Bento",
+    "mes": "Jun",
+    "ano": "2024",
     "qtd": 1
   },
   {
@@ -2463,6 +2469,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 44
+    "qtd": 52
   }
 ]
