@@ -369,7 +369,7 @@
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 26
+    "qtd": 31
   },
   {
     "municipio": "Taperoá",
@@ -765,7 +765,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 6
+    "qtd": 12
   },
   {
     "municipio": "Serra Grande",
@@ -1089,7 +1089,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 6
+    "qtd": 10
   },
   {
     "municipio": "Campina Grande",
@@ -1581,7 +1581,7 @@
     "municipio": "Mari",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 2
+    "qtd": 4
   },
   {
     "municipio": "Pilar",
@@ -2475,6 +2475,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 64
+    "qtd": 81
   }
 ]
