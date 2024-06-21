@@ -1029,7 +1029,7 @@
     "municipio": "Serra Grande",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 5
+    "qtd": 6
   },
   {
     "municipio": "Mogeiro",
@@ -1089,7 +1089,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 10
+    "qtd": 13
   },
   {
     "municipio": "Campina Grande",
@@ -2475,6 +2475,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 81
+    "qtd": 85
   }
 ]
