@@ -369,7 +369,13 @@
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 32
+    "qtd": 34
+  },
+  {
+    "municipio": "Água Branca",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 40
   },
   {
     "municipio": "Taperoá",
@@ -492,6 +498,12 @@
     "qtd": 11
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 4
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -598,6 +610,12 @@
     "mes": "Jun",
     "ano": "2024",
     "qtd": 3
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 2
   },
   {
     "municipio": "Areia de Baraúnas",
@@ -766,6 +784,12 @@
     "mes": "Jun",
     "ano": "2024",
     "qtd": 12
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 5
   },
   {
     "municipio": "Serra Grande",
@@ -1032,6 +1056,12 @@
     "qtd": 7
   },
   {
+    "municipio": "Serra Grande",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Mogeiro",
     "mes": "Sep",
     "ano": "2023",
@@ -1089,7 +1119,13 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 13
+    "qtd": 16
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 10
   },
   {
     "municipio": "Campina Grande",
@@ -1830,6 +1866,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Imaculada",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 2
+  },
+  {
     "municipio": "Soledade",
     "mes": "Jul",
     "ano": "2023",
@@ -1880,6 +1922,12 @@
   {
     "municipio": "",
     "mes": "Jun",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
+    "mes": "Jul",
     "ano": "2024",
     "qtd": 1
   },
@@ -1966,6 +2014,12 @@
     "mes": "May",
     "ano": "2023",
     "qtd": 1
+  },
+  {
+    "municipio": "Malta",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 2
   },
   {
     "municipio": "Aguiar",
@@ -2084,6 +2138,12 @@
   {
     "municipio": "Cachoeira dos Índios",
     "mes": "May",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
+    "municipio": "Pocinhos",
+    "mes": "Jul",
     "ano": "2024",
     "qtd": 1
   },
@@ -2475,6 +2535,12 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2024",
-    "qtd": 87
+    "qtd": 92
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jul",
+    "ano": "2024",
+    "qtd": 68
   }
 ]
