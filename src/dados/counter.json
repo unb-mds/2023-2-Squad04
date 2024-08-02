@@ -1128,6 +1128,12 @@
     "qtd": 19
   },
   {
+    "municipio": "Mogeiro",
+    "mes": "Aug",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Campina Grande",
     "mes": "Jul",
     "ano": "2020",
@@ -2548,5 +2554,11 @@
     "mes": "Jul",
     "ano": "2024",
     "qtd": 99
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Aug",
+    "ano": "2024",
+    "qtd": 1
   }
 ]
