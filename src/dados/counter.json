@@ -504,6 +504,12 @@
     "qtd": 11
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Aug",
+    "ano": "2024",
+    "qtd": 2
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -1131,7 +1137,7 @@
     "municipio": "Mogeiro",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Campina Grande",
@@ -2559,6 +2565,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 4
   }
 ]
