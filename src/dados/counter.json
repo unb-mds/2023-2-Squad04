@@ -1149,7 +1149,7 @@
     "municipio": "Mogeiro",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 8
+    "qtd": 9
   },
   {
     "municipio": "Campina Grande",
@@ -2178,6 +2178,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Pocinhos",
+    "mes": "Aug",
+    "ano": "2024",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -2577,6 +2583,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 15
+    "qtd": 17
   }
 ]
