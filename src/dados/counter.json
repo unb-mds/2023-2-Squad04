@@ -381,7 +381,7 @@
     "municipio": "Água Branca",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 12
+    "qtd": 15
   },
   {
     "municipio": "Taperoá",
@@ -2199,7 +2199,7 @@
     "municipio": "Pocinhos",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Todos",
@@ -2601,6 +2601,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2024",
-    "qtd": 48
+    "qtd": 52
   }
 ]
