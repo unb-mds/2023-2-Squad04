@@ -2,7 +2,7 @@ name: Script de download e extração dos Diários Oficiais
 
 on:
   schedule:
-    - cron: '00 11 * * 1-5'
+    - cron: '10 14 * * 1-5'
 
 jobs:
   run_script:
