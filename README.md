@@ -15,7 +15,7 @@
 O projeto "Licitaíba" é uma iniciativa destinada a automatizar a coleta e o acompanhamento de informações relacionadas a licitações públicas no estado da Paraíba, Brasil.
 
 <p align="center">
-  <img src="https://www.estudopratico.com.br/wp-content/uploads/2018/06/bandeira-paraiba-1200x675.jpg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bandeira_da_Para%C3%ADba.svg" alt="Bandeira da Paraíba" width="300" style="display: block; margin: 0 auto;">
   <br>
   Bandeira da Paraíba
 </p>
@@ -47,34 +47,42 @@ cd 2023-2-Squad04/src
 ```
 
 ### 3. 💻 Baixar pdfs de acordo com a última data resgistrada no pdf_downloader_last_date.txt
-Nesse passo, o script de download sempre começa após a data posterior registrada no arquivo txt, ao concluir os downloads, o conteúdo do arquivo é atualizado com a data do último PDF baixado. O script está agendado para rodar às 08:00h., usando o seguinte comando:
+Nesse passo, o script de download sempre começa após a data posterior registrada no arquivo txt, ao concluir os downloads, o conteúdo do arquivo é atualizado com a data do último PDF baixado.Use o seguinte comando:
 ```
 python3 pdf_downloader.py
 ```
 
 ### 4. 📑 Listar o diretório src/pdfs/ e gravar em um txt todos os pdfs baixados
-Essa é a segunda ação programada no repositório que ira ocorrer às 08:10hrs, usando o seguinte comando: 
+Use o seguinte comando: 
 ```
 python3 list_dir.py
 ```
 
 ### 5. 📖 Extração das licitações dos pdfs baixados no passo anterior
-Seguindo a ordem, essa é a terceira ação programada que ocorrerá às 08:20hrs, usando o seguinte comando: 
+Use o seguinte comando: 
 ```
 python3 readpdf.py
 ```
 
-### 6. 🌐 Contar a quantidade de licitações em cada municipio em todo os dados extraídos no arquivo json gerado pelo readpdf
-Quarta ação programada que ocorrerá às 08:30hrs, usando o seguinte comando: 
+### 6. 🧮 Contar a quantidade de licitações em cada municipio em todo os dados extraídos no arquivo json gerado pelo readpdf
+Use o seguinte comando: 
 ```
 python3 counter.py
 ```
 
 ### 7. 🗑️ Remoção dos Pdfs baixados
-Quinto e último comando programado no repositório, que será acionado às 18:30hrs, usando o seguinte comando: 
+Use o seguinte comando: 
 ```
 python3 remove_pdf.py
 ```
+
+### ⚙️ Execução automática via GitHub Actions
+Os passos 3 a 7 são executados automaticamente no repositório. Essa automação garante que o processo de coleta, extração e limpeza dos dados ocorra de forma diária sem intervenção manual, mantendo os dados sempre atualizados com os últimos diários oficiais.
+
+<br>
+
+### 📷 Screenshots
+
 <p align="center">
   <img src="docs/assets/imgs/img_home.png"  width="1000" style="display: block; margin: 0 auto;">
 </p>

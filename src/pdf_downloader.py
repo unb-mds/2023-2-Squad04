@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
 from datetime import datetime, timedelta
+from calendar import monthrange
 
 def obter_ultima_data():
     try:
@@ -36,6 +37,8 @@ def configurar_driver(download_dir=None):
     options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     options.add_argument('--no-sandbox')
+    options.add_argument("--start-maximized")
+
     
     options.add_experimental_option('prefs', {
         "download.default_directory": download_dir,
@@ -74,9 +77,10 @@ def processar_dias(driver, ultima_data, data_atual, months):
             selected_month.click()
 
             inicio_dia = ultima_data.day + 1 if m == start_month_index and y == ultima_data.year else 1
+            dias_no_mes = monthrange(y, m + 1)[1]
 
-            for i in range(inicio_dia, 33):
-                if i > data_atual.day and ultima_data.year == data_atual.year and ultima_data.month == data_atual.month:
+            for i in range(inicio_dia, dias_no_mes + 1):
+                if y == data_atual.year and m + 1 == data_atual.month and i > data_atual.day:
                     break
                 try:
                     day = driver.find_element(By.ID, "calendar_day")
