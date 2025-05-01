@@ -429,7 +429,7 @@
     "municipio": "Água Branca",
     "mes": "Apr",
     "ano": "2025",
-    "qtd": 37
+    "qtd": 40
   },
   {
     "municipio": "Taperoá",
@@ -1407,7 +1407,7 @@
     "municipio": "Mogeiro",
     "mes": "Apr",
     "ano": "2025",
-    "qtd": 19
+    "qtd": 29
   },
   {
     "municipio": "Campina Grande",
@@ -3129,6 +3129,6 @@
     "municipio": "Todos",
     "mes": "Apr",
     "ano": "2025",
-    "qtd": 100
+    "qtd": 113
   }
 ]
