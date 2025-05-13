@@ -981,7 +981,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "May",
     "ano": "2025",
-    "qtd": 8
+    "qtd": 9
   },
   {
     "municipio": "Serra Grande",
@@ -1437,7 +1437,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2025",
-    "qtd": 6
+    "qtd": 7
   },
   {
     "municipio": "Campina Grande",
@@ -2106,6 +2106,12 @@
     "qtd": 3
   },
   {
+    "municipio": "Areia",
+    "mes": "May",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Tavares",
     "mes": "Jun",
     "ano": "2020",
@@ -2619,6 +2625,12 @@
     "municipio": "Cabaceiras",
     "mes": "May",
     "ano": "2024",
+    "qtd": 1
+  },
+  {
+    "municipio": "Cabaceiras",
+    "mes": "May",
+    "ano": "2025",
     "qtd": 1
   },
   {
@@ -3171,6 +3183,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2025",
-    "qtd": 25
+    "qtd": 29
   }
 ]
