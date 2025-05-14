@@ -621,7 +621,7 @@
     "municipio": "Taperoá",
     "mes": "May",
     "ano": "2025",
-    "qtd": 5
+    "qtd": 10
   },
   {
     "municipio": "Patos",
@@ -2568,6 +2568,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Teixeira",
+    "mes": "May",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Juazeirinho",
     "mes": "Jan",
     "ano": "2023",
@@ -2618,6 +2624,12 @@
   {
     "municipio": "Damião",
     "mes": "Feb",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
+    "municipio": "Damião",
+    "mes": "May",
     "ano": "2025",
     "qtd": 1
   },
@@ -3183,6 +3195,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2025",
-    "qtd": 29
+    "qtd": 36
   }
 ]
