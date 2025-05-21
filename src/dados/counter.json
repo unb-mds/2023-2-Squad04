@@ -981,7 +981,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "May",
     "ano": "2025",
-    "qtd": 9
+    "qtd": 14
   },
   {
     "municipio": "Serra Grande",
@@ -1437,7 +1437,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2025",
-    "qtd": 19
+    "qtd": 21
   },
   {
     "municipio": "Campina Grande",
@@ -2007,7 +2007,7 @@
     "municipio": "Mari",
     "mes": "May",
     "ano": "2025",
-    "qtd": 3
+    "qtd": 4
   },
   {
     "municipio": "Pilar",
@@ -3201,6 +3201,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2025",
-    "qtd": 73
+    "qtd": 81
   }
 ]
