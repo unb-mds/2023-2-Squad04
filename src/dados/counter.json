@@ -435,7 +435,7 @@
     "municipio": "Água Branca",
     "mes": "May",
     "ano": "2025",
-    "qtd": 21
+    "qtd": 22
   },
   {
     "municipio": "Taperoá",
@@ -621,7 +621,7 @@
     "municipio": "Taperoá",
     "mes": "May",
     "ano": "2025",
-    "qtd": 22
+    "qtd": 26
   },
   {
     "municipio": "Patos",
@@ -748,6 +748,12 @@
     "mes": "Feb",
     "ano": "2025",
     "qtd": 2
+  },
+  {
+    "municipio": "Patos",
+    "mes": "May",
+    "ano": "2025",
+    "qtd": 1
   },
   {
     "municipio": "Areia de Baraúnas",
@@ -981,7 +987,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "May",
     "ano": "2025",
-    "qtd": 18
+    "qtd": 20
   },
   {
     "municipio": "Serra Grande",
@@ -1437,7 +1443,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2025",
-    "qtd": 24
+    "qtd": 29
   },
   {
     "municipio": "Campina Grande",
@@ -2007,7 +2013,7 @@
     "municipio": "Mari",
     "mes": "May",
     "ano": "2025",
-    "qtd": 4
+    "qtd": 6
   },
   {
     "municipio": "Pilar",
@@ -3207,6 +3213,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2025",
-    "qtd": 107
+    "qtd": 122
   }
 ]
