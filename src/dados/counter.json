@@ -996,6 +996,12 @@
     "qtd": 20
   },
   {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Jun",
+    "ano": "2025",
+    "qtd": 3
+  },
+  {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2019",
@@ -2052,6 +2058,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Pilar",
+    "mes": "Jun",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Juru",
     "mes": "Aug",
     "ano": "2019",
@@ -2126,6 +2138,12 @@
   {
     "municipio": "Areia",
     "mes": "May",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
+    "municipio": "Areia",
+    "mes": "Jun",
     "ano": "2025",
     "qtd": 1
   },
@@ -3231,6 +3249,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 7
+    "qtd": 12
   }
 ]
