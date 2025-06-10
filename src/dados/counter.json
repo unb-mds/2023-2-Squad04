@@ -999,7 +999,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 3
+    "qtd": 4
   },
   {
     "municipio": "Serra Grande",
@@ -2478,6 +2478,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Emas",
+    "mes": "Jun",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -3249,6 +3255,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 12
+    "qtd": 14
   }
 ]
