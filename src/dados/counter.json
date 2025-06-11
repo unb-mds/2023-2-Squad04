@@ -1461,7 +1461,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 4
+    "qtd": 8
   },
   {
     "municipio": "Campina Grande",
@@ -2706,6 +2706,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Monte Horebe",
+    "mes": "Jun",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Cachoeira dos Índios",
     "mes": "May",
     "ano": "2024",
@@ -3255,6 +3261,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 14
+    "qtd": 19
   }
 ]
