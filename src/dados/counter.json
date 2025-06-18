@@ -441,7 +441,7 @@
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 4
   },
   {
     "municipio": "Taperoá",
@@ -1473,7 +1473,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 8
+    "qtd": 11
   },
   {
     "municipio": "Campina Grande",
@@ -2228,6 +2228,12 @@
   {
     "municipio": "Tavares",
     "mes": "Apr",
+    "ano": "2025",
+    "qtd": 2
+  },
+  {
+    "municipio": "Tavares",
+    "mes": "Jun",
     "ano": "2025",
     "qtd": 2
   },
@@ -3279,6 +3285,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 25
+    "qtd": 33
   }
 ]
