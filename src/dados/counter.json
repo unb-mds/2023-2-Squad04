@@ -1968,6 +1968,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Sousa",
+    "mes": "Jun",
+    "ano": "2025",
+    "qtd": 2
+  },
+  {
     "municipio": "Mari",
     "mes": "Sep",
     "ano": "2022",
@@ -3285,6 +3291,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2025",
-    "qtd": 36
+    "qtd": 38
   }
 ]
