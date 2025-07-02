@@ -1476,6 +1476,12 @@
     "qtd": 17
   },
   {
+    "municipio": "Mogeiro",
+    "mes": "Jul",
+    "ano": "2025",
+    "qtd": 4
+  },
+  {
     "municipio": "Campina Grande",
     "mes": "Jul",
     "ano": "2020",
@@ -3292,5 +3298,11 @@
     "mes": "Jun",
     "ano": "2025",
     "qtd": 52
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jul",
+    "ano": "2025",
+    "qtd": 4
   }
 ]
