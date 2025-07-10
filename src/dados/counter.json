@@ -1029,7 +1029,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Serra Grande",
@@ -1371,7 +1371,7 @@
     "municipio": "Serra Grande",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 4
+    "qtd": 5
   },
   {
     "municipio": "Mogeiro",
@@ -2760,6 +2760,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Damião",
+    "mes": "Jul",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Cabaceiras",
     "mes": "May",
     "ano": "2024",
@@ -3345,6 +3351,6 @@
     "municipio": "Todos",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 74
+    "qtd": 77
   }
 ]
