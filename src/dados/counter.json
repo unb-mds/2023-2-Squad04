@@ -1509,7 +1509,7 @@
     "municipio": "Mogeiro",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 11
+    "qtd": 12
   },
   {
     "municipio": "Campina Grande",
@@ -2094,6 +2094,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Mari",
+    "mes": "Jul",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Pilar",
     "mes": "Feb",
     "ano": "2021",
@@ -2498,6 +2504,12 @@
   {
     "municipio": "",
     "mes": "May",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
+    "municipio": "",
+    "mes": "Jul",
     "ano": "2025",
     "qtd": 1
   },
@@ -3351,6 +3363,6 @@
     "municipio": "Todos",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 77
+    "qtd": 80
   }
 ]
