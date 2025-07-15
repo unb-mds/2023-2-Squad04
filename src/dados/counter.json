@@ -447,7 +447,7 @@
     "municipio": "Água Branca",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 49
+    "qtd": 50
   },
   {
     "municipio": "Taperoá",
@@ -645,7 +645,7 @@
     "municipio": "Taperoá",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 5
+    "qtd": 7
   },
   {
     "municipio": "Patos",
@@ -1029,7 +1029,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Serra Grande",
@@ -2214,6 +2214,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Areia",
+    "mes": "Jul",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Tavares",
     "mes": "Jun",
     "ano": "2020",
@@ -3363,6 +3369,6 @@
     "municipio": "Todos",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 81
+    "qtd": 86
   }
 ]
