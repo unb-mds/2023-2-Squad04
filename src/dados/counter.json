@@ -447,7 +447,7 @@
     "municipio": "Água Branca",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 59
+    "qtd": 62
   },
   {
     "municipio": "Taperoá",
@@ -645,7 +645,7 @@
     "municipio": "Taperoá",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 19
+    "qtd": 22
   },
   {
     "municipio": "Patos",
@@ -1029,7 +1029,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 5
+    "qtd": 6
   },
   {
     "municipio": "Serra Grande",
@@ -1371,7 +1371,7 @@
     "municipio": "Serra Grande",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 10
+    "qtd": 12
   },
   {
     "municipio": "Mogeiro",
@@ -1509,7 +1509,7 @@
     "municipio": "Mogeiro",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 19
+    "qtd": 26
   },
   {
     "municipio": "Campina Grande",
@@ -2295,7 +2295,7 @@
     "municipio": "Tavares",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Princesa Isabel",
@@ -3369,6 +3369,6 @@
     "municipio": "Todos",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 122
+    "qtd": 139
   }
 ]
