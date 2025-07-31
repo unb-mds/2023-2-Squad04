@@ -1509,7 +1509,7 @@
     "municipio": "Mogeiro",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 27
+    "qtd": 28
   },
   {
     "municipio": "Campina Grande",
@@ -2904,6 +2904,12 @@
     "qtd": 3
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Jul",
+    "ano": "2025",
+    "qtd": 2
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -3369,6 +3375,6 @@
     "municipio": "Todos",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 162
+    "qtd": 165
   }
 ]
