@@ -1371,7 +1371,7 @@
     "municipio": "Serra Grande",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 12
+    "qtd": 13
   },
   {
     "municipio": "Mogeiro",
@@ -1509,7 +1509,7 @@
     "municipio": "Mogeiro",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 28
+    "qtd": 30
   },
   {
     "municipio": "Campina Grande",
@@ -2097,7 +2097,7 @@
     "municipio": "Mari",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Pilar",
@@ -3375,6 +3375,6 @@
     "municipio": "Todos",
     "mes": "Jul",
     "ano": "2025",
-    "qtd": 165
+    "qtd": 169
   }
 ]
