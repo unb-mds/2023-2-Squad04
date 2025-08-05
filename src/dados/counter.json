@@ -1380,6 +1380,12 @@
     "qtd": 13
   },
   {
+    "municipio": "Serra Grande",
+    "mes": "Aug",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Mogeiro",
     "mes": "Sep",
     "ano": "2023",
@@ -3387,6 +3393,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2025",
-    "qtd": 2
+    "qtd": 3
   }
 ]
