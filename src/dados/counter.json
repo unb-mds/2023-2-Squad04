@@ -2118,6 +2118,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Mari",
+    "mes": "Aug",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Pilar",
     "mes": "Feb",
     "ano": "2021",
@@ -2594,6 +2600,12 @@
   {
     "municipio": "Emas",
     "mes": "Jul",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
+    "municipio": "Emas",
+    "mes": "Aug",
     "ano": "2025",
     "qtd": 1
   },
@@ -3399,6 +3411,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2025",
-    "qtd": 5
+    "qtd": 7
   }
 ]
