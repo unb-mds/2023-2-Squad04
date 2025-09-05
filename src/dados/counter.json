@@ -669,7 +669,7 @@
     "municipio": "Taperoá",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 3
+    "qtd": 6
   },
   {
     "municipio": "Patos",
@@ -2298,6 +2298,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Areia",
+    "mes": "Sep",
+    "ano": "2025",
+    "qtd": 2
+  },
+  {
     "municipio": "Tavares",
     "mes": "Jun",
     "ano": "2020",
@@ -3477,6 +3483,6 @@
     "municipio": "Todos",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 12
+    "qtd": 17
   }
 ]
