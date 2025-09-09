@@ -2610,6 +2610,12 @@
     "qtd": 1
   },
   {
+    "municipio": "",
+    "mes": "Sep",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Emas",
     "mes": "Jul",
     "ano": "2019",
@@ -3489,6 +3495,6 @@
     "municipio": "Todos",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 22
+    "qtd": 23
   }
 ]
