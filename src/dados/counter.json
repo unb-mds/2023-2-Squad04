@@ -669,7 +669,7 @@
     "municipio": "Taperoá",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 8
+    "qtd": 9
   },
   {
     "municipio": "Patos",
@@ -1071,7 +1071,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 3
+    "qtd": 4
   },
   {
     "municipio": "Serra Grande",
@@ -1575,7 +1575,7 @@
     "municipio": "Mogeiro",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 11
+    "qtd": 15
   },
   {
     "municipio": "Campina Grande",
@@ -2436,6 +2436,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Junco do Seridó",
+    "mes": "Sep",
+    "ano": "2025",
+    "qtd": 3
+  },
+  {
     "municipio": "Congo",
     "mes": "Jun",
     "ano": "2023",
@@ -3018,6 +3024,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Sep",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -3495,6 +3507,6 @@
     "municipio": "Todos",
     "mes": "Sep",
     "ano": "2025",
-    "qtd": 48
+    "qtd": 58
   }
 ]
