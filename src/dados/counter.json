@@ -465,7 +465,7 @@
     "municipio": "Água Branca",
     "mes": "Oct",
     "ano": "2025",
-    "qtd": 7
+    "qtd": 8
   },
   {
     "municipio": "Taperoá",
@@ -1449,7 +1449,7 @@
     "municipio": "Serra Grande",
     "mes": "Oct",
     "ano": "2025",
-    "qtd": 3
+    "qtd": 4
   },
   {
     "municipio": "Mogeiro",
@@ -3549,6 +3549,6 @@
     "municipio": "Todos",
     "mes": "Oct",
     "ano": "2025",
-    "qtd": 26
+    "qtd": 28
   }
 ]
