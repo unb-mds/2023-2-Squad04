@@ -684,6 +684,12 @@
     "qtd": 6
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -3568,5 +3574,11 @@
     "mes": "Oct",
     "ano": "2025",
     "qtd": 89
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
   }
 ]
