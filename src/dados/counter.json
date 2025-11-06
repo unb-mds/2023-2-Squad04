@@ -1458,6 +1458,12 @@
     "qtd": 11
   },
   {
+    "municipio": "Serra Grande",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Mogeiro",
     "mes": "Sep",
     "ano": "2023",
@@ -1612,6 +1618,12 @@
     "mes": "Oct",
     "ano": "2025",
     "qtd": 31
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 4
   },
   {
     "municipio": "Campina Grande",
@@ -3579,6 +3591,6 @@
     "municipio": "Todos",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 6
   }
 ]
