@@ -468,6 +468,12 @@
     "qtd": 26
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -2784,6 +2790,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Vista Serrana",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Santana dos Garrotes",
     "mes": "Mar",
     "ano": "2022",
@@ -3591,6 +3603,6 @@
     "municipio": "Todos",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 6
+    "qtd": 8
   }
 ]
