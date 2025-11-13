@@ -693,7 +693,7 @@
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 2
+    "qtd": 5
   },
   {
     "municipio": "Patos",
@@ -1102,6 +1102,12 @@
     "mes": "Oct",
     "ano": "2025",
     "qtd": 8
+  },
+  {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 3
   },
   {
     "municipio": "Serra Grande",
@@ -1629,7 +1635,7 @@
     "municipio": "Mogeiro",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 5
+    "qtd": 8
   },
   {
     "municipio": "Campina Grande",
@@ -2382,6 +2388,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Areia",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Tavares",
     "mes": "Jun",
     "ano": "2020",
@@ -3090,6 +3102,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Coremas",
+    "mes": "Nov",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Sossêgo",
     "mes": "May",
     "ano": "2025",
@@ -3609,6 +3627,6 @@
     "municipio": "Todos",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 17
+    "qtd": 28
   }
 ]
