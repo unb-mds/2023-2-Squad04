@@ -471,7 +471,7 @@
     "municipio": "Água Branca",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 6
+    "qtd": 7
   },
   {
     "municipio": "Taperoá",
@@ -693,7 +693,7 @@
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 5
+    "qtd": 9
   },
   {
     "municipio": "Patos",
@@ -1473,7 +1473,7 @@
     "municipio": "Serra Grande",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Mogeiro",
@@ -3627,6 +3627,6 @@
     "municipio": "Todos",
     "mes": "Nov",
     "ano": "2025",
-    "qtd": 28
+    "qtd": 34
   }
 ]
