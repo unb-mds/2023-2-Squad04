@@ -1980,6 +1980,12 @@
     "qtd": 3
   },
   {
+    "municipio": "Cacimbas",
+    "mes": "Dec",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Olivedos",
     "mes": "Dec",
     "ano": "2021",
@@ -3628,5 +3634,11 @@
     "mes": "Nov",
     "ano": "2025",
     "qtd": 56
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Dec",
+    "ano": "2025",
+    "qtd": 1
   }
 ]
