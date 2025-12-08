@@ -699,7 +699,7 @@
     "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 3
+    "qtd": 5
   },
   {
     "municipio": "Patos",
@@ -1491,7 +1491,7 @@
     "municipio": "Serra Grande",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Mogeiro",
@@ -1659,7 +1659,7 @@
     "municipio": "Mogeiro",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 6
+    "qtd": 10
   },
   {
     "municipio": "Campina Grande",
@@ -3174,6 +3174,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Fagundes",
+    "mes": "Dec",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -3669,6 +3675,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 15
+    "qtd": 23
   }
 ]
