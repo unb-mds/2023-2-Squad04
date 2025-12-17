@@ -705,7 +705,7 @@
     "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 11
+    "qtd": 12
   },
   {
     "municipio": "Patos",
@@ -3192,6 +3192,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Passagem",
+    "mes": "Dec",
+    "ano": "2025",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -3687,6 +3693,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 41
+    "qtd": 43
   }
 ]
