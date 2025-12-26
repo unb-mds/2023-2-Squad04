@@ -1497,7 +1497,7 @@
     "municipio": "Serra Grande",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 8
+    "qtd": 9
   },
   {
     "municipio": "Mogeiro",
@@ -2757,7 +2757,7 @@
     "municipio": "",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Emas",
@@ -3693,6 +3693,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 53
+    "qtd": 55
   }
 ]
