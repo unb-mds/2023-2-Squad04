@@ -705,7 +705,7 @@
     "municipio": "Taperoá",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 12
+    "qtd": 13
   },
   {
     "municipio": "Patos",
@@ -1497,7 +1497,7 @@
     "municipio": "Serra Grande",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 10
+    "qtd": 11
   },
   {
     "municipio": "Mogeiro",
@@ -3693,6 +3693,6 @@
     "municipio": "Todos",
     "mes": "Dec",
     "ano": "2025",
-    "qtd": 64
+    "qtd": 66
   }
 ]
