@@ -1128,6 +1128,12 @@
     "qtd": 5
   },
   {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Jan",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2019",
@@ -1498,6 +1504,12 @@
     "mes": "Dec",
     "ano": "2025",
     "qtd": 13
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Jan",
+    "ano": "2026",
+    "qtd": 2
   },
   {
     "municipio": "Mogeiro",
@@ -1666,6 +1678,12 @@
     "mes": "Dec",
     "ano": "2025",
     "qtd": 19
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Jan",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Campina Grande",
@@ -3694,5 +3712,11 @@
     "mes": "Dec",
     "ano": "2025",
     "qtd": 68
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jan",
+    "ano": "2026",
+    "qtd": 4
   }
 ]
