@@ -717,7 +717,7 @@
     "municipio": "Taperoá",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Patos",
@@ -1143,7 +1143,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 2
+    "qtd": 4
   },
   {
     "municipio": "Serra Grande",
@@ -2325,7 +2325,7 @@
     "municipio": "Mari",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Pilar",
@@ -3735,6 +3735,6 @@
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 53
+    "qtd": 57
   }
 ]
