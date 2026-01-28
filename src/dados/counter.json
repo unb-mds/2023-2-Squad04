@@ -483,7 +483,7 @@
     "municipio": "Água Branca",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 19
+    "qtd": 22
   },
   {
     "municipio": "Taperoá",
@@ -1521,7 +1521,7 @@
     "municipio": "Serra Grande",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 11
+    "qtd": 12
   },
   {
     "municipio": "Mogeiro",
@@ -2578,6 +2578,12 @@
     "mes": "Jan",
     "ano": "2025",
     "qtd": 1
+  },
+  {
+    "municipio": "Princesa Isabel",
+    "mes": "Jan",
+    "ano": "2026",
+    "qtd": 2
   },
   {
     "municipio": "Junco do Seridó",
@@ -3735,6 +3741,6 @@
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2026",
-    "qtd": 57
+    "qtd": 63
   }
 ]
