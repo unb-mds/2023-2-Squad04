@@ -864,6 +864,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Patos",
+    "mes": "Feb",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Areia de Baraúnas",
     "mes": "Feb",
     "ano": "2022",
@@ -1527,7 +1533,7 @@
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Mogeiro",
@@ -3753,6 +3759,6 @@
     "municipio": "Todos",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 3
   }
 ]
