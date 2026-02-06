@@ -486,6 +486,12 @@
     "qtd": 22
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Feb",
+    "ano": "2026",
+    "qtd": 2
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -718,6 +724,12 @@
     "mes": "Jan",
     "ano": "2026",
     "qtd": 5
+  },
+  {
+    "municipio": "Taperoá",
+    "mes": "Feb",
+    "ano": "2026",
+    "qtd": 3
   },
   {
     "municipio": "Patos",
@@ -2224,6 +2236,12 @@
     "mes": "Jun",
     "ano": "2025",
     "qtd": 2
+  },
+  {
+    "municipio": "Sousa",
+    "mes": "Feb",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Mari",
@@ -3759,6 +3777,6 @@
     "municipio": "Todos",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 4
+    "qtd": 10
   }
 ]
