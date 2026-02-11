@@ -729,7 +729,7 @@
     "municipio": "Taperoá",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 7
+    "qtd": 9
   },
   {
     "municipio": "Patos",
@@ -1545,7 +1545,7 @@
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 3
+    "qtd": 4
   },
   {
     "municipio": "Mogeiro",
@@ -1720,6 +1720,12 @@
     "mes": "Jan",
     "ano": "2026",
     "qtd": 17
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Feb",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Campina Grande",
@@ -3777,6 +3783,6 @@
     "municipio": "Todos",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 23
+    "qtd": 27
   }
 ]
