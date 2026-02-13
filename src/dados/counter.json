@@ -1551,7 +1551,7 @@
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 5
+    "qtd": 9
   },
   {
     "municipio": "Mogeiro",
@@ -1731,7 +1731,7 @@
     "municipio": "Mogeiro",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 6
+    "qtd": 7
   },
   {
     "municipio": "Campina Grande",
@@ -3276,6 +3276,12 @@
     "qtd": 2
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Feb",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Fagundes",
     "mes": "Dec",
     "ano": "2025",
@@ -3795,6 +3801,6 @@
     "municipio": "Todos",
     "mes": "Feb",
     "ano": "2026",
-    "qtd": 36
+    "qtd": 42
   }
 ]
