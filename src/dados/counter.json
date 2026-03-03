@@ -492,6 +492,12 @@
     "qtd": 21
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 2
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -730,6 +736,12 @@
     "mes": "Feb",
     "ano": "2026",
     "qtd": 12
+  },
+  {
+    "municipio": "Taperoá",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 2
   },
   {
     "municipio": "Patos",
@@ -1170,6 +1182,12 @@
     "qtd": 12
   },
   {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 9
+  },
+  {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2019",
@@ -1552,6 +1570,12 @@
     "mes": "Feb",
     "ano": "2026",
     "qtd": 14
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Mogeiro",
@@ -3024,6 +3048,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Monteiro",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Cubati",
     "mes": "Dec",
     "ano": "2023",
@@ -3802,5 +3832,11 @@
     "mes": "Feb",
     "ano": "2026",
     "qtd": 77
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 15
   }
 ]
