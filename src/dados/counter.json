@@ -495,7 +495,7 @@
     "municipio": "Água Branca",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 17
+    "qtd": 21
   },
   {
     "municipio": "Taperoá",
@@ -741,7 +741,7 @@
     "municipio": "Taperoá",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Patos",
@@ -1761,7 +1761,7 @@
     "municipio": "Mogeiro",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 2
+    "qtd": 3
   },
   {
     "municipio": "Campina Grande",
@@ -2952,6 +2952,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Emas",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -3849,6 +3855,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 35
+    "qtd": 42
   }
 ]
