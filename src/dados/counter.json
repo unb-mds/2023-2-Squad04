@@ -1761,7 +1761,7 @@
     "municipio": "Mogeiro",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 9
+    "qtd": 12
   },
   {
     "municipio": "Campina Grande",
@@ -2398,6 +2398,12 @@
     "mes": "Jan",
     "ano": "2026",
     "qtd": 3
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Pilar",
@@ -3855,6 +3861,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 80
+    "qtd": 84
   }
 ]
