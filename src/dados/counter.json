@@ -495,7 +495,7 @@
     "municipio": "Água Branca",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 43
+    "qtd": 46
   },
   {
     "municipio": "Taperoá",
@@ -2403,7 +2403,7 @@
     "municipio": "Mari",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Pilar",
@@ -2961,7 +2961,7 @@
     "municipio": "Emas",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Itaporanga",
@@ -3861,6 +3861,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 84
+    "qtd": 89
   }
 ]
