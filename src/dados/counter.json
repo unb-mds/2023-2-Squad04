@@ -1575,7 +1575,7 @@
     "municipio": "Serra Grande",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 10
+    "qtd": 12
   },
   {
     "municipio": "Mogeiro",
@@ -2440,6 +2440,12 @@
     "mes": "Jun",
     "ano": "2025",
     "qtd": 1
+  },
+  {
+    "municipio": "Pilar",
+    "mes": "Mar",
+    "ano": "2026",
+    "qtd": 2
   },
   {
     "municipio": "Juru",
@@ -3867,6 +3873,6 @@
     "municipio": "Todos",
     "mes": "Mar",
     "ano": "2026",
-    "qtd": 139
+    "qtd": 143
   }
 ]
