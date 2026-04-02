@@ -498,6 +498,12 @@
     "qtd": 69
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 5
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -742,6 +748,12 @@
     "mes": "Mar",
     "ano": "2026",
     "qtd": 22
+  },
+  {
+    "municipio": "Taperoá",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 2
   },
   {
     "municipio": "Patos",
@@ -1576,6 +1588,12 @@
     "mes": "Mar",
     "ano": "2026",
     "qtd": 12
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Mogeiro",
@@ -2410,6 +2428,12 @@
     "mes": "Mar",
     "ano": "2026",
     "qtd": 2
+  },
+  {
+    "municipio": "Mari",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Pilar",
@@ -3348,6 +3372,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Fagundes",
     "mes": "Dec",
     "ano": "2025",
@@ -3874,5 +3904,11 @@
     "mes": "Mar",
     "ano": "2026",
     "qtd": 143
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 10
   }
 ]
