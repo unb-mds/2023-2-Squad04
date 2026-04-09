@@ -501,7 +501,7 @@
     "municipio": "Água Branca",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 5
+    "qtd": 7
   },
   {
     "municipio": "Taperoá",
@@ -1203,7 +1203,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 3
+    "qtd": 7
   },
   {
     "municipio": "Serra Grande",
@@ -1599,7 +1599,7 @@
     "municipio": "Serra Grande",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 3
   },
   {
     "municipio": "Mogeiro",
@@ -3921,6 +3921,6 @@
     "municipio": "Todos",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 16
+    "qtd": 24
   }
 ]
