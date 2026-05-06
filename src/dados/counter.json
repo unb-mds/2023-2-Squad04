@@ -753,7 +753,13 @@
     "municipio": "Taperoá",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 8
+    "qtd": 11
+  },
+  {
+    "municipio": "Taperoá",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 5
   },
   {
     "municipio": "Patos",
@@ -1206,6 +1212,12 @@
     "qtd": 15
   },
   {
+    "municipio": "Areia de Baraúnas",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2019",
@@ -1600,6 +1612,12 @@
     "mes": "Apr",
     "ano": "2026",
     "qtd": 12
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 2
   },
   {
     "municipio": "Mogeiro",
@@ -1791,7 +1809,13 @@
     "municipio": "Mogeiro",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 26
+    "qtd": 28
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Campina Grande",
@@ -2934,6 +2958,12 @@
     "qtd": 1
   },
   {
+    "municipio": "",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Emas",
     "mes": "Jul",
     "ano": "2019",
@@ -3021,6 +3051,12 @@
     "municipio": "Puxinanã",
     "mes": "Apr",
     "ano": "2023",
+    "qtd": 1
+  },
+  {
+    "municipio": "Puxinanã",
+    "mes": "Apr",
+    "ano": "2026",
     "qtd": 1
   },
   {
@@ -3238,6 +3274,12 @@
     "mes": "May",
     "ano": "2025",
     "qtd": 4
+  },
+  {
+    "municipio": "Cabaceiras",
+    "mes": "Apr",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "São Mamede",
@@ -3927,6 +3969,12 @@
     "municipio": "Todos",
     "mes": "Apr",
     "ano": "2026",
-    "qtd": 105
+    "qtd": 112
+  },
+  {
+    "municipio": "Todos",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 10
   }
 ]
