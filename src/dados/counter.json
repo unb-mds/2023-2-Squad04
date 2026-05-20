@@ -1623,7 +1623,7 @@
     "municipio": "Serra Grande",
     "mes": "May",
     "ano": "2026",
-    "qtd": 3
+    "qtd": 4
   },
   {
     "municipio": "Mogeiro",
@@ -1821,7 +1821,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2026",
-    "qtd": 8
+    "qtd": 9
   },
   {
     "municipio": "Campina Grande",
@@ -2848,6 +2848,12 @@
     "mes": "Jul",
     "ano": "2024",
     "qtd": 2
+  },
+  {
+    "municipio": "Imaculada",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Soledade",
@@ -3987,6 +3993,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2026",
-    "qtd": 43
+    "qtd": 46
   }
 ]
