@@ -1623,7 +1623,7 @@
     "municipio": "Serra Grande",
     "mes": "May",
     "ano": "2026",
-    "qtd": 4
+    "qtd": 6
   },
   {
     "municipio": "Mogeiro",
@@ -1821,7 +1821,7 @@
     "municipio": "Mogeiro",
     "mes": "May",
     "ano": "2026",
-    "qtd": 14
+    "qtd": 15
   },
   {
     "municipio": "Campina Grande",
@@ -3054,6 +3054,12 @@
     "qtd": 3
   },
   {
+    "municipio": "Emas",
+    "mes": "May",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -3993,6 +3999,6 @@
     "municipio": "Todos",
     "mes": "May",
     "ano": "2026",
-    "qtd": 58
+    "qtd": 62
   }
 ]
