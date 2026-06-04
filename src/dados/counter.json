@@ -510,6 +510,12 @@
     "qtd": 32
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 3
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -1224,6 +1230,12 @@
     "qtd": 7
   },
   {
+    "municipio": "Areia de Baraúnas",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 2
+  },
+  {
     "municipio": "Serra Grande",
     "mes": "Feb",
     "ano": "2019",
@@ -1624,6 +1636,12 @@
     "mes": "May",
     "ano": "2026",
     "qtd": 7
+  },
+  {
+    "municipio": "Serra Grande",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Mogeiro",
@@ -1822,6 +1840,12 @@
     "mes": "May",
     "ano": "2026",
     "qtd": 16
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 5
   },
   {
     "municipio": "Campina Grande",
@@ -4000,5 +4024,11 @@
     "mes": "May",
     "ano": "2026",
     "qtd": 80
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 11
   }
 ]
