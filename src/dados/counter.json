@@ -774,6 +774,12 @@
     "qtd": 14
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -1845,7 +1851,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 5
+    "qtd": 6
   },
   {
     "municipio": "Campina Grande",
@@ -3498,6 +3504,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Aroeiras",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -4029,6 +4041,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 11
+    "qtd": 14
   }
 ]
