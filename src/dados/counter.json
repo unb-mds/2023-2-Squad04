@@ -513,7 +513,7 @@
     "municipio": "Água Branca",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 7
+    "qtd": 12
   },
   {
     "municipio": "Taperoá",
@@ -777,7 +777,7 @@
     "municipio": "Taperoá",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 4
   },
   {
     "municipio": "Patos",
@@ -926,6 +926,12 @@
   {
     "municipio": "Patos",
     "mes": "Feb",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
+    "municipio": "Patos",
+    "mes": "Jun",
     "ano": "2026",
     "qtd": 1
   },
@@ -1239,7 +1245,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 5
+    "qtd": 6
   },
   {
     "municipio": "Serra Grande",
@@ -1647,7 +1653,7 @@
     "municipio": "Serra Grande",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 4
   },
   {
     "municipio": "Mogeiro",
@@ -1851,7 +1857,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 6
+    "qtd": 11
   },
   {
     "municipio": "Campina Grande",
@@ -3090,6 +3096,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Emas",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Itaporanga",
     "mes": "Jul",
     "ano": "2021",
@@ -4041,6 +4053,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 21
+    "qtd": 40
   }
 ]
