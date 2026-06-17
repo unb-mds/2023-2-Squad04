@@ -1857,7 +1857,7 @@
     "municipio": "Mogeiro",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 11
+    "qtd": 18
   },
   {
     "municipio": "Campina Grande",
@@ -3504,6 +3504,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Jun",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Fagundes",
     "mes": "Dec",
     "ano": "2025",
@@ -4053,6 +4059,6 @@
     "municipio": "Todos",
     "mes": "Jun",
     "ano": "2026",
-    "qtd": 40
+    "qtd": 48
   }
 ]
