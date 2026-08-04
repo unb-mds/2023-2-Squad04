@@ -522,6 +522,12 @@
     "qtd": 49
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Aug",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -790,6 +796,12 @@
     "mes": "Jul",
     "ano": "2026",
     "qtd": 17
+  },
+  {
+    "municipio": "Taperoá",
+    "mes": "Aug",
+    "ano": "2026",
+    "qtd": 1
   },
   {
     "municipio": "Patos",
@@ -4114,5 +4126,11 @@
     "mes": "Jul",
     "ano": "2026",
     "qtd": 110
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Aug",
+    "ano": "2026",
+    "qtd": 2
   }
 ]
