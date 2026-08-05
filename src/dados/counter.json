@@ -525,7 +525,7 @@
     "municipio": "Água Branca",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 3
   },
   {
     "municipio": "Taperoá",
@@ -1900,6 +1900,12 @@
     "mes": "Jul",
     "ano": "2026",
     "qtd": 28
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Aug",
+    "ano": "2026",
+    "qtd": 3
   },
   {
     "municipio": "Campina Grande",
@@ -3564,6 +3570,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Aug",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Fagundes",
     "mes": "Dec",
     "ano": "2025",
@@ -4131,6 +4143,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 2
+    "qtd": 8
   }
 ]
