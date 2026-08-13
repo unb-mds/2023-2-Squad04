@@ -801,7 +801,7 @@
     "municipio": "Taperoá",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 7
+    "qtd": 10
   },
   {
     "municipio": "Patos",
@@ -1917,7 +1917,7 @@
     "municipio": "Mogeiro",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 9
+    "qtd": 10
   },
   {
     "municipio": "Campina Grande",
@@ -4155,6 +4155,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 29
+    "qtd": 33
   }
 ]
