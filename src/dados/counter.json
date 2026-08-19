@@ -1281,7 +1281,7 @@
     "municipio": "Areia de Baraúnas",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 1
+    "qtd": 2
   },
   {
     "municipio": "Serra Grande",
@@ -1917,7 +1917,7 @@
     "municipio": "Mogeiro",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 10
+    "qtd": 18
   },
   {
     "municipio": "Campina Grande",
@@ -4155,6 +4155,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 33
+    "qtd": 42
   }
 ]
