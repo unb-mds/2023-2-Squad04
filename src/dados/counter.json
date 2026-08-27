@@ -801,7 +801,7 @@
     "municipio": "Taperoá",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 10
+    "qtd": 11
   },
   {
     "municipio": "Patos",
@@ -3612,6 +3612,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Aroeiras",
+    "mes": "Aug",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Todos",
     "mes": "Jan",
     "ano": "2019",
@@ -4155,6 +4161,6 @@
     "municipio": "Todos",
     "mes": "Aug",
     "ano": "2026",
-    "qtd": 51
+    "qtd": 53
   }
 ]
