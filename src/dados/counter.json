@@ -528,6 +528,12 @@
     "qtd": 15
   },
   {
+    "municipio": "Água Branca",
+    "mes": "Sep",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Taperoá",
     "mes": "Nov",
     "ano": "2022",
@@ -1918,6 +1924,12 @@
     "mes": "Aug",
     "ano": "2026",
     "qtd": 26
+  },
+  {
+    "municipio": "Mogeiro",
+    "mes": "Sep",
+    "ano": "2026",
+    "qtd": 5
   },
   {
     "municipio": "Campina Grande",
@@ -4162,5 +4174,11 @@
     "mes": "Aug",
     "ano": "2026",
     "qtd": 63
+  },
+  {
+    "municipio": "Todos",
+    "mes": "Sep",
+    "ano": "2026",
+    "qtd": 6
   }
 ]
