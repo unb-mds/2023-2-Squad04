@@ -3624,6 +3624,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Sossêgo",
+    "mes": "Sep",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Fagundes",
     "mes": "Dec",
     "ano": "2025",
@@ -4203,6 +4209,6 @@
     "municipio": "Todos",
     "mes": "Sep",
     "ano": "2026",
-    "qtd": 37
+    "qtd": 38
   }
 ]
