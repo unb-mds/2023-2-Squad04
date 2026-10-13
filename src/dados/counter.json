@@ -822,6 +822,12 @@
     "qtd": 6
   },
   {
+    "municipio": "Taperoá",
+    "mes": "Oct",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Patos",
     "mes": "Aug",
     "ano": "2019",
@@ -3570,6 +3576,12 @@
     "qtd": 1
   },
   {
+    "municipio": "Cajazeiras",
+    "mes": "Oct",
+    "ano": "2026",
+    "qtd": 1
+  },
+  {
     "municipio": "Montadas",
     "mes": "Mar",
     "ano": "2025",
@@ -4257,6 +4269,6 @@
     "municipio": "Todos",
     "mes": "Oct",
     "ano": "2026",
-    "qtd": 13
+    "qtd": 15
   }
 ]
